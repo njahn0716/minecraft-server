@@ -1,709 +1,1582 @@
-[00:26:00] [Server thread/INFO]: Time_origin[/110.76.126.190:51762] logged in with entity id 89509 at ([world]102.3318316742675, 78.0, 252.69000236171036)
-[00:26:45] [Server thread/INFO]: topology[/210.117.73.64:18592] logged in with entity id 91469 at ([world]117.56495014571534, 69.0, 272.23776680366694)
-[00:26:49] [Netty Server IO #0/INFO]: <Time_origin> ㅎㅇㅎㅇ[m
-[00:26:51] [Netty Server IO #3/INFO]: <topology> ㅎㅇㅎㅇ[m
-[00:26:58] [Netty Server IO #3/INFO]: <topology> ㅊㅏㅁㄴㅏㅁㅜㄱㅏ ㅊㅏㅁ ㅂㅜㅈㅗㄱㅎㅐ[m
-[00:26:58] [Netty Server IO #3/INFO]: <topology> ㅠㅠㅠ[m
-[00:27:02] [Netty Server IO #0/INFO]: <Time_origin> ㅠㅠㅠㅠ[m
-[00:27:05] [Netty Server IO #0/INFO]: <Time_origin> 내가 갖다 줄게[m
-[00:27:07] [Netty Server IO #3/INFO]: <topology> ㅇㅗㅇㅗㅇㅗ[m
-[00:28:06] [Netty Server IO #3/INFO]: <topology> ㅁㅜㅓㄱㅏ ㅇㅣㄹㅋㅔ ㅁㅏㄴㅎㅇㅏㅋㅋㅋㅋㅋ[m
-[00:28:18] [Netty Server IO #0/INFO]: <Time_origin> 승우오빠 일은 상다이 마음에 아픈걸[m
-[00:28:18] [Netty Server IO #0/INFO]: <Time_origin> 머가 ㅎㅎ[m
-[00:28:25] [Netty Server IO #3/INFO]: <topology> ㅊㅔㅅㅡㅌㅡㅇㅔ ㄴㅓㅎㅇㅡㄴㄱㅓ[m
-[00:28:26] [Netty Server IO #3/INFO]: <topology> ㅁㅏㅈㅇㅏ[m
-[00:28:27] [Netty Server IO #3/INFO]: <topology> ㅠㅠ[m
-[00:28:37] [Netty Server IO #3/INFO]: <topology> ㄴㅐㄱㅏ ㄱㅡㄹㅓㄴ ㅇㅣㄹㅇㅡㄹ ㄷㅏㅇㅎㅐㅆㄷㅏㅁㅕㄴ[m
-[00:28:39] [Netty Server IO #3/INFO]: <topology> ㅎㅗㅏㄴㅈㅏㅇㅎㅐㅆㅇㅡㄹㅌㅔㄴㄷㅔ[m
-[00:28:49] [Netty Server IO #0/INFO]: <Time_origin> 집에 먹을게 있나?[m
-[00:28:57] [Server thread/WARN]: Time_origin moved too quickly! -3.0386652589012755,-1.0784000015258783,11.228434409165857
-[00:28:57] [Netty Server IO #3/INFO]: <topology> ㅅㅗㄴㅡㄴ ㅁㅏㄴㅎㅇㅡㄴㄷㅔ[m
-[00:28:59] [Netty Server IO #3/INFO]: <topology> ㅋㅋㅋㅋㅋ[m
-[00:29:09] [Netty Server IO #3/INFO]: <topology> ㅁㅜㄴㅈㅔㄴㅡㄴ ㅅㅓㄱㅌㅏㄴㄷㅗ ㅇㅓㅂㅅㅇㅓ[m
-[00:29:23] [Netty Server IO #0/INFO]: <Time_origin> t와 렉 대박[m
-[00:29:23] [Server thread/WARN]: Time_origin moved too quickly! -9.17511980375653,-4.0,0.4344218447052981
-[00:29:23] [Netty Server IO #0/INFO]: <Time_origin> 음...[m
-[00:29:32] [Netty Server IO #0/INFO]: <Time_origin> 계단을 벗어날수가 없네[m
-[00:29:37] [Netty Server IO #3/INFO]: <topology> ㅋㅋㅋㅋㅋㅠㅠㅠㅠ[m
-[00:29:43] [Netty Server IO #0/INFO]: <Time_origin> 소때문이 분명하다[m
-[00:29:46] [Netty Server IO #0/INFO]: <Time_origin> 다 없애버려야지[m
-[00:29:48] [Netty Server IO #3/INFO]: <topology> ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ[m
-[00:29:57] [Netty Server IO #0/INFO]: <Time_origin> ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ[m
-[00:30:07] [Netty Server IO #0/INFO]: <Time_origin> 남조가 감자밭을 다 밀밭ㅌ으로 만들어놨어[m
-[00:30:14] [Netty Server IO #0/INFO]: <Time_origin> 목적이 너무 분명한데[m
-[00:30:14] [Netty Server IO #3/INFO]: <topology> ㄷㄷㄷㄷ[m
-[00:30:21] [Netty Server IO #3/INFO]: <topology> ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ[m
-[00:32:29] [Server thread/INFO]: [Server] ?????
-[00:32:33] [Netty Server IO #0/INFO]: <Time_origin> ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ[m
-[00:32:40] [Netty Server IO #0/INFO]: <Time_origin> 남조한테 소잡는거 들킴;[m
-[00:33:01] [Netty Server IO #0/INFO]: <Time_origin> 약탈 칼 만들어서 잡아야겠다[m
-[00:33:07] [Server thread/INFO]: [Server] ????????????????????????????????????
-[00:33:13] [Server thread/INFO]: namjo[/192.168.0.6:49165] logged in with entity id 104731 at ([world]100.06025734558497, 71.0, 253.97987335169813)
-[00:33:15] [Netty Server IO #0/INFO]: <Time_origin> ㄷㄷㄷ[m
-[00:33:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2573ms behind, skipping 51 tick(s)
-[00:33:20] [Netty Server IO #0/INFO]: <Time_origin> 남조를 불러들일정도나[m
-[00:33:28] [Netty Server IO #4/INFO]: <namjo> ㅁㅜㅓㅇㅑ[m
-[00:33:29] [Netty Server IO #0/INFO]: <Time_origin> 남조 ㅎㅇ[m
-[00:33:29] [Netty Server IO #4/INFO]: <namjo> ㅁㅜㅓㅇㅑ[m
-[00:33:31] [Netty Server IO #4/INFO]: <namjo> ㅁㅜㅓㅇㅑ[m
-[00:33:32] [Netty Server IO #3/INFO]: <topology> ㅎㅎ[m
-[00:33:35] [Netty Server IO #3/INFO]: <topology> ㄲㅜㄹㅈㅐㅁ[m
-[00:33:35] [Netty Server IO #0/INFO]: <Time_origin> ??[m
-[00:33:36] [Netty Server IO #0/INFO]: <Time_origin> 왜[m
-[00:33:46] [Netty Server IO #4/INFO]: <namjo> ㄴㅓㄱㅏ[m
-[00:33:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 11925ms behind, skipping 238 tick(s)
-[00:33:48] [Netty Server IO #4/INFO]: <namjo> ㄴㅐ ㅅㅗㄹㅡㄹ[m
-[00:33:50] [Netty Server IO #4/INFO]: <namjo> ㅈㅏㅂㅇㅏㅆㄱㅔㅆㄷㅏ?[m
-[00:33:54] [Netty Server IO #0/INFO]: <Time_origin> ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ[m
-[00:33:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2773ms behind, skipping 55 tick(s)
-[00:33:55] [Netty Server IO #4/INFO]: <namjo> ㄱㅏㅁㅈㅏㅇㅡㅣ ㅆㅣㄹㅡㄹ ㅁㅏㄹㄹㅕㅈㅜㅈㅣ[m
-[00:33:56] [Netty Server IO #0/INFO]: <Time_origin> 아[m
-[00:34:02] [Netty Server IO #0/INFO]: <Time_origin> 남조 졸귀 ㅠㅠㅠㅠ[m
-[00:34:05] [Netty Server IO #0/INFO]: <Time_origin> 엇[m
-[00:34:08] [Netty Server IO #0/INFO]: <Time_origin> ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ[m
-[00:34:14] [Netty Server IO #0/INFO]: <Time_origin> 이미 ㄱ말라가고는데 ㅠㅠ[m
-[00:34:18] [Netty Server IO #4/INFO]: <namjo> ?????[m
-[00:34:22] [Netty Server IO #4/INFO]: <namjo> ㄴㅏ ㅎㅗㅏㄱㅈㅏㅇㅎㅏㄴㄱㅓㅂㅏㄲㅇㅔ ㅇㅓㅂㅅㅇㅡㅁ[m
-[00:34:27] [Netty Server IO #3/INFO]: <topology> ㄱㅐㅇㅜㅅㄱㅣㄴㅔㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ[m
-[00:34:35] [Netty Server IO #4/INFO]: <namjo> ㅁㅣㅊㅣㄴ[m
-[00:34:37] [Netty Server IO #4/INFO]: <namjo> ㅅㅗ ㅈㄴ ㅁㅏㄴㅎㅇㅏ[m
-[00:34:39] [Netty Server IO #0/INFO]: <Time_origin> 감자가 두ㄹ줄밖에 없는데?[m
-[00:34:42] [Netty Server IO #4/INFO]: <namjo> ㅈㅗㅁ ㅈㅜㄱㅇㅣㄹ ㅍㅣㄹㅇㅛㄱㅏ ㅇㅣㅆㄷㅏ[m
-[00:34:43] [Netty Server IO #4/INFO]: <namjo> ????????[m
-[00:34:50] [Netty Server IO #4/INFO]: <namjo> ㄴㅏ ㅇㅣㅆㄴㅡㄴ ㄱㅏㅁㅈㅏㄹㅡㄹ ㅈㅣㅇㅜㄱㅗ ㅁㅣㄹㅇㅡㄹ ㄲㅏㄹㅈㅣㄴ ㅇㅏㄴㅎㅇㅏ[m
-[00:34:56] [Netty Server IO #4/INFO]: <namjo> ㄹㅔㄱ ㅈㅗㅁ ㅅㅣㅁㅎㅏㄷㅏ[m
-[00:34:59] [Netty Server IO #4/INFO]: <namjo> ㅅㅗ ㅈㅜㄱㅇㅣㄹㅅㅏㄹㅏㅁ?[m
-[00:35:03] [Netty Server IO #0/INFO]: <Time_origin> 나나[m
-[00:35:07] [Netty Server IO #4/INFO]: <namjo> ㅋㅓㅁ[m
-[00:35:10] [Netty Server IO #0/INFO]: <Time_origin> 레벨 1만 늘려서[m
-[00:35:14] [Netty Server IO #0/INFO]: <Time_origin> 약탈 되는지 보고[m
-[00:35:33] [Netty Server IO #0/INFO]: <Time_origin> 아까 렉때문에[m
-[00:35:39] [Netty Server IO #0/INFO]: <Time_origin> 집ㄴ에서 벗어나질 못해서[m
-[00:35:41] [Netty Server IO #0/INFO]: <Time_origin> 죽이려고지 ㅎㅎ[m
-[00:35:45] [Netty Server IO #4/INFO]: <namjo> ㅇㅣㄹㄹㅗㅇㅗㅏㅂㅗㅏ[m
-[00:36:00] [Netty Server IO #0/INFO]: <Time_origin> ㅋㅋㅋㅋㅋㅋㅋㅋ[m
-[00:36:04] [Netty Server IO #0/INFO]: <Time_origin> 발화 칼있네[m
-[00:36:06] [Netty Server IO #4/INFO]: <namjo> ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ[m
-[00:36:08] [Netty Server IO #4/INFO]: <namjo> ㅂㅏㄹㅎㅗㅏ ㅎㅗㅏㄹㅇㅣㅁ[m
-[00:36:14] [Netty Server IO #0/INFO]: <Time_origin> 아니[m
-[00:36:14] [Netty Server IO #0/INFO]: <Time_origin> 활이군[m
-[00:36:24] [Netty Server IO #0/INFO]: <Time_origin> ㅠㅠ[m
-[00:36:38] [Netty Server IO #0/INFO]: <Time_origin> 앗[m
-[00:36:44] [Netty Server IO #0/INFO]: <Time_origin> 경험치 먹네[m
-[00:37:01] [Netty Server IO #0/INFO]: <Time_origin> 냠냠[m
-[00:37:13] [Netty Server IO #4/INFO]: <namjo> ㄹㅔㅂㅔㄹㅇㅓㅂ ㅋㅋㅋ[m
-[00:37:14] [Netty Server IO #0/INFO]: <Time_origin> 굽지 않아도 된다니 훌륭하군[m
-[00:37:14] [Netty Server IO #4/INFO]: <namjo> ㅈㅏㅈㅏ[m
-[00:37:24] [Netty Server IO #0/INFO]: <Time_origin> ㅋㅋㅋㅋㅋ[m
-[00:37:29] [Netty Server IO #0/INFO]: <Time_origin> ㄱ 만 쏴[m
-[00:38:00] [Netty Server IO #0/INFO]: <Time_origin> 자자더니[m
-[00:38:02] [Netty Server IO #0/INFO]: <Time_origin> ㅋㅋㅋ[m
-[00:38:12] [Netty Server IO #4/INFO]: <namjo> ㅈㅏㅈㅏㅈㅏㅈㅏ[m
-[00:38:18] [Netty Server IO #0/INFO]: <Time_origin> 나 밖에서 자고있음[m
-[00:38:20] [Netty Server IO #4/INFO]: <namjo> ㅇㅎ[m
-[00:38:22] [Netty Server IO #0/INFO]: <Time_origin> ㅈㅈ[m
-[00:38:23] [Netty Server IO #4/INFO]: <namjo> ㅈㅜㄴㅎㅕㅇ?[m
-[00:38:26] [Netty Server IO #4/INFO]: <namjo> ㅈㅜㄴㅎㅕㅇㅓㅇ?[m
-[00:38:29] [Netty Server IO #0/INFO]: <Time_origin> ㅇㄴ[m
-[00:38:33] [Server thread/INFO]: topology lost connection: Kicked by an operator.
-[00:38:33] [Server thread/INFO]: topology left the game
-[00:38:33] [Server thread/INFO]: Kicked topology from the game
-[00:38:38] [Netty Server IO #4/INFO]: <namjo> ㅃㅏㄹㅡㄴ ㅋㅣㄱ[m
-[00:38:40] [Netty Server IO #0/INFO]: <Time_origin> ;[m
-[00:38:49] [Netty Server IO #4/INFO]: <namjo> ㅇㅏㄴㅈㅏㄱㅗ ㅁㅜㅓㅎㅐㅆㅇㅓ[m
-[00:38:50] [Netty Server IO #4/INFO]: <namjo> ㅠㅠ[m
-[00:39:10] [Server thread/INFO]: topology[/210.117.73.64:18609] logged in with entity id 115022 at ([world]89.44149190968601, 78.05057647189082, 263.6327795194268)
-[00:39:14] [Netty Server IO #5/INFO]: <topology> ㄱㅏㅂㅈㅏㄱㅣ ㅋㅓㅁㅍㅠㅌㅓㄱㅏ[m
-[00:39:16] [Netty Server IO #5/INFO]: <topology> ㅁㅏㅅㅌㅐㅇㅇㅣㄱㅏ ㄱㅏㅁ[m
-[00:39:20] [Netty Server IO #5/INFO]: <topology> ㅈㅅ[m
-[00:39:42] [Netty Server IO #0/INFO]: <Time_origin> 무너지 보르지만 렉이 아주 제대로네[m
-[00:40:02] [Netty Server IO #5/INFO]: <topology> ㅇㅑ[m
-[00:40:04] [Netty Server IO #5/INFO]: <topology> ㅇㅗㅐ ㅈㅣㅂㅇㅔ[m
-[00:40:05] [Netty Server IO #5/INFO]: <topology> ㅋㅡㄹㅣㅍㅓㄱㅏ[m
-[00:40:10] [Netty Server IO #4/INFO]: <namjo> ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ[m
-[00:40:13] [Netty Server IO #0/INFO]: <Time_origin> 후..[m
-[00:40:13] [Netty Server IO #4/INFO]: <namjo> ㅌㅓㅈㅣㄴㅡㄴ ㅅㅗㄹㅣ ㄷㅡㄹㄹㅕㅆㄷㅏ[m
-[00:40:17] [Netty Server IO #5/INFO]: <topology> ㄱㅡㄱㅓ ㅇㅏㄴㅣㅁ[m
-[00:40:24] [Netty Server IO #4/INFO]: <namjo> ㅎㅕㄴㅇㅣㄱㅏ?[m
-[00:41:24] [Netty Server IO #0/INFO]: <Time_origin> 렉 이거 진짜 소때문?[m
-[00:41:33] [Netty Server IO #0/INFO]: <Time_origin> 크리퍼가 순강ㅎ이동해서 터지는데 ㅠㅠ[m
-[00:41:36] [Netty Server IO #4/INFO]: <namjo> ㄷㄷ[m
-[00:41:57] [Netty Server IO #5/INFO]: <topology> ㅅㅗㄹㅡㄹ ㅈㅏㅂㅈㅏ[m
-[00:42:11] [Netty Server IO #5/INFO]: <topology> ㅋㅋㅋㅋㅋㅋ[m
-[00:42:15] [Netty Server IO #5/INFO]: <topology> ㄴㅗㅇㅈㅏㅇㅇㅔㅅㅓ ㅂㅜㄹㄱㅣㄹㅇㅣ...[m
-[00:42:22] [Netty Server IO #0/INFO]: <Time_origin> ㅋㅋㅋㅋ[m
-[00:42:31] [Netty Server IO #5/INFO]: <topology> ㅁㅊ[m
-[00:42:38] [Netty Server IO #4/INFO]: <namjo> ㅈㅜㄱㅇㅣㄱㅗ ㅈㅜㄱㅇㅕㄷㅗ[m
-[00:42:40] [Netty Server IO #4/INFO]: <namjo> ㄲㅡㅌㅇㅣ ㅇㅓㅂㅅㄷㅏ[m
-[00:42:49] [Netty Server IO #0/INFO]: <Time_origin> 효율도끼를 만들자[m
-[00:43:16] [Netty Server IO #0/INFO]: <Time_origin> 활에도 약탈 붙나?[m
-[00:43:21] [Netty Server IO #5/INFO]: <topology> ㄴㄴ[m
-[00:43:39] [Netty Server IO #5/INFO]: <topology> ㅇㅗㅏㅈㅣㄴㅉㅏ ㅇㅗㅐㅇㅣㄹㅓㅎㄱㅔ ㅁㅏㄴㅎㄴㅑㅋㅋㅋㅋㅋㅋ[m
-[00:43:52] [Server thread/WARN]: Time_origin moved too quickly! 9.742081700621938,1.0,-9.436450378137636
-[00:43:52] [Netty Server IO #4/INFO]: <namjo> ㅇㅣㅈㅔ ㄱㅡㅁㅏㄴ ㅈㅜㄱㅇㅣㅈㅏ ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ[m
-[00:44:06] [Netty Server IO #5/INFO]: <topology> ㅇㅗㅏ[m
-[00:44:08] [Netty Server IO #4/INFO]: <namjo> ㄱㅗㄱㅣㄱㅏ 240ㄱㅐㅇㅑ[m
-[00:44:09] [Netty Server IO #5/INFO]: <topology> ㅅㅗ ㄷㅗㅊㅜㄱㅎㅏㄱㅗ ㄴㅏㅆㄷㅓㄴㅣ ㄷㅗㄲㅣㄱㅏ ㅅㅏㄹㅏㅈㅕㅆㅇㅓ[m
-[00:44:16] [Netty Server IO #0/INFO]: <Time_origin> ㅋㅋㅋㅋㅋㅋㅋㅋ[m
-[00:44:22] [Netty Server IO #4/INFO]: <namjo> ㄱㅗㄱㅣㄱㅏ[m
-[00:44:24] [Netty Server IO #4/INFO]: <namjo> 240ㄱㅐㅇㅑ[m
-[00:44:25] [Netty Server IO #4/INFO]: <namjo> 240...[m
-[00:44:28] [Netty Server IO #5/INFO]: <topology> ㄴㅏㄷㅗ 47ㄱㅐ[m
-[00:44:30] [Netty Server IO #5/INFO]: <topology> ㄱㅡㄴㄷㅔ ㅇㅜㄹㅣ[m
-[00:44:32] [Netty Server IO #4/INFO]: <namjo> ㅎㅕㄴㅇㅣㄴㅡㄴ?[m
-[00:44:32] [Netty Server IO #5/INFO]: <topology> ㅅㅓㄱㅌㅏㄴㅇㅣ ㅇㅓㅂㅅㅇㅡㅁ[m
-[00:44:33] [Netty Server IO #5/INFO]: <topology> ㅎㅁㅎ[m
-[00:44:39] [Netty Server IO #0/INFO]: <Time_origin> 곡괭이에 섬세한손길 붙이면 어덯게 되지?[m
-[00:44:39] [Netty Server IO #4/INFO]: <namjo> ㄴㅏ 240ㄱㅐ ㅈㅓㄴㅂㅜ ㄱㅜㅇㅜㅓㅈㅣㄴ ㄱㅗㄱㅣ ㅋㅋ[m
-[00:44:44] [Netty Server IO #5/INFO]: <topology> ㅅㅓㄱㅌㅏㄴㅋㅐㄹㅓ ㄱㅏㅅㅣㄹㅂㅜㄴ ㄱㅜㅎㅏㅁ[m
-[00:44:48] [Netty Server IO #5/INFO]: <topology> ㄷㄷㄷㄷ[m
-[00:44:55] [Netty Server IO #4/INFO]: <namjo> ㄴㅏ[m
-[00:45:14] [Netty Server IO #4/INFO]: <namjo> ㄱㅏㅈㅏ[m
-[00:45:24] [Netty Server IO #4/INFO]: <namjo> ㄷㅏㄹㄱㄷㅗ ㅇㅏㅈㅣㄱ ㅈㅗㅁ ㅁㅏㄴㅎㄷㅏ[m
-[00:45:26] [Netty Server IO #5/INFO]: <topology> ㅇㄷ?[m
-[00:45:31] [Netty Server IO #4/INFO]: <namjo> ㅎㅇ?[m
-[00:45:33] [Netty Server IO #5/INFO]: <topology> ㅎㅇ[m
-[00:46:04] [Netty Server IO #4/INFO]: <namjo> ㅇㄷ?[m
-[00:46:13] [Netty Server IO #5/INFO]: <topology> ㅇㄱ[m
-[00:46:20] [Netty Server IO #4/INFO]: <namjo> ㅅㅓㄱㅌㅏㄴ ㅋㅐㅈㅏㅁㅕ[m
-[00:46:21] [Netty Server IO #0/INFO]: <Time_origin> ㅋㅋㅋㅋ[m
-[00:46:22] [Netty Server IO #5/INFO]: <topology> ㅇㅇ[m
-[00:46:23] [Netty Server IO #5/INFO]: <topology> ㄱㄱ[m
-[00:46:29] [Netty Server IO #0/INFO]: <Time_origin> 남조[m
-[00:46:31] [Netty Server IO #4/INFO]: <namjo> ?[m
-[00:46:48] [Netty Server IO #5/INFO]: <topology> ㅅㅓㅁㅅㅔㅎㅏㄴㅅㅗㄴㄱㅣㄹ?[m
-[00:46:52] [Netty Server IO #5/INFO]: <topology> ㅇㅣㄱㅓ ㅇㅗㅏㅇㅣ[m
-[00:46:59] [Netty Server IO #0/INFO]: <Time_origin> ㅁㄹ[m
-[00:47:18] [Netty Server IO #5/INFO]: <topology> ㄷㅗㄹ[m
-[00:47:20] [Netty Server IO #5/INFO]: <topology> ㅂㅓㄹㅣㅈㅣ ㅁㅏㄹㄱㅗ ㅁㅗㅇㅏㅈㅜㅓ[m
-[00:47:52] [Netty Server IO #0/INFO]: <Time_origin> 남ㅁ조야 입구근처에는 이제 석영없엉?[m
-[00:47:55] [Netty Server IO #4/INFO]: <namjo> ㅇㅇ[m
-[00:47:56] [Netty Server IO #0/INFO]: <Time_origin> 없어?[m
-[00:47:58] [Netty Server IO #0/INFO]: <Time_origin> 아[m
-[00:47:58] [Netty Server IO #4/INFO]: <namjo> ㅅㅓㄱㅇㅕㅇㅇㅡㄴ[m
-[00:47:59] [Netty Server IO #0/INFO]: <Time_origin> ㅠㅠ[m
-[00:48:01] [Netty Server IO #4/INFO]: <namjo> ㄴㅏㄹㅏㅇ ㄱㅏㅌㅇㅣ ㄱㅏㅇㅑ ㅎㅏㅁ[m
-[00:48:14] [Netty Server IO #4/INFO]: <namjo> ㄴㅓ ㅎㅗㄴㅈㅏ ㄱㅏㅁㅕㄴ[m
-[00:48:16] [Netty Server IO #4/INFO]: <namjo> 100% ㅁㅗㅅ ㄷㅗㄹㅇㅏㅇㅗㅁ[m
-[00:48:18] [Netty Server IO #4/INFO]: <namjo> ㅎㅎ[m
-[00:48:21] [Netty Server IO #5/INFO]: <topology> ㅎ[m
-[00:48:24] [Netty Server IO #0/INFO]: <Time_origin> ㅎㅎㅎ[m
-[00:48:34] [Netty Server IO #4/INFO]: <namjo> ㄷㅏㅇㅈㅏㅇ ㄱㅡㅂㅎㅏㅁㅕㄴ[m
-[00:48:37] [Netty Server IO #4/INFO]: <namjo> ㄷㅏㄹㄱㅇㅡㄹ ㅋㅣㅇㅜㅓ[m
-[00:48:39] [Netty Server IO #4/INFO]: <namjo> ㄱㅡㄹㅣㄱㅗ ㅈㅜㄱㅇㅕ[m
-[00:48:46] [Netty Server IO #5/INFO]: <topology> ㅇㅣㄱㅓㄴ[m
-[00:48:48] [Netty Server IO #5/INFO]: <topology> ㅇㅓㄴㅈㅔㅈㅣㅇㅓㄴㅏㅆㄴㅑ[m
-[00:48:50] [Netty Server IO #4/INFO]: <namjo> ㄷㅐㄱㅕㅇㅇㅣ[m
-[00:48:54] [Netty Server IO #5/INFO]: <topology> ㅇㅏ[m
-[00:48:56] [Netty Server IO #5/INFO]: <topology> ㅇㅓㅉㅓㄴㅈ[m
-[00:48:59] [Netty Server IO #5/INFO]: <topology> ㅇㅓㅉㅓㄴㅈㅣ[m
-[00:49:01] [Netty Server IO #5/INFO]: <topology> ㅈㅣㅂ ㅁㅗㅇㅑㅇㅇㅣ[m
-[00:49:01] [Netty Server IO #5/INFO]: <topology> .....[m
-[00:49:05] [Netty Server IO #4/INFO]: <namjo> ㅇㅅㅇ[m
-[00:49:06] [Netty Server IO #4/INFO]: <namjo> ㅎㅕㄴㅇㅏ[m
-[00:49:09] [Netty Server IO #4/INFO]: <namjo> ㄱㅕㅇㅎㅓㅁㅊㅣ ㅍㅣㄹㅇㅛㅎㅏㅁㅕㄴ[m
-[00:49:14] [Netty Server IO #4/INFO]: <namjo> ㅅㅗ ㅂㅓㄴㅅㅣㄱㅅㅣㅋㅣㅁㅕㄴ ㄷㅗㅣㅁ[m
-[00:49:20] [Netty Server IO #4/INFO]: <namjo> ㅅㅡㅋㅏㅍ ㄱ?[m
-[00:49:30] [Netty Server IO #4/INFO]: <namjo> ㅊㅣㄱㅣ ㅂㅜㄹㅍㅕㄴㅎㅏㄷㅏ[m
-[00:49:36] [Netty Server IO #0/INFO]: <Time_origin> ㄱ?[m
-[00:49:38] [Netty Server IO #4/INFO]: <namjo> ㅈㅜㄴㅎㅕㅇㅇㅏ ㅇㅓㄷㅣㄱㅏ[m
-[00:49:39] [Netty Server IO #4/INFO]: <namjo> ????[m
-[00:49:41] [Netty Server IO #5/INFO]: <topology> ㅈㅏㄹㅓ[m
-[00:49:46] [Netty Server IO #0/INFO]: <Time_origin> 헐[m
-[00:49:50] [Netty Server IO #0/INFO]: <Time_origin> 침대 두고왔넹[m
-[00:49:55] [Netty Server IO #5/INFO]: <topology> ㄴㅓ ㅈㅣㅇㅗㄱ ㅇㅏㄴㅣㅁ?[m
-[00:49:58] [Netty Server IO #5/INFO]: <topology> ㄱㅡㄴㅑㅇ ㄱㅓㄱㅣ ㅇㅣㅆㅇㅓㅋㅋㅋㅋ[m
-[00:50:02] [Netty Server IO #0/INFO]: <Time_origin> 나?[m
-[00:50:06] [Netty Server IO #0/INFO]: <Time_origin> 아닌데[m
-[00:50:07] [Netty Server IO #4/INFO]: <namjo> ㄴㅏㄱㅏㅆㄷㅏ ㅇㅗㅅㅔㅁ[m
-[00:50:09] [Netty Server IO #5/INFO]: <topology> ㅇㅎ..[m
-[00:50:09] [Netty Server IO #0/INFO]: <Time_origin> 못돌아온대잖아[m
-[00:50:10] [Netty Server IO #4/INFO]: <namjo> ㄴㅏㄷㅗ ㅈㅏㄴㅡㄴㅈㅜㅇ[m
-[00:50:10] [Netty Server IO #0/INFO]: <Time_origin> ㅎ[m
-[00:50:12] [Server thread/INFO]: Time_origin lost connection: Disconnected
-[00:50:12] [Server thread/INFO]: Time_origin left the game
-[00:50:21] [Netty Server IO #4/INFO]: <namjo> ㅋㅓㅁ[m
-[00:50:23] [Netty Server IO #5/INFO]: <topology> ㄴㅏㄴㅡㄴ ㅈㅣㅂㅇㅣㄹㅏ[m
-[00:50:25] [Netty Server IO #5/INFO]: <topology> ㅅㅡㅋㅏㅇㅣㅍㅡ ㅂㅜㄹㄱㅏㄴㅡㅇ[m
-[00:50:26] [Server thread/INFO]: Time_origin[/110.76.126.190:51909] logged in with entity id 142779 at ([world]-72.20658465780942, 55.0, 111.16300886879516)
-[00:50:27] [Netty Server IO #5/INFO]: <topology> ㄴㅓㄴㅔㄲㅣㄹㅣ ㅎㅐㅇ[m
-[00:50:29] [Netty Server IO #4/INFO]: <namjo> ㅇㅎ[m
-[00:50:32] [Netty Server IO #4/INFO]: <namjo> ㅇㅇ.[m
-[00:50:32] [Netty Server IO #1/INFO]: <Time_origin> ??[m
-[00:50:36] [Netty Server IO #1/INFO]: <Time_origin> 스카?[m
-[00:50:37] [Netty Server IO #1/INFO]: <Time_origin> ㅍ?[m
-[00:50:39] [Netty Server IO #5/INFO]: <topology> ㅇㅇ[m
-[00:50:41] [Netty Server IO #4/INFO]: <namjo> ㅇㅇ?[m
-[00:50:43] [Netty Server IO #4/INFO]: <namjo> ㄱㅓㄴㅡㄴㅈㅜㅇㅇㅣㅁ[m
-[00:51:02] [Netty Server IO #4/INFO]: <namjo> ㅂㅏㄷㅇㅏㅇㅏㅇㅏㅇㅏㅇㅏㅇㅏ[m
-[00:51:05] [Netty Server IO #4/INFO]: <namjo> ㄱㅡㄹㅣㄱㅗ ㅈㅜㄴㅎㅕㅇㅇㅏ ㄱㅓㅅㅓ ㅁㅜㅓㅎㅐ[m
-[00:51:07] [Netty Server IO #1/INFO]: <Time_origin> 안옴[m
-[00:51:09] [Netty Server IO #4/INFO]: <namjo> ????[m
-[00:51:12] [Netty Server IO #1/INFO]: <Time_origin> 배터리 없는데 패스하자 ㅎㅎ[m
-[00:51:20] [Netty Server IO #4/INFO]: <namjo> ㅇㅋ[m
-[00:51:22] [Netty Server IO #4/INFO]: <namjo> ㅈㅜㄴㅎㅕㅇㅇㅣㄱㅏ[m
-[00:51:23] [Netty Server IO #4/INFO]: <namjo> ㅇㅏㄴㄷㅗㅣㄴㅡㄴㄱㅔ[m
-[00:51:24] [Netty Server IO #1/INFO]: <Time_origin> 룸메가 너무 일찍자[m
-[00:51:25] [Netty Server IO #4/INFO]: <namjo> ㅈㅗㅁ ㅇㅏㅅㅜㅣㅂㄷㅏ[m
-[00:51:26] [Netty Server IO #4/INFO]: <namjo> ㄷㄷ[m
-[00:51:33] [Netty Server IO #4/INFO]: <namjo> ㅈㅜㄴㅎㅕㅇㅇㅏ[m
-[00:51:35] [Netty Server IO #5/INFO]: <topology> ㅇㅇ[m
-[00:51:36] [Netty Server IO #4/INFO]: <namjo> ㅇㅏ ㅈㅓㄱㅓ ㅎㅕㄴㅇㅣㄴㄱㅏ?[m
-[00:51:44] [Netty Server IO #5/INFO]: <topology> ㄴㅏㅇㅣㄴㄷㅡㅅ[m
-[00:51:44] [Netty Server IO #4/INFO]: <namjo> ㄴㅓㄴ ㅇㅓㄷㅣㅇㅑ[m
-[00:51:46] [Netty Server IO #4/INFO]: <namjo> ????[m
-[00:51:47] [Netty Server IO #1/INFO]: <Time_origin> 나무꾼을 말하는거라면[m
-[00:51:49] [Netty Server IO #1/INFO]: <Time_origin> 나야[m
-[00:51:54] [Netty Server IO #4/INFO]: <namjo> ㅈㅜㄴㅎㅕㅇㅇㅣㄴㅔ[m
-[00:52:33] [Netty Server IO #4/INFO]: <namjo> ㅇㅓㄷㅣㅆㄴㅣ[m
-[00:52:34] [Netty Server IO #4/INFO]: <namjo> ㄷㄷ[m
-[00:52:36] [Netty Server IO #5/INFO]: <topology> ㄴㅣ ㄱㅏㅂㅈㅏㄱㅣ ㅅㅏㄹㅏㅈㅣㅁ[m
-[00:52:42] [Netty Server IO #4/INFO]: <namjo> ㅎㅇ[m
-[00:54:15] [Netty Server IO #5/INFO]: <topology> ㄱㅡㄴㄷㅔ[m
-[00:54:17] [Netty Server IO #5/INFO]: <topology> ㅇㅕㄱㅣ ㅇㅗㅐㅇㅗㅁ??[m
-[00:54:28] [Netty Server IO #4/INFO]: <namjo> ㅇㅣㄱㅅㅡㅌㅡㄹㅣㅁ ㅎㅣㄹㅅㅡ[m
-[00:54:30] [Netty Server IO #4/INFO]: <namjo> ㅇㅕㄱㅣㅅㅓ[m
-[00:54:32] [Netty Server IO #4/INFO]: <namjo> ㅇㅔㅁㅔㄹㅏㄹㄷㅡ ㅋㅐㅈㅏ ㅎㅎ[m
-[00:54:35] [Netty Server IO #5/INFO]: <topology> ㄷㄷ[m
-[00:54:35] [Netty Server IO #5/INFO]: <topology> ㄱ[m
-[00:54:39] [Netty Server IO #4/INFO]: <namjo> ㅇㅗㄹㄹㅏㅇㅗㅏ[m
-[00:54:43] [Netty Server IO #5/INFO]: <topology> ㅈㅏㅁㅁㅏㄴ[m
-[00:54:44] [Netty Server IO #5/INFO]: <topology> ㅊㅓㄹㅈㅗㅁ ㅋㅐㄱㅗ[m
-[00:54:53] [Netty Server IO #4/INFO]: <namjo> ㅊㅓㄹ ㅁㅏㄴㅎㅇㅏ[m
-[00:54:55] [Netty Server IO #4/INFO]: <namjo> ㄴㅓㅁㅊㅕㄴㅏ[m
-[00:55:00] [Netty Server IO #5/INFO]: <topology> ㅇㄷ[m
-[00:55:08] [Netty Server IO #4/INFO]: <namjo> ㅇㅓㄴㄷㅓㄱㅇㅜㅣ[m
-[00:55:13] [Netty Server IO #4/INFO]: <namjo> ㅎㅇ[m
-[00:55:42] [Netty Server IO #5/INFO]: <topology> ㅊㅣㅁㄷㅐ ㅇㅏㄴㄷㅡㄹㄱㅗㅇㅗㅏㅆㄴㅔ[m
-[00:56:01] [Netty Server IO #1/INFO]: <Time_origin> 준형이 준비성 ㅉㅉ[m
-[00:56:14] [Netty Server IO #1/INFO]: <Time_origin> 오늘 과외 2일차였는데[m
-[00:56:15] [Netty Server IO #4/INFO]: <namjo> ㅇㅕㄱㅣㄷㅗ[m
-[00:56:16] [Netty Server IO #4/INFO]: <namjo> ㅈㅜㄴㅎㅕㅇㅇㅏ[m
-[00:56:18] [Netty Server IO #1/INFO]: <Time_origin> 남자애는 처음이거든[m
-[00:56:22] [Netty Server IO #4/INFO]: <namjo> ㅇㅎ[m
-[00:56:26] [Netty Server IO #1/INFO]: <Time_origin> 근데 애가 너무 무뚝뚝해서[m
-[00:56:27] [Netty Server IO #4/INFO]: <namjo> ㅇㅕㄱㅣ[m
-[00:56:39] [Netty Server IO #5/INFO]: <topology> ㅇㅏㅈㅣㄱ ㅂㅜㅈㅗㄱㅎㅏㅁ..ㅠㅠ[m
-[00:56:41] [Netty Server IO #5/INFO]: <topology> ㅅㅐㄱㄲㅏㄹㅇㅣ ㄷㅏ ㄷㅏㄹㄹㅏ[m
-[00:56:42] [Netty Server IO #1/INFO]: <Time_origin> 남자애들이랑 말하는게 어렵다고 느낀게 청ㅁ이었음[m
-[00:56:46] [Netty Server IO #4/INFO]: <namjo> ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ[m
-[00:56:46] [Netty Server IO #5/INFO]: <topology> ㅇㅗㅐㅋㅋㅋㅋㅋ[m
-[00:56:49] [Netty Server IO #4/INFO]: <namjo> ㄱㅒㄷㅗ[m
-[00:56:51] [Netty Server IO #4/INFO]: <namjo> ㄴㅓㄹㅏㅇ ㅁㅏㄹㅎㅏㄴㅡㄴㄱㅔ[m
-[00:56:53] [Netty Server IO #4/INFO]: <namjo> ㅇㅓㄹㅕㅇㅜㅓㅆㅇㅡㄹㄲㅓㅇㅑ[m
-[00:56:55] [Netty Server IO #5/INFO]: <topology> ㅇㅗ[m
-[00:56:58] [Netty Server IO #4/INFO]: <namjo> ㅇㅕㅈㅏㅇㅐㄹㅏㅇ ㅁㅏㄹㅎㅏㄴㅡㄴㄱㅔ ㅊㅓㅇㅡㅁㅇㅣㄹㅅㅜㄷㅗ ㅇㅣㅆㅈㅏㄴㅎㅇㅏ[m
-[00:56:58] [Netty Server IO #5/INFO]: <topology> ㅅㅐㄱㄲㅏㄹ ㄷㅏㄹㄹㅏㄷㅗ ㄷㅗㅣㄴㅔ[m
-[00:57:14] [Netty Server IO #1/INFO]: <Time_origin> 그럴수있찌[m
-[00:57:20] [Netty Server IO #5/INFO]: <topology> ㅅㅡㄹㅍㅡㄷㅗㄷㅏ...[m
-[00:57:30] [Netty Server IO #5/INFO]: <topology> joyㄹㅡㄹ ㅍㅛㅎㅏㄴㄷㅏ[m
-[00:57:31] [Netty Server IO #1/INFO]: <Time_origin> ㅠㅠ[m
-[00:58:32] [Netty Server IO #5/INFO]: <topology> ㄱㅡㄹㅐㅅㅓ[m
-[00:58:35] [Netty Server IO #5/INFO]: <topology> ㄱㅗㅏㅇㅗㅣㄴㅡㄴ ㅇㅓㄸㅐㅆㄴㅣ[m
-[00:58:38] [Netty Server IO #5/INFO]: <topology> ㅎㅏㄹㅁㅏㄴㅎㅐㅆㄴㅣ[m
-[00:58:46] [Netty Server IO #1/INFO]: <Time_origin> ㄱ기벡 그ㅏ르치는데[m
-[00:58:51] [Netty Server IO #1/INFO]: <Time_origin> 이차곡선 핵노잼이야[m
-[00:58:53] [Netty Server IO #5/INFO]: <topology> ㅋㅋㅋㅋㅋㅋㅋ[m
-[00:58:55] [Netty Server IO #5/INFO]: <topology> ㄴㅏㄴ ㅅㅜㄴㄱㅏㄴ[m
-[00:58:57] [Netty Server IO #5/INFO]: <topology> ㄹㅡㅂㅔㄱㅇㅣㄴㅈㅜㄹ...[m
-[00:58:58] [Netty Server IO #1/INFO]: <Time_origin> 나조차 재미없어[m
-[00:59:00] [Netty Server IO #1/INFO]: <Time_origin> ㅋㅋ[m
-[00:59:13] [Netty Server IO #1/INFO]: <Time_origin> 빨리 벡터로 넘어가고싶어[m
-[00:59:22] [Netty Server IO #1/INFO]: <Time_origin> 그래도 애는 똑똑하고 잘 배우고[m
-[00:59:23] [Netty Server IO #5/INFO]: <topology> ㅋㅋㅋㅋㅋㅋ[m
-[00:59:26] [Netty Server IO #1/INFO]: <Time_origin> 숙제도 잘 해와서[m
-[00:59:28] [Netty Server IO #5/INFO]: <topology> ㅇㅗㅇ[m
-[00:59:33] [Netty Server IO #5/INFO]: <topology> ㄱㅡㄹㅓㄴ ㅇㅐㄷㅡㄹㅇㅣ ㄱㅏㄹㅡㅊㅣㄱㅣ ㅍㅕㄴㅎㅏㅈㅣㅇㅇ[m
-[00:59:33] [Netty Server IO #1/INFO]: <Time_origin> 진도 쭉쭉 나갈수 있을뜻[m
-[00:59:42] [Netty Server IO #1/INFO]: <Time_origin> 계산도 잘해[m
-[00:59:51] [Netty Server IO #1/INFO]: <Time_origin> 이게 은근 계산 못하는ㄴ 치구들 만ㅇㅎ음[m
-[00:59:53] [Netty Server IO #1/INFO]: <Time_origin> 날 포함해서[m
-[00:59:53] [Netty Server IO #5/INFO]: <topology> ㅇㅈ[m
-[00:59:55] [Netty Server IO #5/INFO]: <topology> ㅎㅓㄹ[m
-[00:59:59] [Netty Server IO #1/INFO]: <Time_origin> 인정하다니[m
-[01:00:01] [Netty Server IO #4/INFO]: <namjo> ㅋㅋㅋㅋㅋ[m
-[01:00:02] [Netty Server IO #5/INFO]: <topology> ㄴㅏㄷㅗ ㄱㅖㅅㅏㄴㅇㅡㄴ ㅈㅏㄹ ㅁㅗㅅㅎㅏㅁ[m
-[01:00:03] [Netty Server IO #1/INFO]: <Time_origin> 날 너무 잘아는거 아니냐[m
-[01:00:03] [Netty Server IO #5/INFO]: <topology> ㅠㅠ[m
-[01:00:05] [Netty Server IO #5/INFO]: <topology> ㅋㅋㅋㅋ[m
-[01:00:06] [Netty Server IO #1/INFO]: <Time_origin> ㅋㅋㅋㅋ[m
-[01:00:30] [Netty Server IO #5/INFO]: <topology> ㅇㅏㅁㄱㅓㅅㄷㅗ ㅇㅓㅂㅅㅇㅡㅁ[m
-[01:00:38] [Netty Server IO #4/INFO]: <namjo> ㅋㅓㅁ[m
-[01:00:46] [Netty Server IO #5/INFO]: <topology> ㄷ[m
-[01:00:50] [Netty Server IO #1/INFO]: <Time_origin> 해진다[m
-[01:00:51] [Netty Server IO #4/INFO]: <namjo> ㄴㅐㄹㅕㄱㅏㅇㅑ[m
-[01:00:53] [Netty Server IO #4/INFO]: <namjo> ㅇㅔㅂㅔㄹㅏㄹㄷㅡㄱㅏ ㄴㅏㅇㅗㅈㅣ[m
-[01:00:55] [Netty Server IO #1/INFO]: <Time_origin> 나 나갈게[m
-[01:00:57] [Server thread/INFO]: Time_origin lost connection: Disconnected
-[01:00:57] [Server thread/INFO]: Time_origin left the game
-[01:01:16] [Netty Server IO #5/INFO]: <topology> ㄷ[m
-[01:01:22] [Server thread/INFO]: Time_origin[/110.76.126.190:51980] logged in with entity id 166343 at ([world]-91.4200391274948, 78.0, -118.30000001192093)
-[01:01:35] [Netty Server IO #5/INFO]: <Time_origin> 왠지 우리 가까운데 있을지도[m
-[01:01:39] [Netty Server IO #5/INFO]: <Time_origin> 어디쯤이야?[m
-[01:01:40] [Netty Server IO #5/INFO]: <topology> ㅇㅁㅇ?[m
-[01:01:45] [Netty Server IO #5/INFO]: <topology> -416 56[m
-[01:01:58] [Netty Server IO #5/INFO]: <Time_origin> 다른방향이네 여기도 익스트림 힐즈라서[m
-[01:02:01] [Netty Server IO #5/INFO]: <topology> ㅇㅎ[m
-[01:02:52] [Netty Server IO #5/INFO]: <Time_origin> 준형아 참나무 옥상만 깔면 되지?[m
-[01:03:01] [Netty Server IO #5/INFO]: <topology> ㅇㅇㅇㅇㅇ[m
-[01:03:07] [Netty Server IO #5/INFO]: <Time_origin> 4셋하면 충분하겠지?[m
-[01:03:11] [Netty Server IO #5/INFO]: <topology> ㅎㅡㅁ[m
-[01:03:13] [Netty Server IO #5/INFO]: <topology> ㅇㅜㅓㄴㅁㅗㄱㅇㅡㄹㅗ ㅇㅇ[m
-[01:03:19] [Netty Server IO #5/INFO]: <Time_origin> ㅇㅇ[m
-[01:03:40] [Netty Server IO #4/INFO]: <namjo> ㅈㅗㅁㅂㅣㅅㅗㄹㅣㄱㅏ?[m
-[01:03:48] [Netty Server IO #5/INFO]: <topology> ㄷㄷㄷ[m
-[01:04:38] [Netty Server IO #5/INFO]: <topology> ㅇㅗ[m
-[01:04:39] [Netty Server IO #5/INFO]: <topology> ㅅㅣㅂㅏ[m
-[01:04:50] [Netty Server IO #4/INFO]: <namjo> ㄴㅏㅇㅗㅏㅂㅗㅏㅇ[m
-[01:05:04] [Netty Server IO #4/INFO]: <namjo> ㅈㅓㄱㅣㅂㅜㅌㅓ ㄷㅗㄹㄱㅗ[m
-[01:05:05] [Netty Server IO #4/INFO]: <namjo> ㄴㅐㄹㅕㄱㅏㅈㅏ[m
-[01:05:08] [Netty Server IO #5/INFO]: <topology> ㅇㅋ[m
-[01:05:17] [Netty Server IO #5/INFO]: <Time_origin> 뭔가 엄청 으스스한 소리난다..[m
-[01:05:19] [Netty Server IO #5/INFO]: <topology> ㅎㅗㅏㄹ ㅇㅗㅈㅣㄴㄷㅏ[m
-[01:05:20] [Netty Server IO #5/INFO]: <topology> ㅇㄷ??[m
-[01:05:26] [Netty Server IO #5/INFO]: <Time_origin> ??[m
-[01:05:30] [Netty Server IO #5/INFO]: <topology> ㅇㅓㄷㅣㅇㅔㅅㅓ??\[m
-[01:05:36] [Netty Server IO #5/INFO]: <Time_origin> 내 밑에서[m
-[01:05:40] [Netty Server IO #5/INFO]: <topology> ㅇㅡㅁ[m
-[01:05:41] [Netty Server IO #5/INFO]: <topology> ㄱㅓㅁㅣㅇㅣㄴㄱㅏ[m
-[01:05:41] [Netty Server IO #5/INFO]: <Time_origin> 동굴 들어왔ㄴㄴ데[m
-[01:05:43] [Netty Server IO #5/INFO]: <topology> ㅇㅏ[m
-[01:05:44] [Netty Server IO #5/INFO]: <Time_origin> 그런가[m
-[01:05:44] [Netty Server IO #4/INFO]: <namjo> ㅊㅐㄱㅅㅏㅇ ㅇㅏㄹㅐ ㅂㅏㅋㅜㅣㅂㅓㄹㄹㅐㅇㅣㅁ[m
-[01:05:45] [Netty Server IO #5/INFO]: <topology> ㄷㅗㅇㄱㅜㄹㅇㅣㄱㅜㄴㅏ[m
-[01:05:50] [Netty Server IO #5/INFO]: <topology> ㄴㅏㅁㅈㅗ ㄷㅡㄹㅣㅂㄷㄷㄷ[m
-[01:05:50] [Netty Server IO #5/INFO]: <Time_origin> ㅎㅎ[m
-[01:06:12] [Netty Server IO #5/INFO]: <Time_origin> 음 크리퍼네[m
-[01:06:18] [Netty Server IO #5/INFO]: <topology> ㄱㅎ[m
-[01:06:29] [Netty Server IO #5/INFO]: <Time_origin> 좀 아프긴 하지만 좀비 자ㅂ았으니 됐다[m
-[01:07:21] [Netty Server IO #5/INFO]: <topology> ㅓㅁ[m
-[01:07:22] [Netty Server IO #5/INFO]: <topology> ㅋㅓㅁ[m
-[01:07:35] [Netty Server IO #5/INFO]: <Time_origin> -130 -100[m
-[01:07:50] [Netty Server IO #5/INFO]: <topology> ㄴㅏㄸㅣㅇ[m
-[01:07:57] [Netty Server IO #5/INFO]: <topology> ㄱㅓㄱㅣ ㅁㅜㅓㅇㅣㅆㄴㅡㄴㄷㅔㅇ??[m
-[01:07:59] [Netty Server IO #5/INFO]: <topology> @ㅎㅕㄴ[m
-[01:08:01] [Netty Server IO #5/INFO]: <Time_origin> 나[m
-[01:08:08] [Netty Server IO #5/INFO]: <Time_origin> 죽을거같아서[m
-[01:08:10] [Netty Server IO #5/INFO]: <topology> ㄷㄷㄷ[m
-[01:08:15] [Netty Server IO #5/INFO]: <topology> ㄱㅗㄱㅣㅁㅓㄱㅇㅓ ㄱㅗㄱㅣ[m
-[01:08:39] [Netty Server IO #4/INFO]: <namjo> ㄴㅏ ㄱㅛㅅㅜㄴㅣㅁㅎㅏㄴㅌㅔ[m
-[01:08:41] [Netty Server IO #5/INFO]: <Time_origin> 소리 되게 무서운데 어딘지 못찾엤다...[m
-[01:08:43] [Netty Server IO #4/INFO]: <namjo> ㅈㅏㅂㅏ ㅎㅏㄹ ㅈㅜㄹ ㅇㅏㄹㅇㅏㅇㅛ![m
-[01:08:45] [Netty Server IO #4/INFO]: <namjo> ㅎㅐㅆㄷㅏㄱㅏ[m
-[01:08:50] [Netty Server IO #5/INFO]: <Time_origin> ㅋㅋㅋㅋㅋ[m
-[01:08:50] [Netty Server IO #4/INFO]: <namjo> ㅇㅓㄸㅓㄴ ㅇㅐㅂ ㅋㅗㄷㅡ ㄷㅏㅅㅣ ㅉㅏㄹㅏㄴㅡㄴㄷㅔ?[m
-[01:08:58] [Netty Server IO #5/INFO]: <topology> ㅋㅡ[m
-[01:09:17] [Netty Server IO #4/INFO]: <namjo> ㅇㅓ ㅇㅔㅁㅔㄹㅏㄹㄷㅡㄷㅏ[m
-[01:09:20] [Netty Server IO #4/INFO]: <namjo> ㅈㅓㄱㄷㅏㅇㅎㅏㄴ ㄴㅗㅍㅇㅣㄱㅜㄴ[m
-[01:09:34] [Netty Server IO #4/INFO]: <namjo> ㅇㅓ ㅇㅔㅁㅔㄹㅏㄹㄷㅡㄷㅏ[m
-[01:09:39] [Netty Server IO #4/INFO]: <namjo> ㄴㅓㄴ ㅇㄷ?[m
-[01:09:42] [Netty Server IO #5/INFO]: <topology> ㅇㄷ[m
-[01:09:46] [Netty Server IO #5/INFO]: <topology> ㅇㅗ[m
-[01:09:50] [Netty Server IO #5/INFO]: <topology> ㅇㅔㅁㅔㄹㅏㄹㄷㅡ ㅊㅓㄹㄱㅗㄱㅇㅡㄹㅗ ㅍㅏㅈㅣㅁ?[m
-[01:11:18] [Netty Server IO #5/INFO]: <Time_origin> 아 준형아[m
-[01:11:21] [Netty Server IO #5/INFO]: <topology> ㅇㅇ?[m
-[01:11:25] [Netty Server IO #5/INFO]: <Time_origin> 나 자면서 아이패드 사기로 결정함[m
-[01:11:26] [Netty Server IO #5/INFO]: <Time_origin> ㄱ?[m
-[01:11:29] [Netty Server IO #5/INFO]: <topology> ㄱ[m
-[01:11:46] [Netty Server IO #5/INFO]: <topology> ㄴㅏㅁㅈㅏㄷㅏㅂㄱㅔ[m
-[01:11:47] [Netty Server IO #5/INFO]: <topology> ㅈㅣㄹㅡㄴㄷㅏ[m
-[01:12:00] [Netty Server IO #5/INFO]: <Time_origin> 둔산동에 애플스토어..?가 있는거 같은데 가서 써볼수 있는지 ㅂ물어봐야겠다[m
-[01:12:03] [Netty Server IO #5/INFO]: <Time_origin> 잘자![m
-[01:12:05] [Server thread/INFO]: Time_origin lost connection: Disconnected
-[01:12:05] [Server thread/INFO]: Time_origin left the game
-[01:12:08] [Netty Server IO #5/INFO]: <topology> ㄷㄷㄷ[m
-[01:12:28] [Netty Server IO #5/INFO]: <topology> ㄴㅓ ㅇㄷ??[m
-[01:12:31] [Netty Server IO #5/INFO]: <topology> ㅇㅎ[m
-[01:12:53] [Server thread/INFO]: Time_origin[/110.76.126.190:52056] logged in with entity id 186942 at ([world]-157.41994687936153, 84.0, -75.59661817208546)
-[01:12:55] [Netty Server IO #5/INFO]: <topology> ㅎㅇ[m
-[01:12:56] [Netty Server IO #4/INFO]: <namjo> ??????????????????????[m
-[01:12:57] [Netty Server IO #0/INFO]: <Time_origin> ㅅ?![m
-[01:13:01] [Netty Server IO #0/INFO]: <Time_origin> 왜 안잤어[m
-[01:13:01] [Netty Server IO #4/INFO]: <namjo> ㅇㅜㄹㅣㅂㅗㄱㅗ[m
-[01:13:03] [Netty Server IO #4/INFO]: <namjo> ㅈㅏㄹㅏㄴㅡㄴㄱㅓㅇㅕㅆㄱㅜㄴ[m
-[01:13:04] [Server thread/INFO]: Time_origin lost connection: Disconnected
-[01:13:04] [Server thread/INFO]: Time_origin left the game
-[01:13:05] [Netty Server IO #5/INFO]: <topology> ㅇㅏ[m
-[01:13:13] [Netty Server IO #5/INFO]: <topology> ㅈㅣㄴㅉㅏ ㅈㅏㄴㄷㅏㄴㅡㄴㅈㅜㄹ;[m
-[01:13:20] [Server thread/INFO]: Time_origin[/110.76.126.190:52063] logged in with entity id 187600 at ([world]-157.41994687936153, 84.0, -75.59661817208546)
-[01:13:23] [Netty Server IO #4/INFO]: <namjo> ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ[m
-[01:13:23] [Netty Server IO #5/INFO]: <topology> ㅈㅣㄴㅉㅏ ㅈㅏㄴㄷㅏㄴㅡㄴㅈㅜㄹ;;[m
-[01:13:26] [Netty Server IO #4/INFO]: <namjo> ㄴㅏ ㄴㅓ ㅈㅏㄹㅓㄱㅏㄴㅈㅜㄹ[m
-[01:13:33] [Netty Server IO #3/INFO]: <Time_origin> ㅋㅋㅋㅋ[m
-[01:13:42] [Netty Server IO #3/INFO]: <Time_origin> 우리학교 1학년 후배들 15명 재수한대[m
-[01:13:43] [Netty Server IO #4/INFO]: <namjo> ㄹㅗㅈㄱㅣㅎㅣ[m
-[01:13:44] [Netty Server IO #3/INFO]: <Time_origin> ;[m
-[01:13:47] [Netty Server IO #5/INFO]: <topology> ㄷㄷㄷ[m
-[01:13:49] [Netty Server IO #4/INFO]: <namjo> ㅎㅓㄹ[m
-[01:13:51] [Netty Server IO #4/INFO]: <namjo> ㅇㅜㄹㅣㄷㅗ ㄱㅡㄹㅐㅆㅇㅡㅁ[m
-[01:13:57] [Netty Server IO #3/INFO]: <Time_origin> 우리는 60명이거든..[m
-[01:14:04] [Netty Server IO #4/INFO]: <namjo> @ㅁ@...[m
-[01:14:08] [Netty Server IO #3/INFO]: <Time_origin> 뭐지[m
-[01:14:08] [Netty Server IO #5/INFO]: <topology> ㄱㅅㄱㅅ[m
-[01:14:11] [Netty Server IO #3/INFO]: <Time_origin> 어떻게 된거[m
-[01:14:12] [Netty Server IO #3/INFO]: <Time_origin> ;[m
-[01:14:37] [Netty Server IO #5/INFO]: <topology> ㄴㅏ[m
-[01:14:39] [Netty Server IO #5/INFO]: <topology> ㅊㅓㄹㄱㅗㄱ ㅂㅜㅅㅜㅓㅈㅣㅁ[m
-[01:14:46] [Netty Server IO #3/INFO]: <Time_origin> ㄴㄴ[m
-[01:14:48] [Netty Server IO #3/INFO]: <Time_origin> 부서짐[m
-[01:14:51] [Netty Server IO #3/INFO]: <Time_origin> ㅈㅅ[m
-[01:14:54] [Netty Server IO #5/INFO]: <topology> ㅇㅏㅅ[m
-[01:14:56] [Netty Server IO #5/INFO]: <topology> ㅆㅗㄹㅣ[m
-[01:14:57] [Netty Server IO #5/INFO]: <topology> ㅂㅜㅅㅓㅈㅣㅁ[m
-[01:16:08] [Netty Server IO #4/INFO]: <namjo> ????????????????????/[m
-[01:16:10] [Netty Server IO #4/INFO]: <namjo> ㅍㅖㄱㅗㅏㅇㅇㅣㄴㅔ?[m
-[01:16:14] [Netty Server IO #3/INFO]: <Time_origin> ????[m
-[01:16:14] [Netty Server IO #5/INFO]: <topology> ㅇㅇㅇㅇㅇㅇ?????[m
-[01:16:18] [Netty Server IO #4/INFO]: <namjo> ㅈㅓㄱㅓ[m
-[01:16:18] [Netty Server IO #3/INFO]: <Time_origin> 오 재밌다[m
-[01:16:20] [Netty Server IO #3/INFO]: <Time_origin> 겠[m
-[01:16:23] [Netty Server IO #5/INFO]: <topology> ㄷㄷㄷㄷㄷㄷㄷ[m
-[01:16:25] [Netty Server IO #5/INFO]: <topology> ㄹㅇㅇㅣㄴㅔ[m
-[01:16:27] [Netty Server IO #3/INFO]: <Time_origin> 합ㄹ해도됨?[m
-[01:16:31] [Netty Server IO #5/INFO]: <topology> ㅇㅇㅇ[m
-[01:16:33] [Netty Server IO #5/INFO]: <topology> ㅇㅣㄹㄹㅜㅇㅗㅏ[m
-[01:16:35] [Netty Server IO #3/INFO]: <Time_origin> ㅇㄷ?[m
-[01:16:41] [Netty Server IO #5/INFO]: <topology> -428 14 88[m
-[01:16:50] [Netty Server IO #3/INFO]: <Time_origin> 금방감[m
-[01:16:54] [Netty Server IO #5/INFO]: <topology> ㄱㅜㄷ[m
-[01:17:28] [Netty Server IO #4/INFO]: <namjo> ㅇㅕㄱㅣ ㅈㅏㄹㄱㅗㄹㅡㄴㄷㅡㅅ[m
-[01:17:30] [Netty Server IO #4/INFO]: <namjo> ㅈㅣㅎㅕㅇ ㅈㅏㅊㅔㄱㅏ[m
-[01:17:33] [Netty Server IO #4/INFO]: <namjo> ㅅㅓㄱㅌㅏㄴㅇㅣ ㅇㅗㅈㅣㄱㅔ ㅁㅏㄴㅎㅇㅏ[m
-[01:17:38] [Netty Server IO #5/INFO]: <topology> ㅎㅗㅇㅗ[m
-[01:17:40] [Netty Server IO #3/INFO]: <Time_origin> 혐곡에 막혔어..[m
-[01:17:48] [Netty Server IO #4/INFO]: <namjo> ㄴㅏㄹㅇㅏㅅㅓ ㄴㅓㅁㅇㅓㅇㅗㅏ[m
-[01:17:53] [Netty Server IO #3/INFO]: <Time_origin> ㅇㅋ[m
-[01:17:53] [Netty Server IO #5/INFO]: <topology> ;[m
-[01:18:06] [Netty Server IO #5/INFO]: <topology> ㅇㅣㄴㅊㅐㄴㅌㅡㅌㅔㅇㅣㅂㄹㅈㅓㅁ[m
-[01:18:10] [Netty Server IO #4/INFO]: <namjo> ????????????????????????[m
-[01:18:16] [Netty Server IO #5/INFO]: <topology> ㅇㅗㅐ[m
-[01:18:17] [Netty Server IO #3/INFO]: <Time_origin> ?[m
-[01:18:20] [Netty Server IO #3/INFO]: <Time_origin> 저요?[m
-[01:18:21] [Netty Server IO #4/INFO]: <namjo> ㅋㅡㄹㅐㅍㅡㅌㅣㅇ ㅌㅔㅇㅣㅂㅡㄹㅇㅣㅇㅑ[m
-[01:18:25] [Netty Server IO #5/INFO]: <topology> ㅈㅅ.[m
-[01:18:27] [Netty Server IO #3/INFO]: <Time_origin> ;[m
-[01:18:35] [Netty Server IO #5/INFO]: <topology> ㄷㅗㅐㅆㅇㅡㅁ[m
-[01:18:40] [Netty Server IO #4/INFO]: <namjo> ㅎㅕㄴㅇㅣㄱㅏ ㅈㅜㄴ ㅊㅗㅋㅗㄹㄹㅣㅅ ㅁㅓㄱㄴㅡㄴㅈㅜㅇ[m
-[01:18:41] [Netty Server IO #5/INFO]: <topology> ㅅㅓㄱㅌㅏㄴ ㅎㅏㅂㅊㅣㄴㅡㄹㅏ[m
-[01:18:45] [Netty Server IO #5/INFO]: <topology> ㅗㅗㅗㅗㅗ[m
-[01:18:49] [Netty Server IO #4/INFO]: <namjo> ????[m
-[01:19:23] [Netty Server IO #5/INFO]: <topology> ㄴㅏㅁㅈㅗ ㅇㅓㄹㄱㅜㄹㅇㅔ ㅎㅗㅏㅅㅏㄹㅂㅏㄱㅎㅣㅁ[m
-[01:20:17] [Netty Server IO #4/INFO]: <namjo> ㅍㅓㄴㅊㅣ ㄱㅐㄲㅜㄹ ㅎ[m
-[01:20:19] [Netty Server IO #5/INFO]: <topology> ㄷ[m
-[01:20:28] [Netty Server IO #3/INFO]: <Time_origin> 으[m
-[01:20:30] [Netty Server IO #3/INFO]: <Time_origin> 어디라고?[m
-[01:20:36] [Netty Server IO #5/INFO]: <topology> -457 27 71[m
-[01:20:45] [Netty Server IO #3/INFO]: <Time_origin> 아 지하구나[m
-[01:20:55] [Netty Server IO #5/INFO]: <topology> ㄱㅡㄹㅓㅎㅈㅣ[m
-[01:20:55] [Netty Server IO #3/INFO]: <Time_origin> 수직으로 갱도야?[m
-[01:21:01] [Netty Server IO #3/INFO]: <Time_origin> 그냥 밑으로 파고가도 되나?[m
-[01:21:04] [Netty Server IO #5/INFO]: <topology> ㅇㅇㅇ[m
-[01:21:10] [Netty Server IO #5/INFO]: <topology> ㄸㅓㄹㅇㅓㅈㅣㅈㅣ ㅇㅏㄴㅎㄱㅔ ㅈㅗㅅㅣㅁ[m
-[01:21:14] [Netty Server IO #4/INFO]: <namjo> ㄱㅡㄹㅓㅁ ㅈㅒ ㄸㅓㄹㅇㅓㅈㅣㄹㄲㅓㄹ[m
-[01:21:17] [Netty Server IO #3/INFO]: <Time_origin> ;[m
-[01:21:19] [Netty Server IO #5/INFO]: <topology> ;[m
-[01:21:21] [Netty Server IO #3/INFO]: <Time_origin> 조심해야되면[m
-[01:21:24] [Netty Server IO #3/INFO]: <Time_origin> 그러지 말라고 해야지[m
-[01:21:32] [Netty Server IO #5/INFO]: <topology> ㅈㅅ[m
-[01:22:14] [Netty Server IO #5/INFO]: <topology> ㅁㅊ[m
-[01:22:15] [Netty Server IO #5/INFO]: <topology> ㅎㅛㅇㅠㄹ5[m
-[01:22:25] [Netty Server IO #5/INFO]: <topology> ㅅㅜㅂㅏㄱㅆㅣ[m
-[01:22:26] [Netty Server IO #5/INFO]: <topology> ㄱㅇㄷ[m
-[01:23:26] [Netty Server IO #5/INFO]: <topology> ㄷㄷㄷㄷㄷ[m
-[01:23:34] [Netty Server IO #5/INFO]: <topology> ㄷㅏㅇㄱㅡㄴㅇㅣㄷㅏ[m
-[01:23:34] [Netty Server IO #3/INFO]: <Time_origin> 후[m
-[01:23:36] [Netty Server IO #3/INFO]: <Time_origin> 준형아[m
-[01:23:42] [Netty Server IO #3/INFO]: <Time_origin> 이런데를 수직으로 파고오라고 했냐 ㅋㅋㅋㅋㅋ[m
-[01:23:45] [Netty Server IO #5/INFO]: <topology> ㅁㅣㅇㅏㄴ....[m
-[01:23:49] [Netty Server IO #3/INFO]: <Time_origin> 너네 보이는데 어떻게 내려간담[m
-[01:24:01] [Netty Server IO #4/INFO]: <namjo> ㅈㄴ ㅋㅓ[m
-[01:24:17] [Netty Server IO #5/INFO]: <topology> beetrot seed[m
-[01:24:57] [Netty Server IO #4/INFO]: <namjo> ㄷㅏㅇㅣㅇㅏ ㅋㅋ[m
-[01:25:01] [Netty Server IO #3/INFO]: <Time_origin> 얍[m
-[01:25:04] [Netty Server IO #4/INFO]: <namjo> ㅎㅇ[m
-[01:25:07] [Netty Server IO #4/INFO]: <namjo> ㅎㅇㅎㅇ[m
-[01:25:10] [Netty Server IO #3/INFO]: <Time_origin> ㅎㅇㅎㅇ[m
-[01:25:13] [Netty Server IO #4/INFO]: <namjo> ㅇㅣㄹㄹㅜㅇㅗㅏ[m
-[01:25:30] [Netty Server IO #5/INFO]: <topology> ㅎㅇㅎㅇ[m
-[01:25:34] [Netty Server IO #5/INFO]: <topology> ㅈㅓㄱㅣ ㅈㅗㅁㅂㅣ..[m
-[01:25:49] [Netty Server IO #5/INFO]: <topology> ㅇㄷ[m
-[01:26:12] [Netty Server IO #4/INFO]: <namjo> ㅇㅔㄴㄷㅓㅁㅐㄴ ㅋㅋ[m
-[01:26:16] [Netty Server IO #3/INFO]: <Time_origin> 엔더맨 ㅋㅋ[m
-[01:26:26] [Netty Server IO #3/INFO]: <Time_origin> 거미줄에 걸린거?[m
-[01:26:30] [Netty Server IO #4/INFO]: <namjo> ㅋㅋㅋㅋ[m
-[01:27:16] [Netty Server IO #5/INFO]: <topology> ㄴㅐㄱㅏ[m
-[01:27:17] [Netty Server IO #5/INFO]: <topology> ㄱㅗㄱㄱㅗㅐㅇㅇㅣㄹㅗ[m
-[01:27:19] [Netty Server IO #5/INFO]: <topology> ㅅㅡㅋㅔㄹㅇㅡㄹ ㅈㅏㅂㅇㅏㅆㄷㅏ[m
-[01:27:22] [Netty Server IO #3/INFO]: <Time_origin> ㅋㅋㅋㅋㅋㅋㅋㅋ[m
-[01:27:32] [Netty Server IO #3/INFO]: <Time_origin> 멋있어[m
-[01:27:37] [Netty Server IO #5/INFO]: <topology> ㄱㅅㄱㅅ[m
-[01:27:47] [Netty Server IO #3/INFO]: <Time_origin> 짱넓네[m
-[01:28:58] [Netty Server IO #3/INFO]: <Time_origin> 다들 어디?[m
-[01:29:09] [Netty Server IO #3/INFO]: <Time_origin> 같이 있구나[m
-[01:29:11] [Netty Server IO #5/INFO]: <topology> ㅇㅇㅇ[m
-[01:30:51] [Netty Server IO #3/INFO]: <Time_origin> 수박씨 있댔지[m
-[01:30:52] [Netty Server IO #5/INFO]: <topology> ㅋㅡㄹㅐㅍㅡㅌㅣㅇㅌㅔㅇㅣㅂㅡㄹㅈㅗ[m
-[01:30:54] [Netty Server IO #5/INFO]: <topology> ㅇㅇㅇ[m
-[01:31:10] [Netty Server IO #3/INFO]: <Time_origin> 오[m
-[01:31:18] [Netty Server IO #3/INFO]: <Time_origin> 스켈이 날 쐈는데 거미랑 싸우네[m
-[01:31:24] [Netty Server IO #5/INFO]: <topology> ㅋㅋㅋㅋ[m
-[01:31:38] [Netty Server IO #3/INFO]: <Time_origin> 크리퍼도 있는데 음반 도전 각인가[m
-[01:31:41] [Netty Server IO #5/INFO]: <topology> ㅇㅗ[m
-[01:31:42] [Netty Server IO #5/INFO]: <topology> ㄱㄱㄱㄱ[m
-[01:31:46] [Netty Server IO #4/INFO]: <namjo> ?[m
-[01:31:47] [Netty Server IO #3/INFO]: <Time_origin> 실패[m
-[01:31:50] [Netty Server IO #5/INFO]: <topology> ㅠㅠ[m
-[01:32:47] [Netty Server IO #3/INFO]: <Time_origin> 너네 보인다 ㅋㅋ[m
-[01:32:50] [Netty Server IO #5/INFO]: <topology> ㅋㅋ[m
-[01:33:07] [Netty Server IO #5/INFO]: <topology> ㅎㅇ[m
-[01:33:09] [Netty Server IO #3/INFO]: <Time_origin> ㅎㅇ[m
-[01:33:10] [Netty Server IO #5/INFO]: <topology> ㅅㅓㄱㅌㅏㄴ ㅋㅐㅈㅜㅓ[m
-[01:33:15] [Netty Server IO #3/INFO]: <Time_origin> ㅇㅋㅋ[m
-[01:33:58] [Netty Server IO #4/INFO]: <namjo> ㄷㅏ ㅌㅓㄴ ㄷㅡㅅ?[m
-[01:34:10] [Netty Server IO #5/INFO]: <topology> ㅇㅇ.[m
-[01:34:15] [Netty Server IO #4/INFO]: <namjo> ㄷㅓ ㄴㅐㄹㅕㄱㅏㅈㅏ[m
-[01:34:17] [Netty Server IO #4/INFO]: <namjo> ㅇㅔㅁㅔㄹㅏㄹㄷㅡ ㅋㅐㅇㅑㅈㅣ[m
-[01:34:32] [Netty Server IO #5/INFO]: <topology> ㄱㅡㄹㅓㅁㅕㄴ[m
-[01:34:33] [Netty Server IO #4/INFO]: <namjo> ㅇㅏ[m
-[01:34:34] [Netty Server IO #4/INFO]: <namjo> ㅌㅏㅇㅣㄱㅏㄴㅔ?[m
-[01:34:35] [Netty Server IO #5/INFO]: <topology> ㄴㅏㄴㅡㄴ ㅁㅓㄴㅈㅓ ㅈㅣㅂㅇㅡㄹㅗ ㄷㅗㄹㅇㅏㄱㅏㄷㅗㄹㅗㄱ ㅎㅏㅈㅣ[m
-[01:34:40] [Netty Server IO #4/INFO]: <namjo> ㅠㅠ[m
-[01:34:42] [Netty Server IO #4/INFO]: <namjo> ㄱㅏㅌㅇㅣㄱㅏㅈㅏ[m
-[01:34:45] [Netty Server IO #5/INFO]: <topology> ㅇㅋㅇㅋ[m
-[01:35:58] [Netty Server IO #5/INFO]: <topology> ㅅㅡㄹㅅㅡㄹ ㅈㅣㅂㅇㅡㄹㅗ ㄷㅗㄹㅇㅏㄱㅏㄹㄲㅏ[m
-[01:36:00] [Netty Server IO #5/INFO]: <topology> ㅎㅕㄴㅇㅏ ㅁㅜㅓㅎㅏㄴㅣ[m
-[01:36:08] [Netty Server IO #3/INFO]: <Time_origin> 나가려고[m
-[01:36:10] [Netty Server IO #3/INFO]: <Time_origin> 하는데[m
-[01:36:20] [Netty Server IO #5/INFO]: <topology> ㄱㅏㅌㅇㅣㄱ[m
-[01:36:21] [Netty Server IO #3/INFO]: <Time_origin> 으[m
-[01:36:24] [Netty Server IO #3/INFO]: <Time_origin> 어딨니[m
-[01:36:46] [Netty Server IO #5/INFO]: <topology> ㄷㄷ[m
-[01:37:03] [Netty Server IO #5/INFO]: <topology> ㅅㅓㄱㅌㅏㄴ 242ㄱㅐㅂㅏㄲㅇㅔ ㅇㅏㄴㄷㅗㅣㄴㅔ[m
-[01:37:13] [Netty Server IO #3/INFO]: <Time_origin> 나도 200개있어[m
-[01:37:15] [Netty Server IO #5/INFO]: <topology> ㄱㅜㄷ[m
-[01:37:49] [Netty Server IO #4/INFO]: <namjo> ㅂㅏㅇㄱㅡㅁ[m
-[01:37:52] [Netty Server IO #4/INFO]: <namjo> ㅂㅜㅅㅓㅈㅣㄴㅡㄴ ㅅㅗㄹㅣ ㄴㅏㅅㄴㅡㄴㄷㅔ[m
-[01:37:58] [Netty Server IO #5/INFO]: <topology> ㄴㅐㄲㅓ[m
-[01:37:59] [Netty Server IO #5/INFO]: <topology> ㅋㅋ[m
-[01:38:18] [Netty Server IO #3/INFO]: <Time_origin> 배터리가 30분 남당[m
-[01:38:23] [Netty Server IO #4/INFO]: <namjo> ㄴㅗㅌㅡㅂㅜㄱ?[m
-[01:38:26] [Netty Server IO #3/INFO]: <Time_origin> ㅇㅇ[m
-[01:38:29] [Netty Server IO #4/INFO]: <namjo> ㄲㅗㅈㅇㅏ[m
-[01:38:39] [Netty Server IO #4/INFO]: <namjo> ㅇㅏ ㅈㅣㄱㅡㅁ ㅎㅠㄱㅔㅅㅣㄹ?[m
-[01:38:41] [Netty Server IO #3/INFO]: <Time_origin> ㅇㅇ[m
-[01:38:43] [Netty Server IO #4/INFO]: <namjo> ㅇㅎ..[m
-[01:39:03] [Netty Server IO #3/INFO]: <Time_origin> 가져와도 ㄱ되긴한데[m
-[01:39:07] [Netty Server IO #3/INFO]: <Time_origin> 두시쯤 자지 뭐[m
-[01:39:23] [Netty Server IO #3/INFO]: <Time_origin> 요즘 늦잠 자고 싶은데 자꾸 일찍 깨서[m
-[01:39:28] [Netty Server IO #3/INFO]: <Time_origin> ㅠㅠ[m
-[01:39:29] [Netty Server IO #5/INFO]: <topology> ....[m
-[01:39:39] [Netty Server IO #3/INFO]: <Time_origin> 어제도 두시쯤 는데[m
-[01:39:42] [Netty Server IO #3/INFO]: <Time_origin> 일곱시 전에 깨서[m
-[01:39:44] [Netty Server IO #5/INFO]: <topology> ㅎㅓㄹ[m
-[01:39:46] [Netty Server IO #5/INFO]: <topology> ㅇㅓㄸㅓㅎㄱㅔ ㄱㅡㄹㅓㅎㄱㅔ ㄲㅐㅈㅣ[m
-[01:39:46] [Netty Server IO #4/INFO]: <namjo> ㄷㄷㄷㄷㄷㄷ[m
-[01:39:47] [Netty Server IO #3/INFO]: <Time_origin> 그냥 아침먹음[m
-[01:39:48] [Netty Server IO #4/INFO]: <namjo> ㄱㅡㄹㅓㄴㅣㄲㅏ[m
-[01:39:56] [Netty Server IO #4/INFO]: <namjo> ㅋㅡㄹㅣㅍㅓㄷㅏ[m
-[01:40:39] [Netty Server IO #4/INFO]: <namjo> ㄴㅓㄴㅔ ㅇㄷ?[m
-[01:40:43] [Netty Server IO #5/INFO]: <topology> ㅈㅣㅂㄱㅏㄴㅡㄴㅈㅜㅇ[m
-[01:40:49] [Netty Server IO #3/INFO]: <Time_origin> 준형이 쫒는중[m
-[01:41:01] [Netty Server IO #3/INFO]: <Time_origin> 은 놓침[m
-[01:41:04] [Netty Server IO #5/INFO]: <topology> ㅎㅎ[m
-[01:41:18] [Netty Server IO #3/INFO]: <Time_origin> -200 100인가?[m
-[01:41:37] [Netty Server IO #5/INFO]: <topology> ㄴㅐㄱㅏ ㅈㅣㄱㅡㅁ ㄱㅓㄱㅣㅇㅣㄴㄷㅔ ㅇㅓㅂㅅㄴㅡㄴㄱㅓㄹ ㅂㅗㅏㅅㅓ ㅇㅏㄴㅣㄴ ㄱㅓㅅ ㄱㅏㅌㅇㅏ[m
-[01:41:57] [Netty Server IO #4/INFO]: <namjo> ㅎㅕㄴㅇㅣㄷㅏ[m
-[01:41:58] [Netty Server IO #4/INFO]: <namjo> ㅎㅇ[m
-[01:42:00] [Netty Server IO #3/INFO]: <Time_origin> ㅎㅇㅎㅇ[m
-[01:42:11] [Netty Server IO #3/INFO]: <Time_origin> 내가 원래 있던데다[m
-[01:42:50] [Netty Server IO #4/INFO]: <namjo> ???[m
-[01:43:05] [Netty Server IO #5/INFO]: <topology> ㅇㅇ?[m
-[01:43:09] [Netty Server IO #4/INFO]: <namjo> ㅊㅏㅈㅇㅡㅁ[m
-[01:43:21] [Netty Server IO #5/INFO]: <topology> ㅈㅏㄴㅡㄴㄱㅓㄴ ㅇㅓㄸㅓㄴㅑ[m
-[01:43:24] [Netty Server IO #5/INFO]: <topology> ㅇㅏㅈㅣㄱ ㅇㅏㄴㅣㄱㅜㄴ[m
-[01:43:29] [Netty Server IO #3/INFO]: <Time_origin> 다이아가 점토보다 11밴가 귀하대[m
-[01:43:35] [Netty Server IO #3/INFO]: <Time_origin> 희귀하대[m
-[01:43:39] [Netty Server IO #4/INFO]: <namjo> ㅇㅣㄹㄹㅜㅇㅗㅏ[m
-[01:43:40] [Netty Server IO #4/INFO]: <namjo> ㅈㅏㅇㅑㅈㅣ[m
-[01:43:55] [Netty Server IO #5/INFO]: <topology> ㄴㅏㄴㅡㄴ ㅇㅗㅣㅂㅏㄱㅎㅏㄴㄷㅏ[m
-[01:44:02] [Netty Server IO #3/INFO]: <Time_origin> ㅠㅠ[m
-[01:44:15] [Netty Server IO #4/INFO]: <namjo> ㅃㅏㄹㄹㅣㅈㅏ[m
-[01:44:29] [Netty Server IO #5/INFO]: <topology> ㅇㅕㄱㅣ[m
-[01:44:30] [Netty Server IO #5/INFO]: <topology> ㅅㅣㄱㄷㅏㅇ ㅁㅏㄴㄷㅡㄹㅈㅏ[m
-[01:44:31] [Netty Server IO #5/INFO]: <topology> ㅇㅣ ㅈㅣㅂㅇㅔ[m
-[01:44:34] [Netty Server IO #5/INFO]: <topology> ㅈㅜㅂㅏㅇㅇㅡㄹ ㅁㅏㄴㄷㅡㄹㅇㅓㅅㅓ[m
-[01:44:34] [Netty Server IO #3/INFO]: <Time_origin> ㅇ오오오[m
-[01:44:37] [Netty Server IO #3/INFO]: <Time_origin> 좋은 생각이야[m
-[01:44:41] [Netty Server IO #4/INFO]: <namjo> ㅁㅜㅎㅏㄴㅎㅗㅏㄹ[m
-[01:44:43] [Netty Server IO #5/INFO]: <topology> ㄱㅓㄱㅣㄷㅏㄱㅏ furnaceㄱㅏㅌㅇㅡㄴㄱㅓ ㅁㅏㄱ ㄴㅓㅎㄱㅗ[m
-[01:44:43] [Netty Server IO #4/INFO]: <namjo> ㅇㅣㄴㅊㅐㄴ ㄸㅡㄴ ㅅㅏㄹㅏㅁ?[m
-[01:44:53] [Netty Server IO #3/INFO]: <Time_origin> 2층에 만들어야지[m
-[01:44:56] [Netty Server IO #5/INFO]: <topology> ㅎㅗㅏㄹ ㅈㅜㅓㅂㅗㅏㅇ[m
-[01:45:17] [Netty Server IO #5/INFO]: <topology> ㄴㅏ ㅎㅗㅏㄹ ㅎㅏㄴㅏㅁㅏㄴ[m
-[01:45:40] [Netty Server IO #3/INFO]: <Time_origin> 참나무ㄷ가 5셋이네[m
-[01:45:42] [Netty Server IO #3/INFO]: <Time_origin> 넣어놨어[m
-[01:45:46] [Netty Server IO #5/INFO]: <topology> ㄱㅅㄱㅅ[m
-[01:45:54] [Netty Server IO #5/INFO]: <topology> ㄴㅏ powerㅇㅣㅁ..[m
-[01:45:57] [Netty Server IO #3/INFO]: <Time_origin> 돌이랑 석탄도[m
-[01:46:03] [Netty Server IO #3/INFO]: <Time_origin> 딴거 만들엉[m
-[01:46:04] [Netty Server IO #3/INFO]: <Time_origin> ㅎㅎ[m
-[01:46:07] [Netty Server IO #3/INFO]: <Time_origin> 칼같은거[m
-[01:46:13] [Netty Server IO #5/INFO]: <topology> ㄱㅗㄱㄱㅗㅐㅇㅇㅣㄱㅏ ㅍㅗㅊㅠㄴㅇㅣㄱㅣㄴ ㅎㅐ[m
-[01:46:20] [Netty Server IO #3/INFO]: <Time_origin> ㄱㄱ[m
-[01:46:22] [Netty Server IO #4/INFO]: <namjo> ㅁㅜㅎㅏㄴㅎㅗㅏㄹㅇㅣㄷㅏ[m
-[01:46:25] [Netty Server IO #5/INFO]: <topology> ㅇㅗ[m
-[01:46:25] [Netty Server IO #4/INFO]: <namjo> ㅅㅓㄱㅇㅕㅇㅋㅐㄹㅓ ㄱㅏㄹ ㅅㅏㄹㅏㅁ?[m
-[01:46:28] [Netty Server IO #3/INFO]: <Time_origin> 앗[m
-[01:46:30] [Netty Server IO #5/INFO]: <topology> ㄴㅏㅁㅈㅗ[m
-[01:46:30] [Netty Server IO #3/INFO]: <Time_origin> 저요[m
-[01:46:38] [Netty Server IO #4/INFO]: <namjo> ㅁㅜㄴㅇㅏㅍㅇㅔㅅㅓ ㅂㅗㅈㅏ[m
-[01:46:38] [Netty Server IO #5/INFO]: <topology> ㅈㅏㄹ ㅋㅐㄱㅗ ㅇㅗㅏㅇ[m
-[01:46:41] [Netty Server IO #5/INFO]: <topology> ㄴㅏㄴ ㅇㅕㄱㅣㅅㅓ ㅁㅜㅓㅈㅗㅁ ㅎㅏㄱㅗ ㅇㅣㅆㅇㅡㄹㄱㅔ[m
-[01:46:46] [Netty Server IO #3/INFO]: <Time_origin> 아 근데 배터리가 곧 끝이다[m
-[01:46:52] [Netty Server IO #4/INFO]: <namjo> ㅠㅠ?[m
-[01:46:52] [Netty Server IO #3/INFO]: <Time_origin> 다음에 갈게[m
-[01:46:55] [Netty Server IO #4/INFO]: <namjo> ㄱㅡㄹㅓㅁ[m
-[01:46:57] [Netty Server IO #4/INFO]: <namjo> ㄴㅐㅇㅣㄹ ㄱㅏㄴㅡㄴㄱㅓㄹㄹㅗ[m
-[01:46:59] [Netty Server IO #4/INFO]: <namjo> ㄴㅏㄷㅗ ㅈㅏㅇㅑㄱㅔㅆㄷㅏ[m
-[01:47:00] [Netty Server IO #3/INFO]: <Time_origin> ㅇㅇ[m
-[01:47:04] [Netty Server IO #4/INFO]: <namjo> ㄱㅐㅍㅣㄱㅗㄴ[m
-[01:47:04] [Netty Server IO #5/INFO]: <topology> ㅊㅏㅁㄴㅏㅁㅜ ㅇㅓㄷㅣㅆㅅㅓㅇ[m
-[01:47:05] [Netty Server IO #4/INFO]: <namjo> ㄴㅜㄴㅇㅏㅍㅓ[m
-[01:47:12] [Netty Server IO #3/INFO]: <Time_origin> 제일큰방엘[m
-[01:47:21] [Netty Server IO #3/INFO]: <Time_origin> 남조 잘자[m
-[01:47:25] [Netty Server IO #4/INFO]: <namjo> ㅇㅇ ㅂㅂ[m
-[01:47:30] [Netty Server IO #5/INFO]: <topology> ㅎㅗㅇㅗㅇㅗㅇㅗ[m
-[01:47:33] [Netty Server IO #5/INFO]: <topology> ㅊㅏㅁㄴㅏㅁㅜ ㅉㅏㅇㅁㅏㄴㅏ[m
-[01:47:33] [Netty Server IO #5/INFO]: <topology> ㅂㅂ[m
-[01:47:36] [Netty Server IO #4/INFO]: <namjo> ㄴㅓㄷㅗ[m
-[01:47:38] [Netty Server IO #4/INFO]: <namjo> ㅈㅏㅇㅑㅈㅣ[m
-[01:47:41] [Netty Server IO #4/INFO]: <namjo> ㅇㅓㄴㅈㅔㅈㅏㅁ?[m
-[01:47:45] [Netty Server IO #4/INFO]: <namjo> ㅅㅓㅂㅓ ㄲㅡㄹㅕㄱㅗ ㅎㅏㄴㅡㄴㄷㅔ[m
-[01:47:47] [Netty Server IO #4/INFO]: <namjo> ㄱㅖㅅㅗㄱ ㅋㅕㄴㅗㅏ?[m
-[01:47:47] [Netty Server IO #5/INFO]: <topology> ㄴㅏ[m
-[01:47:51] [Netty Server IO #5/INFO]: <topology> ㄴㅏㅁㅜㅁㅏㄴ ㅇㅣㄴㅂㅔㄴㅇㅔ ㄴㅓㅎㅇㅓㄴㅗㅎㄱㅗ[m
-[01:47:51] [Netty Server IO #3/INFO]: <Time_origin> 음[m
-[01:47:52] [Netty Server IO #5/INFO]: <topology> ㅈㅏㄹㄹㅏㄱㅗ[m
-[01:47:55] [Netty Server IO #4/INFO]: <namjo> ㅇㅎ[m
-[01:47:56] [Netty Server IO #3/INFO]: <Time_origin> 나도 자야지[m
-[01:47:59] [Netty Server IO #4/INFO]: <namjo> ㅈㅗㅁㅁㅏㄴ ㄱㅣㄷㅏㄹㅕㄷㅡㄹㅣㅁ[m
-[01:48:00] [Netty Server IO #3/INFO]: <Time_origin> 안녕![m
-[01:48:03] [Netty Server IO #4/INFO]: <namjo> ㅇㅇ![m
-[01:48:05] [Netty Server IO #5/INFO]: <topology> ㅂㅂ![m
-[01:48:06] [Server thread/INFO]: Time_origin lost connection: Disconnected
-[01:48:06] [Server thread/INFO]: Time_origin left the game
-[01:48:15] [Netty Server IO #5/INFO]: <topology> 3ㅊㅡㅇㅇㅔ ㅇㅗㄹㄹㅏㅇㅗㅏㅆㅇㅡㄴㅣ[m
-[01:48:17] [Netty Server IO #5/INFO]: <topology> ㄴㅏㄷㅗ ㅈㅏㄴㄷㅏ[m
-[01:48:17] [Netty Server IO #5/INFO]: <topology> ㅂㅂ[m
-[01:48:19] [Netty Server IO #4/INFO]: <namjo> ㅂㅂ[m
-[01:48:20] [Server thread/INFO]: namjo lost connection: Disconnected
-[01:48:20] [Server thread/INFO]: namjo left the game
-[01:48:21] [Server thread/INFO]: topology lost connection: Disconnected
-[01:48:21] [Server thread/INFO]: topology left the game
-[01:48:25] [Server thread/INFO]: Stopping the server
-[01:48:25] [Server thread/INFO]: Stopping server
-[01:48:25] [Server thread/INFO]: Saving players
-[01:48:25] [Server thread/INFO]: Saving worlds
-[01:48:25] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[01:48:26] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
-[01:48:26] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
+[17:55:23] [Server thread/INFO]: Starting minecraft server version 1.11
+[17:55:23] [Server thread/INFO]: Loading properties
+[17:55:23] [Server thread/INFO]: Default game type: SURVIVAL
+[17:55:23] [Server thread/INFO]: Generating keypair
+[17:55:24] [Server thread/INFO]: Starting Minecraft server on 192.168.0.6:25565
+[17:55:24] [Server thread/INFO]: Using default channel type
+[17:55:24] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-221508d (MC: 1.11) (Implementing API version 1.11-R0.1-SNAPSHOT)
+[17:55:24] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:55:24] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:55:24] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:55:24] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:55:24] [Server thread/INFO]: Preparing level "world"
+[17:55:25] [Server thread/INFO]: Preparing start region for level 0 (Seed: -4810160217482064677)
+[17:55:27] [Server thread/INFO]: Preparing spawn area: 0%
+[17:55:28] [Server thread/INFO]: Preparing spawn area: 25%
+[17:55:29] [Server thread/INFO]: Preparing spawn area: 83%
+[17:55:30] [Server thread/INFO]: Preparing start region for level 1 (Seed: -4810160217482064677)
+[17:55:31] [Server thread/INFO]: Preparing spawn area: 59%
+[17:55:31] [Server thread/INFO]: Preparing start region for level 2 (Seed: -4810160217482064677)
+[17:55:32] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[17:55:32] [Server thread/INFO]: Done (7.577s)! For help, type "help" or "?"
+[17:55:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2193ms behind, skipping 43 tick(s)
+[18:28:02] [Server thread/INFO]: topology[/210.117.73.64:19480] logged in with entity id 878 at ([world]80.49190922031838, 86.0, 268.7882632657637)
+[18:28:48] [Server thread/INFO]: namjo[/192.168.0.6:50134] logged in with entity id 2043 at ([world]128.29578440660373, 69.0, 246.85520527942543)
+[18:28:50] [Netty Server IO #3/INFO]: <topology> ㅇㅎ[m
+[18:28:51] [Netty Server IO #3/INFO]: <topology> ㅎ[m
+[18:28:53] [Netty Server IO #5/INFO]: <namjo> ㅎㅇ[m
+[18:28:53] [Netty Server IO #3/INFO]: <topology> ㅎㅇ[m
+[18:28:57] [Server thread/INFO]: MC_Square[/110.11.109.86:3330] logged in with entity id 2646 at ([world]599.1400759428227, 64.0, 90.82410399398906)
+[18:28:59] [Netty Server IO #3/INFO]: <topology> ㅎㅇ[m
+[18:29:00] [Netty Server IO #5/INFO]: <namjo> ㅇㅗ ㄷㅐㄱㅕㅇㅇㅣ[m
+[18:29:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2259ms behind, skipping 45 tick(s)
+[18:29:21] [Netty Server IO #7/INFO]: <MC_Square> ㅎㅇ[m
+[18:29:30] [Netty Server IO #3/INFO]: <topology> ㅊㅏㅁㄴㅏㅁㅜㅈㅗㅁ ㅁㅏㄴㅎㅇㅣㅁㅏㄴㅎㅇㅣ ㅎㅐㄷㅏㅈㅜㅓㅎㅎㅎㅎ[m
+[18:29:49] [Netty Server IO #5/INFO]: <namjo> ㄹㅔㄱㅇㅣ ㅈㅗㅁ ㅁㅏㄴㅎㄷㅏ[m
+[18:29:54] [Netty Server IO #3/INFO]: <topology> ㅗ;[m
+[18:29:55] [Netty Server IO #3/INFO]: <topology> ㅅㅗ;[m
+[18:30:00] [Netty Server IO #5/INFO]: <namjo> ㄷㅏㄹㄱㅇㅣ ㅁㅜㄴㅈㅔㅇㅣㅁ[m
+[18:31:11] [Netty Server IO #7/INFO]: <MC_Square> 야 근데 여기 어디냐[m
+[18:31:25] [Netty Server IO #3/INFO]: <topology> ㄱㅡㄱㅓㄹ ㄴㅐㄱㅏ ㅇㅓㄸㅓㅎㄱㅔ ㅇㅏㄹㅇㅏ[m
+[18:31:27] [Netty Server IO #3/INFO]: <topology> ㅋㅋㅋㅋㅋㅋ[m
+[18:33:37] [Server thread/INFO]: MC_Square has just earned the achievement [Benchmarking]
+[18:33:41] [Netty Server IO #3/INFO]: <topology> ㅊㅊ[m
+[18:33:58] [Server thread/INFO]: MC_Square has just earned the achievement [Time to Mine!]
+[18:34:00] [Netty Server IO #3/INFO]: <topology> ㅊㅊ[m
+[18:34:05] [Netty Server IO #7/INFO]: <MC_Square> 닥쳐[m
+[18:34:08] [Netty Server IO #3/INFO]: <topology> ㅠㅠ[m
+[18:35:34] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2110ms behind, skipping 42 tick(s)
+[18:38:48] [Netty Server IO #3/INFO]: <topology> ㅈㅏㄹ ㄸㅐㄱㅏ ㄷㅗㅣㅇㅓㅆㅇㅓ[m
+[18:39:02] [Netty Server IO #5/INFO]: <namjo> ㄷㅐㄱㅕㅇㅇㅏ ㅊㅣㅁㄷㅐ ㅇㅓㅂㅅㅇㅡㅁㅕㄴ ㄴㅏㄱㅏㅆㄷㅏ 3ㅊㅗㄷㅜㅣㅇㅔ ㄷㅡㄹㅇㅓㅇㅗㅏ[m
+[18:39:08] [Netty Server IO #7/INFO]: <MC_Square> ㅇㅋ[m
+[18:39:11] [Server thread/INFO]: MC_Square lost connection: Disconnected
+[18:39:11] [Server thread/INFO]: MC_Square left the game
+[18:39:19] [Server thread/INFO]: MC_Square[/110.11.109.86:3354] logged in with entity id 36702 at ([world]600.3000000119209, 72.0, -228.30000001192093)
+[18:39:23] [Netty Server IO #3/INFO]: <topology> ㄱㅜㄷ[m
+[18:42:51] [Netty Server IO #5/INFO]: <namjo> ㅈㅜㄴㅎㅕㅇㅇㅏ ㅇㅣㄹㅣㅇㅗㄴ[m
+[18:42:57] [Netty Server IO #3/INFO]: <topology> ㅇ???[m
+[18:43:03] [Netty Server IO #5/INFO]: <namjo> 1ㅊㅡㅇㅇㅡㄹㅗ ㅇㅗㅏ[m
+[18:43:11] [Netty Server IO #3/INFO]: <topology> ㄴㅏ ㅇㅣㄱㅓㅁㅏㄴ ㄷㅏ ㅊㅐㅇㅜㄱㅗ[m
+[18:43:13] [Netty Server IO #3/INFO]: <topology> ㅇㅣㄱㅓ ㅊㅐㅇㅜㄴㅡㄴㄱㅓ ㄲㅜㄹㅈㅐㅁㅇㅣㅁ[m
+[18:43:17] [Netty Server IO #5/INFO]: <namjo> ㅇㄷ?[m
+[18:43:19] [Netty Server IO #3/INFO]: <topology> 3ㅊㅡㅇ[m
+[18:43:53] [Netty Server IO #3/INFO]: <topology> ㅗ[m
+[18:43:55] [Netty Server IO #5/INFO]: <namjo> ㅎ[m
+[18:44:01] [Netty Server IO #5/INFO]: <namjo> ㄴㅐㄱㅏ ㅅㅓㄴㅁㅜㄹㅈㅜㄹㄲㅔ[m
+[18:44:06] [Netty Server IO #3/INFO]: <topology> ㅇ???[m
+[18:44:35] [Netty Server IO #5/INFO]: <namjo> ???????????????[m
+[18:44:48] [Netty Server IO #3/INFO]: <topology> ㅁㅏㅈㅣㅁㅏㄱ ㄹㅏㅇㅣㄴㅇㅣㄷㅏ[m
+[18:45:24] [Netty Server IO #3/INFO]: <topology> ....[m
+[18:45:25] [Netty Server IO #5/INFO]: <namjo> ??[m
+[18:45:38] [Netty Server IO #5/INFO]: <namjo> ㅈㅓㄱㅓㅁㅜㅓㅇㅑ[m
+[18:45:43] [Netty Server IO #3/INFO]: <topology> ㄱㅗㄷ ㅁㅏㄱㅇㅡㄹㄱㅓ[m
+[18:45:45] [Netty Server IO #5/INFO]: <namjo> ㅇㅎ[m
+[18:45:51] [Netty Server IO #1/INFO]: <MC_Square> 좌표좀[m
+[18:45:56] [Netty Server IO #3/INFO]: <topology> 79 270[m
+[18:46:20] [Netty Server IO #3/INFO]: <topology> ㅗㅗ[m
+[18:46:22] [Netty Server IO #5/INFO]: <namjo> ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ[m
+[18:46:23] [Netty Server IO #5/INFO]: <namjo> ㅁㅣㅇㅏㄴ[m
+[18:46:27] [Netty Server IO #5/INFO]: <namjo> ㅈㅏ[m
+[18:46:28] [Netty Server IO #3/INFO]: <topology> ㅅㅓㄴㅁㅜㄹㅇㅣ ㅁㅜㅓㅇㅑ[m
+[18:46:35] [Netty Server IO #5/INFO]: <namjo> ㄴㅐㄱㅏ ㅈㅓㅂㅓㄴㅇㅔ ㅈㅜㄴㄱㅓ ㅇㅣㅆㅈㅣ?[m
+[18:46:35] [Netty Server IO #3/INFO]: <topology> ㅇㅗㅇㅗㅇㅗ[m
+[18:46:36] [Netty Server IO #5/INFO]: <namjo> ㅎㅏㅂㅊㅕ[m
+[18:46:36] [Netty Server IO #3/INFO]: <topology> ㄱㅅㄱㅅ[m
+[18:46:47] [Netty Server IO #5/INFO]: <namjo> ㅎㅏㅂㅊㅣㄹㅓ ㄱㅏㅈㅏ[m
+[18:47:26] [Netty Server IO #5/INFO]: <namjo> ㅋㅡ[m
+[18:47:30] [Netty Server IO #3/INFO]: <topology> ㅉㅣㄹㅕㅆㄷㅏ[m
+[18:47:31] [Netty Server IO #5/INFO]: <namjo> ㅁㅜㅓㅂㅜㅌㅇㅡㅁ?[m
+[18:47:32] [Netty Server IO #3/INFO]: <topology> ㄱㅅㄱㅅ[m
+[18:47:35] [Netty Server IO #1/INFO]: <MC_Square> 나 밥좀[m
+[18:47:36] [Server thread/INFO]: MC_Square lost connection: Disconnected
+[18:47:36] [Server thread/INFO]: MC_Square left the game
+[18:47:37] [Netty Server IO #5/INFO]: <namjo> ㅇㅇ ㅠ[m
+[18:47:44] [Netty Server IO #3/INFO]: <topology> ㄴㅐㄱㅜ3 ㅍㅓㄴㅊㅣ2 ㅎㅗㅏㅇㅕㅁ ㅁㅜㅎㅏㄴ ㅎㅣㅁ4[m
+[18:47:47] [Netty Server IO #5/INFO]: <namjo> ㄱㅜㄷ[m
+[18:47:50] [Netty Server IO #5/INFO]: <namjo> ㅎㅣㅁ4ㄱㅏ ㅈㅗㅁ ㅇㅏㅅㅜㅣㅂㄷㅏ[m
+[18:48:02] [Netty Server IO #3/INFO]: <topology> ㄴㅐㄱㅏ ㅈㅣㄱㅡㅁ[m
+[18:48:09] [Netty Server IO #3/INFO]: <topology> ㅎㅣㅁ4 ㅇㅣㄴㅊㅐㄴㅇㅣ ㅂㅗㅈㅏㅇㅇㅣㄴㄷㅔ[m
+[18:48:11] [Netty Server IO #5/INFO]: <namjo> ㅇㅎ[m
+[18:48:13] [Netty Server IO #3/INFO]: <topology> ㅁㅜㄴㅈㅔㄴㅡㄴ ㄹㅔㅂㅔㄹㅇㅣ 3ㅇㅣㅇㅑ[m
+[18:48:15] [Netty Server IO #3/INFO]: <topology> ;;[m
+[18:48:16] [Netty Server IO #5/INFO]: <namjo> ㅋㅋ[m
+[18:49:13] [Netty Server IO #5/INFO]: <namjo> ㄴㅏㄷㅗ ㅎㅣㅁ4 ㅂㅗㅈㅏㅇㅇㅣㄴㄷㅔ[m
+[18:49:26] [Netty Server IO #3/INFO]: <topology> ㅇㅗ[m
+[18:49:27] [Netty Server IO #3/INFO]: <topology> ㄱㅏㄱㅇㅣㄴㄱㅏ[m
+[18:49:33] [Netty Server IO #5/INFO]: <namjo> ㅈㅣㅇㅗㄱ ㄱㅏㅈㅏ[m
+[18:49:39] [Netty Server IO #5/INFO]: <namjo> ㄴㅓㄷㅗ ㅎㅏㅂㅊㅣㄹ ㄹㅔㅂㅔㄹㅇㅡㄴ ㅁㅏㄴㄷㅡㄹㅇㅓㅇㅑㅈㅣ[m
+[18:49:43] [Netty Server IO #3/INFO]: <topology> ㅈㅏㅁㅇㅡㄴ ㅈㅏㄱㅗ[m
+[18:49:50] [Netty Server IO #5/INFO]: <namjo> ㅈㅣㅇㅗㄱ ㄱㄱ[m
+[18:49:54] [Netty Server IO #3/INFO]: <topology> ㄱ[m
+[18:49:59] [Netty Server IO #3/INFO]: <topology> ㄷㅐㅅㅣㄴ[m
+[18:50:01] [Netty Server IO #3/INFO]: <topology> ㄴㅐㄱㅏ ㄱㅓㅁㅇㅣ ㅇㅓㅂㅅㅇㅓㅅㅓ[m
+[18:50:02] [Netty Server IO #5/INFO]: <namjo> ?[m
+[18:50:03] [Netty Server IO #3/INFO]: <topology> ㅎㅗㅏㄹㅁㅏㄴ ㅆㅓㅇㅑㅎㅏㅁ[m
+[18:50:03] [Netty Server IO #5/INFO]: <namjo> ㅇㅎ[m
+[18:50:05] [Netty Server IO #5/INFO]: <namjo> ㅁㅜㅓㅇㅓㄸㅐ[m
+[18:50:09] [Netty Server IO #5/INFO]: <namjo> ㅎㅐㅂㅗㅏㅇㅑ ㄱㅏㅅㅡㅌㅡ ㅂㅡㄹㄹㅔㅇㅣㅈㅡ[m
+[18:50:10] [Netty Server IO #3/INFO]: <topology> ㄱ[m
+[18:50:32] [Netty Server IO #3/INFO]: <topology> ㄹㅔㄱ;;;[m
+[18:50:36] [Netty Server IO #5/INFO]: <namjo> ㅇㅓㅉㅓㄹ ㅅㅜ ㅇㅓㅂㅅㅇㅡㅁ[m
+[18:51:16] [Server thread/WARN]: topology moved too quickly! -4.29650613541493,1.0,11.80289551452114
+[18:51:20] [Netty Server IO #5/INFO]: <namjo> ㄴㅓ ㅅㅜㄴㄱㅏㄴㅇㅣㄷㅗㅇ ㅋㅋ[m
+[18:51:24] [Netty Server IO #5/INFO]: <namjo> ㅇㅏㅈㅣㄱㄷㅗ ㄹㅗㄷㅣㅇㅇㅣㄴㅑ[m
+[18:51:30] [Netty Server IO #3/INFO]: <topology> ㄴㄴ[m
+[18:51:51] [Netty Server IO #3/INFO]: <topology> ㄴㅏ ㅁㅓㄱㅇㅡㄹㄱㅓㅈㅗㅁ[m
+[18:52:05] [Netty Server IO #5/INFO]: <namjo> ㅇㅣㄹㄹㅜㅇㅗㅏ[m
+[18:52:12] [Netty Server IO #3/INFO]: <topology> ㄱㅅㄱㅅ[m
+[18:52:13] [Netty Server IO #3/INFO]: <topology> ㅇㅏㄴㅁㅓㄱㅇㅓㅈㅕ ㅅㅂ[m
+[18:52:16] [Netty Server IO #5/INFO]: <namjo> ㅋㅋㅋㅋㅋ[m
+[18:52:37] [Netty Server IO #3/INFO]: <topology> ㅎㅏ..ㄹㅔㄱ..[m
+[18:52:43] [Netty Server IO #5/INFO]: <namjo> ㅇㅏㄹㅇㅏㅅㅓ ㅋㅐㅈㅏ[m
+[18:52:51] [Netty Server IO #3/INFO]: <topology> ㅅㅂ[m
+[18:52:55] [Netty Server IO #3/INFO]: <topology> ㅊㅓㄹ ㅇㅣㅆㄴㅑ[m
+[18:53:01] [Netty Server IO #3/INFO]: <topology> ㅎㅏㅍㅣㄹ ㄱㅏㅈㄱㅗㅇㅣㅆㄴㅡㄴㄱㅔ ㅅㅣㄹㅋㅡㅌㅓㅊㅣㄹㅏㄴㅣ....[m
+[18:53:09] [Netty Server IO #3/INFO]: <topology> ㄱㅅ[m
+[18:53:11] [Netty Server IO #3/INFO]: <topology> ㄱㅅㄱㅅ[m
+[18:53:22] [Netty Server IO #5/INFO]: <namjo> ㄴㅓ ㅇㅣㅈㅔㅇㅑ ㄹㅔㄱ ㅍㅜㄹㄹㅣㅁ[m
+[18:53:23] [Netty Server IO #5/INFO]: <namjo> ㅋㅋ[m
+[18:53:31] [Netty Server IO #3/INFO]: <topology> ㄱㅡㅋㅕㅁ[m
+[18:53:45] [Netty Server IO #3/INFO]: <topology> ㄹㅔㄱ ㅌㅔㅅㅡㅌㅡ[m
+[18:53:49] [Netty Server IO #3/INFO]: <topology> ㅇㅏㅈㅣㄱ ㅈㅗㅁ ㅇㅣㅆㄷㅏ[m
+[18:54:16] [Netty Server IO #5/INFO]: <namjo> ㅇㅏㄹㅇㅏㅅㅓ ㅋㅐ[m
+[18:54:20] [Netty Server IO #5/INFO]: <namjo> ㅇㅣㄸㅏ ㄷㅗㄹㅇㅏㄱㅏㄹ ㄸㅐ ㅁㅏㄴㄴㅏㅈㅏㄱㅜ[m
+[18:54:25] [Netty Server IO #3/INFO]: <topology> ㅇㅋ[m
+[18:54:58] [Netty Server IO #3/INFO]: <topology> ㅅㅂ[m
+[18:55:01] [Netty Server IO #5/INFO]: <namjo> ?[m
+[18:55:11] [Netty Server IO #3/INFO]: <topology> ㄱㅏㅅㅡㅌㅡ ㄱㅐㅁㅏㄴㅏ[m
+[18:55:17] [Netty Server IO #5/INFO]: <namjo> ㄷㅏ ㅆㅗㅏ ㅈㅜㄱㅇㅕ[m
+[18:55:47] [Netty Server IO #3/INFO]: <topology> ㄱㅡㄱㅎㅕㅁ[m
+[18:57:14] [Netty Server IO #3/INFO]: <topology> ㅅㅂ;;;;;[m
+[18:57:43] [Netty Server IO #3/INFO]: <topology> ㅈㄱㅡㄱㅎㅕㅁ[m
+[18:58:31] [Netty Server IO #5/INFO]: <namjo> ㅇㅑ ㄴㅏ ㅇㅣㅂㅓㄴㅎㅏㄱㄱㅣ ㄷㅡㄷㅣㅇㅓ[m
+[18:58:36] [Netty Server IO #5/INFO]: <namjo> 4.0ㅇㅡㄹ ㄴㅗㄹㅕㅂㅗㄹ ㅅㅜ ㅇㅣㅆㄱㅔ ㄷㅗㅣㅁ[m
+[18:58:41] [Netty Server IO #3/INFO]: <topology> 4.0 ㅊㅊ[m
+[18:58:57] [Netty Server IO #5/INFO]: <namjo> ㅁㅏㄱ ㅅㅓㄹㅁㅏ[m
+[18:59:03] [Netty Server IO #5/INFO]: <namjo> ㄷㅣㅂㅣㄱㅐ ㅅㅣㅎㅓㅁ ㄱㅐㅈㅏㄹㅂㅗㅏㅆㄴㅡㄴㄷㅔ[m
+[18:59:06] [Netty Server IO #5/INFO]: <namjo> ㅇㅔㅁㅏ ㄸㅡㄱㅗ ㄱㅡㄹㅓㅈㅣㄴ ㅇㅏㄴㅎㄱㅔㅆㅈㅣ[m
+[18:59:20] [Netty Server IO #5/INFO]: <namjo> ㄱㅡㄴㄷㅔ ㄷㅣㅂㅣㄱㅐㄴㅡㄴ ㄷㅡㄷㅈㅣ ㅁㅏㅅㅔㅁ[m
+[18:59:27] [Netty Server IO #5/INFO]: <namjo> ㅊㅏㄹㅏㄹㅣ ㄴㅔㅌㅜㅓㄱㅇㅡㄹ ㄷㅡㄹㅇㅓ[m
+[18:59:40] [Netty Server IO #3/INFO]: <topology> ㄷㅡㄹㅇㅡㄹㅏ ㅎㅐㄷㅗ ㅇㅏㄴㄷㅡㄹㅇㅡㄹㄱㅓㅇㅣㅁ[m
+[18:59:44] [Netty Server IO #5/INFO]: <namjo> ㄴㅓㅇㅡㅣ ㅁㅐㄱㅇㅡㄴ[m
+[18:59:49] [Netty Server IO #5/INFO]: <namjo> C friendly ㅎㅏㅈㅣㅁㅏㄴ[m
+[18:59:52] [Netty Server IO #5/INFO]: <namjo> phpㄴㅡㄴ ㅇㅏㄴㅣㅇㅑ[m
+[19:00:16] [Netty Server IO #3/INFO]: <topology> ㅇㅏㅋㅣ ㅆㅣㅂㅜㄹㅏㄹ[m
+[19:00:19] [Netty Server IO #3/INFO]: <topology> ㅇㅏㅋㅣㄱㅏ ㅆㅏㄴ ㄸㅗㅇ[m
+[19:00:22] [Netty Server IO #3/INFO]: <topology> ㅇㅗㅌㅗㅁㅏㅌㅏㄹㅏㅇ ㅍㅣㅇㅔㄹㅇㅣ ㅊㅣㅇㅜㄴㅔ[m
+[19:00:26] [Netty Server IO #5/INFO]: <namjo> ㅈㅣㄹㅕㄸㅏ[m
+[19:00:29] [Netty Server IO #5/INFO]: <namjo> ㅂㅗㅌㅗㅇ ㅂㅏㄴㄷㅐ ㅇㅏㄴㅣㄴㅑ[m
+[19:00:32] [Netty Server IO #3/INFO]: <topology> ㄹㅇ[m
+[19:00:41] [Netty Server IO #3/INFO]: <topology> ㅂㅗㅌㅗㅇ[m
+[19:00:48] [Netty Server IO #3/INFO]: <topology> ㅍㅣㅇㅔㄹㄱㅗㅏ ㅇㅗㅌㅗㅁㅏㅌㅏㄱㅏ ㅆㅏㄴ ㄸㅗㅇㅇㅡㄹ ㅊㅣㅇㅜㄱㅣ ㅇㅜㅣㅎㅐ[m
+[19:00:51] [Netty Server IO #3/INFO]: <topology> ㅇㅏㅋㅣㄹㅡㄹ ㅇㅕㄹㅅㅣㅁㅎㅣ ㅎㅏㄴㅡㄴㄷㅔ[m
+[19:00:52] [Netty Server IO #3/INFO]: <topology> ㄴㅏㄴ ㅆㅣㅂㅓㄹ[m
+[19:00:58] [Netty Server IO #3/INFO]: <topology> ㅂㅏㄴㄷㅐㄹㅏㅅㅓ[m
+[19:00:59] [Netty Server IO #5/INFO]: <namjo> ㅇㅡㅇ ㅍㅣㅇㅔㄹ 1ㄷㅡㅇ~[m
+[19:01:01] [Netty Server IO #3/INFO]: <topology> ㄴㅓ ㅈㅗㅈㅁㅏㅇㅇㅣㄴㄷㅡㅅ[m
+[19:01:06] [Netty Server IO #3/INFO]: <topology> ㄴㅓㄱㅏ ㅇㅏㄴㅣㄹㅏ ㄷㅓ[m
+[19:01:11] [Netty Server IO #5/INFO]: <namjo> ㅠㅠ?[m
+[19:01:14] [Netty Server IO #3/INFO]: <topology> ㄱㅏㅅㅡㅌㅡ ㅇㅗㅐㄹㅋㅔ ㅁㅏㄴㅎㄴㅑ ㅆㅂ;;[m
+[19:01:14] [Netty Server IO #5/INFO]: <namjo> ㅇㅡㅣㅁㅜㄴㅇㅡㅣ 1ㅍㅐ[m
+[19:01:17] [Netty Server IO #3/INFO]: <topology> ㅋㅋ[m
+[19:01:33] [Server thread/INFO]: Time_origin[/110.76.126.190:50997] logged in with entity id 69415 at ([world]97.50442589158759, 70.0, 265.27497079718864)
+[19:01:35] [Netty Server IO #3/INFO]: <topology> ㅎㅇㅎㅇ[m
+[19:01:36] [Netty Server IO #5/INFO]: <namjo> ㅎㅕㄴㅇㅣㄷㅏ[m
+[19:01:37] [Netty Server IO #5/INFO]: <namjo> ㅇㅜㄹㅣ ㅈㅣㅇㅗㄱㅇㅣㅁ[m
+[19:01:40] [Netty Server IO #5/INFO]: <Time_origin> ㅎㅇㅇ[m
+[19:01:43] [Netty Server IO #5/INFO]: <Time_origin> ㅇㅎ[m
+[19:01:52] [Netty Server IO #5/INFO]: <Time_origin> 여긴 밤임[m
+[19:01:54] [Netty Server IO #5/INFO]: <namjo> ㅈㅏ[m
+[19:02:01] [Netty Server IO #3/INFO]: <topology> ㅇㅕㄱㅣㄴ ㅈㅣㅇㅗㄱㅇㅣㅁ[m
+[19:02:01] [Netty Server IO #5/INFO]: <Time_origin> 시룽[m
+[19:02:09] [Netty Server IO #5/INFO]: <namjo> ㄱㅡㄹㅓㄷㅏㄱㅏ ㅈㅣㅂㅇㅔㅅㅓ ㅋㅡㄹㅣㅍㅓ ㅌㅓㅈㅣㅁ[m
+[19:02:15] [Netty Server IO #5/INFO]: <Time_origin> ㅎㅎ[m
+[19:02:16] [Netty Server IO #3/INFO]: <topology> ㄱㅏㅅㅡㅌㅡ ㅂㅜㅁㅗ ㅇㅓㅂㅅㄴㅡㄴㄱㅓ ㅇㅈ? ㅇㅇㅈ~ ㅂㅏㄴㅂㅏㄱㅅㅣ ㄱㅏㅅㅡㅌㅡ[m
+[19:02:30] [Netty Server IO #5/INFO]: <Time_origin> 다행히 집안은 깨끗하네[m
+[19:02:32] [Netty Server IO #5/INFO]: <Time_origin> 패드립 ㄷㄷ[m
+[19:02:44] [Netty Server IO #3/INFO]: <topology> ㅈㅅ[m
+[19:02:50] [Netty Server IO #5/INFO]: <namjo> ㅇㅏㄹㅁㅕㄴ ㄷㅗㅣㅁ ㅋㅋ[m
+[19:03:14] [Netty Server IO #3/INFO]: <topology> ㄴㅏㅇㅗㅐ ㄱㅏㅅㅡㅌㅡ ㄴㅜㄴㅁㅜㄹ ㄱㅏㅈㄱㅗㅇㅣㅆㅈㅣ[m
+[19:03:16] [Netty Server IO #3/INFO]: <topology> ㄱㅇㄷ?[m
+[19:03:24] [Netty Server IO #5/INFO]: <namjo> ㅇㅋ ㄱㅇㄷ[m
+[19:03:28] [Netty Server IO #5/INFO]: <namjo> ㅁㅐㄴㄴㅏㄹ[m
+[19:03:33] [Netty Server IO #5/INFO]: <namjo> ㄹㅣㅈㅔㄴㅍㅗㅅㅕㄴ ㅁㅏㄴㄷㅡㄴㄷㅏ ㅁㅏㄴㄷㅡㄴㄷㅏ ㅎㅐㄴㅗㅎㄱㅗ[m
+[19:03:36] [Netty Server IO #5/INFO]: <namjo> ㅎㅏㄴ ㅂㅓㄴㄷㅗ ㅇㅏㄴ ㅁㅏㄴㄷㅡㄹㅇㅓㅆㅈㅣㅁㅏㄴ..[m
+[19:03:41] [Netty Server IO #3/INFO]: <topology> ㅎㅏㄴㅂㅓㄴ ㅈㅓㅇㄷㅗ ㅁㅏㄴㄷㅡㅁ[m
+[19:03:42] [Netty Server IO #3/INFO]: <topology> ㅅㅣㅁㅅㅣㅁㅎㅐㅅㅓ[m
+[19:03:44] [Netty Server IO #5/INFO]: <namjo> ㅇㅇ[m
+[19:03:56] [Netty Server IO #5/INFO]: <namjo> ㅇㅏ ㅁㅣㅊㅣㄴ[m
+[19:03:59] [Netty Server IO #3/INFO]: <topology> ;[m
+[19:04:00] [Netty Server IO #5/INFO]: <namjo> ㅇㅗㅐㄴ ㄱㅏㅅㅡㅌㅡㄴㄱㅏ ㅎㅐㅆㄷㅏ[m
+[19:04:03] [Netty Server IO #5/INFO]: <namjo> ㅎㅡㅣㄴ ㄷㅓㅇㅇㅓㄹㅣㄱㅏ[m
+[19:04:11] [Netty Server IO #3/INFO]: <topology> ㅎ[m
+[19:04:31] [Netty Server IO #3/INFO]: <topology> ㅇㅓㅅ[m
+[19:04:33] [Netty Server IO #3/INFO]: <topology> ㄴㅏ ㅈㅓㄴㅕㄱㅁㅓㄱㄱㅗㅇㅗㄹㄱㅔ[m
+[19:04:37] [Netty Server IO #5/INFO]: <namjo> ㅇㅏㄴㅗㅏ[m
+[19:04:39] [Netty Server IO #5/INFO]: <namjo> ㅁㅓㄱㄱㅗ ㅇㅗㄹㅏㄱㅗ[m
+[19:04:39] [Netty Server IO #5/INFO]: <namjo> ㅠㅠ[m
+[19:04:44] [Netty Server IO #3/INFO]: <topology> ㄴㅐㄱㅏ ㅁㅓㄱㄱㅗㅅㅣㅍㄷㅏㄱㅗ[m
+[19:04:46] [Netty Server IO #5/INFO]: <namjo> ㅇㅏ ㄴㅓ ㅈㅣㅂㅇㅣㅈㅣ[m
+[19:04:47] [Netty Server IO #3/INFO]: <topology> ㅁㅓㄱㅇㅡㄹ ㅅㅜ ㅇㅣㅆㄴㅡㄴㄱㅔ ㅇㅏㄴㅣㄹㅏㅅㅓ[m
+[19:04:47] [Netty Server IO #5/INFO]: <namjo> ㅇㅋ[m
+[19:04:47] [Netty Server IO #3/INFO]: <topology> ㅈㅅ[m
+[19:04:48] [Netty Server IO #3/INFO]: <topology> ㅇㅇ[m
+[19:04:54] [Netty Server IO #3/INFO]: <topology> ㅈㅗㅁㄸㅏ ㅇㅗㅁ[m
+[19:04:55] [Server thread/INFO]: topology lost connection: Disconnected
+[19:04:55] [Server thread/INFO]: topology left the game
+[19:05:04] [Netty Server IO #5/INFO]: <namjo> ㄱㅕㅇㅎㅓㅁㅊㅣ ㄲㅗㅏㄲㄲㅗㅏㄲ ㅊㅐㅇㅜㅓㅅㅓ ㄱㅏㅇㅑㅈㅣㅇ[m
+[19:10:05] [Netty Server IO #5/INFO]: <Time_origin> 크[m
+[19:10:11] [Netty Server IO #5/INFO]: <namjo> ?[m
+[19:10:18] [Netty Server IO #5/INFO]: <Time_origin> 한번에 강타4 약탈2 내구2 붙음[m
+[19:10:21] [Netty Server IO #5/INFO]: <namjo> ㄱㅜㄷㄱㅜㄷ[m
+[19:10:30] [Netty Server IO #5/INFO]: <Time_origin> 내구 3이네[m
+[19:10:33] [Netty Server IO #5/INFO]: <Time_origin> 밀치기는 음...[m
+[19:10:38] [Netty Server IO #5/INFO]: <Time_origin> 있는게 낫나?[m
+[19:10:47] [Netty Server IO #5/INFO]: <Time_origin> 붙은걸 뗄순 없지만[m
+[19:10:58] [Netty Server IO #5/INFO]: <namjo> ???[m
+[19:11:00] [Netty Server IO #5/INFO]: <namjo> ㅇㅣㅆㄴㅡㄴㄱㅔ ㄴㅏㅅㅈㅣ[m
+[19:11:04] [Netty Server IO #5/INFO]: <Time_origin> 일단[m
+[19:11:07] [Netty Server IO #5/INFO]: <Time_origin> 방금 그거덕분에[m
+[19:11:13] [Netty Server IO #5/INFO]: <Time_origin> 집안에서 크리퍼가 터지는건 막았는데[m
+[19:11:17] [Netty Server IO #5/INFO]: <namjo> ㅋㅋㅋ[m
+[19:11:17] [Netty Server IO #5/INFO]: <Time_origin> 나한텐 화살이 없고[m
+[19:11:17] [Netty Server IO #5/INFO]: <namjo> ㄱㅓㅂㅗㅏ[m
+[19:11:21] [Netty Server IO #5/INFO]: <Time_origin> 집안에 크리퍼가 활보하네[m
+[19:11:42] [Netty Server IO #5/INFO]: <Time_origin> \[m
+[19:12:35] [Netty Server IO #5/INFO]: <Time_origin> 소가 다시 늘어난듯한 착각이..[m
+[19:12:42] [Netty Server IO #5/INFO]: <namjo> ㅊㅏㄱㄱㅏㄱㅇㅣㄴㄷㅡㅅ?[m
+[19:16:01] [Server thread/INFO]: Time_origin has just earned the achievement [Repopulation]
+[19:16:04] [Netty Server IO #5/INFO]: <namjo> ㅊㅊ[m
+[19:16:16] [Netty Server IO #5/INFO]: <Time_origin> ㄳㄳ[m
+[19:17:29] [Netty Server IO #5/INFO]: <Time_origin> ㅎㅇㅎㅇ[m
+[19:20:31] [Netty Server IO #5/INFO]: <Time_origin> 남조야 거미줄 어?[m
+[19:20:38] [Netty Server IO #5/INFO]: <namjo> ?[m
+[19:20:46] [Netty Server IO #5/INFO]: <namjo> ㅈㅏㅈㅏ[m
+[19:20:57] [Netty Server IO #5/INFO]: <Time_origin> ㅇㅇ[m
+[19:21:35] [Netty Server IO #5/INFO]: <namjo> ㅇㅏ ㅅㅂㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ[m
+[19:21:38] [Netty Server IO #5/INFO]: <Time_origin> ㄷ[m
+[19:21:40] [Netty Server IO #5/INFO]: <namjo> ㅎㅛㅇㅠㄹ 4 ㄸㅓㅅㅓ[m
+[19:21:41] [Netty Server IO #5/INFO]: <Time_origin> 터뜨림?[m
+[19:21:49] [Netty Server IO #5/INFO]: <namjo> ㅇㅏ ㄱㅐㄲㅜㄹ ㅎㅏㄱㅗ ㅊㅓㄹㄱㅗㄱㄱㅗㅐㅇㅇㅣ ㅃㅗㅂㅇㅏㅆㄴㅡㄴㄷㅔ[m
+[19:21:52] [Netty Server IO #5/INFO]: <namjo> ㅅㅣㄹㅋㅡㅌㅓㅊㅣㅇㅑ...[m
+[19:21:56] [Netty Server IO #5/INFO]: <Time_origin> ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ[m
+[19:21:59] [Netty Server IO #5/INFO]: <Time_origin> zzzzzzzzzzzzzzz[m
+[19:22:04] [Netty Server IO #5/INFO]: <Time_origin> 2층에 아직 크리퍼 있을듯[m
+[19:22:07] [Netty Server IO #5/INFO]: <Time_origin> 조심해[m
+[19:22:10] [Netty Server IO #5/INFO]: <namjo> ㄱㄱ[m
+[19:22:27] [Netty Server IO #5/INFO]: <namjo> ㅇㄷ?[m
+[19:22:41] [Netty Server IO #5/INFO]: <Time_origin> 없나?[m
+[19:23:05] [Netty Server IO #5/INFO]: <namjo> ㅇㅇ?[m
+[19:23:06] [Netty Server IO #5/INFO]: <namjo> ㅇㅓㅂㅅㅇㅓ[m
+[19:23:21] [Netty Server IO #5/INFO]: <namjo> ㅎㅕㄴㅇㅏ[m
+[19:23:22] [Netty Server IO #5/INFO]: <namjo> ㄴㅓ ㅁㅓㄹㅣ ㅇㅓㅂㅅㄷㅏ[m
+[19:23:27] [Netty Server IO #5/INFO]: <namjo> ㅇㅎ[m
+[19:23:30] [Netty Server IO #5/INFO]: <Time_origin> 아무것도 안떠서[m
+[19:23:33] [Netty Server IO #5/INFO]: <Time_origin> 걍 보호4 붙임[m
+[19:23:55] [Netty Server IO #5/INFO]: <Time_origin> r[m
+[19:24:30] [Netty Server IO #5/INFO]: <namjo> ㅈㅣㄹㅕㄸㅏ~[m
+[19:24:36] [Netty Server IO #5/INFO]: <namjo> ㅍㅗㅊㅠㄴ ㄴㅏㅇㅗㅁ[m
+[19:24:39] [Netty Server IO #5/INFO]: <namjo> ㅃㅏㄹㄹㅣ 30ㄹㅔㅂㅔㄹ ㅉㅣㄱㅈㅏ[m
+[19:24:42] [Netty Server IO #5/INFO]: <Time_origin> 굿굿[m
+[19:25:00] [Netty Server IO #5/INFO]: <Time_origin> 닭 사이에 개 섞여있는데 흰색이라 모르고 때림 ㅎ[m
+[19:25:04] [Netty Server IO #5/INFO]: <namjo> ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ[m
+[19:25:31] [Netty Server IO #5/INFO]: <Time_origin> 달걀도 믈럭만들고싶다[m
+[19:25:41] [Server thread/INFO]: MC_Square[/110.11.109.86:3452] logged in with entity id 117974 at ([world]446.11236415327653, 69.0, -301.9276008755363)
+[19:25:46] [Netty Server IO #5/INFO]: <namjo> ㅎㅇ ㄷㅐㄱㅕㅇ[m
+[19:25:49] [Netty Server IO #5/INFO]: <Time_origin> ㅎㅇ[m
+[19:25:50] [Netty Server IO #0/INFO]: <MC_Square> ㅎㅇ[m
+[19:26:15] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2014ms behind, skipping 40 tick(s)
+[19:26:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2308ms behind, skipping 46 tick(s)
+[19:26:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3112ms behind, skipping 62 tick(s)
+[19:30:35] [Netty Server IO #0/INFO]: <MC_Square> 너희 어디냐[m
+[19:30:40] [Netty Server IO #5/INFO]: <Time_origin> 집?[m
+[19:30:43] [Netty Server IO #0/INFO]: <MC_Square> ㅇㅇ[m
+[19:30:44] [Netty Server IO #5/INFO]: <Time_origin> ㅇㅗ빠는?[m
+[19:30:54] [Netty Server IO #0/INFO]: <MC_Square> 나 245 63[m
+[19:31:04] [Netty Server IO #5/INFO]: <Time_origin> 150 250[m
+[19:31:05] [Netty Server IO #5/INFO]: <namjo> 99 243[m
+[19:31:06] [Netty Server IO #0/INFO]: <MC_Square> 나무 캐고 복귀중[m
+[19:31:08] [Netty Server IO #5/INFO]: <namjo> ㅇㅎ[m
+[19:31:09] [Netty Server IO #5/INFO]: <Time_origin> ㅇㅎ[m
+[19:31:17] [Netty Server IO #5/INFO]: <Time_origin> ㅋㅋㅋㅋ남조복제된줄[m
+[19:31:18] [Server thread/INFO]: topology[/210.117.73.64:19738] logged in with entity id 143068 at ([world_nether]-32.1122411775883, 55.0, 339.88939157358294)
+[19:31:20] [Netty Server IO #5/INFO]: <namjo> ㅎㅇ[m
+[19:31:23] [Netty Server IO #5/INFO]: <namjo> ㅈㅏㅈㅏ[m
+[19:31:24] [Netty Server IO #2/INFO]: <topology> gd[m
+[19:31:24] [Netty Server IO #5/INFO]: <Time_origin> 밤이다[m
+[19:31:27] [Netty Server IO #5/INFO]: <Time_origin> 사냥하자[m
+[19:31:27] [Netty Server IO #2/INFO]: <topology> ㄴㅏ ㅈㅣㅇㅗㄱ[m
+[19:31:31] [Netty Server IO #5/INFO]: <namjo> ㅇㅎ[m
+[19:31:32] [Netty Server IO #5/INFO]: <Time_origin> ㅇㅎ[m
+[19:31:33] [Netty Server IO #5/INFO]: <namjo> ㄴㅏ ㄷㅗㄹㅇㅏㅇㅗㅁ[m
+[19:31:36] [Netty Server IO #5/INFO]: <namjo> ㄴㅣㄷㅗ ㅇㅗㅏㄹㅏ ㅅㅡㄹㅅㅡㄹ[m
+[19:31:45] [Netty Server IO #5/INFO]: <namjo> ㅎㅏㅂㅊㅣㄹ ㄹㅔㅂㅔㄹ ㄷㅗㅣㅁ?[m
+[19:31:48] [Netty Server IO #5/INFO]: <namjo> ㄷㅐㄱㅕㅇㅇㅏ[m
+[19:31:51] [Netty Server IO #5/INFO]: <namjo> ㄴㅏㄱㅏㅆㄷㅏㄱㅏ 3ㅊㅗㄷㅜㅣㅇㅔ[m
+[19:31:52] [Server thread/INFO]: MC_Square lost connection: Disconnected
+[19:31:52] [Server thread/INFO]: MC_Square left the game
+[19:31:56] [Netty Server IO #5/INFO]: <namjo> ㅎㅕㄴㅇㅏ[m
+[19:31:58] [Netty Server IO #5/INFO]: <namjo> ㅇㅏㄴㅈㅏㄱㅗ ㅇㅣㅆㅇㅡㅁ?[m
+[19:31:59] [Server thread/INFO]: MC_Square[/110.11.109.86:3462] logged in with entity id 144788 at ([world]212.73441416296907, 64.0, 147.75372481032227)
+[19:32:00] [Netty Server IO #5/INFO]: <namjo> ㅅㄷㄷㄷㄷㄷ[m
+[19:32:02] [Netty Server IO #5/INFO]: <namjo> ㅈㅏㅁㅁㅏㄴ[m
+[19:32:02] [Server thread/INFO]: Time_origin lost connection: Disconnected
+[19:32:02] [Server thread/INFO]: Time_origin left the game
+[19:32:03] [Server thread/INFO]: MC_Square lost connection: Disconnected
+[19:32:03] [Server thread/INFO]: MC_Square left the game
+[19:32:13] [Server thread/INFO]: MC_Square[/110.11.109.86:3465] logged in with entity id 145159 at ([world]212.73441416296907, 64.0, 147.75372481032227)
+[19:32:17] [Netty Server IO #0/INFO]: <MC_Square> ㄱ두[m
+[19:33:08] [Netty Server IO #5/INFO]: <namjo> ㅁㅜㅓㅈㅣ[m
+[19:33:11] [Netty Server IO #5/INFO]: <namjo> ㅈㅒ ㅇㅗㅐ ㅇㅏㄴㄷㅡㄹㅇㅓㅇㅗㅏ?[m
+[19:34:13] [Netty Server IO #0/INFO]: <MC_Square> 집이다[m
+[19:34:16] [Server thread/INFO]: Time_origin[/110.76.126.190:51212] logged in with entity id 149739 at ([world]90.39828702302859, 69.0, 235.33608975811052)
+[19:34:21] [Netty Server IO #5/INFO]: <namjo> ㅇㅗㅐㄹㅋㅐ ㅇㅏㄴㄷㅡㄹㅇㅓㅇㅗㅁ ㅋㅋ[m
+[19:34:25] [Netty Server IO #1/INFO]: <Time_origin> 전화[m
+[19:34:25] [Netty Server IO #1/INFO]: <Time_origin> ㅎ[m
+[19:34:27] [Netty Server IO #5/INFO]: <namjo> ㅇㅎ[m
+[19:34:32] [Netty Server IO #0/INFO]: <MC_Square> 준형아[m
+[19:37:29] [Netty Server IO #1/INFO]: <Time_origin> 석영 갖고있는분 저택 안에 놔주세염[m
+[19:37:34] [Netty Server IO #2/INFO]: <topology> ㄴㅔㅇ[m
+[19:37:35] [Netty Server IO #5/INFO]: <namjo> ㅊㅏㅇㄱㅗㅇㅔ ㅁㅏㄴㅎㅇㅏ[m
+[19:37:41] [Netty Server IO #1/INFO]: <Time_origin> 창고라면[m
+[19:37:45] [Netty Server IO #1/INFO]: <Time_origin> 예전에 집이었떤 거기?[m
+[19:37:45] [Netty Server IO #2/INFO]: <topology> ㅅㅣㄴㄹㅏㅁㅕㄴ[m
+[19:37:46] [Netty Server IO #5/INFO]: <namjo> ㅇㅇ[m
+[19:37:49] [Netty Server IO #1/INFO]: <Time_origin> ㅠㅠ[m
+[19:37:51] [Netty Server IO #1/INFO]: <Time_origin> 창고로 전락함[m
+[19:37:55] [Netty Server IO #2/INFO]: <topology> ㅋㅋㅋ[m
+[19:38:01] [Netty Server IO #5/INFO]: <namjo> ㄱㅡㄹㅓㄹ ㅅㅐㅇㄱㅏㄱㅇㅡㄹㅗ ㄷㅐㅊㅜㅇ ㅈㅣㅇㅓㅅㅇㅡㄴㅣㄲㅏ ㅋㅋ[m
+[19:38:16] [Netty Server IO #1/INFO]: <Time_origin> 앗 그건 몰랐네[m
+[19:38:21] [Netty Server IO #0/INFO]: <MC_Square> 오[m
+[19:38:27] [Netty Server IO #0/INFO]: <MC_Square> 농장에서 달걀 주움[m
+[19:38:31] [Netty Server IO #2/INFO]: <topology> ㄱㅓㄱㅣ[m
+[19:38:33] [Netty Server IO #1/INFO]: <Time_origin> ㅋㅋㅋㅋㅋ[m
+[19:38:33] [Netty Server IO #2/INFO]: <topology> ㄷㅏㄹㄱㅑㄹ ㄱㅐㅁㅏㄴㅎㅇㅏ[m
+[19:38:34] [Netty Server IO #2/INFO]: <topology> ㅋㅋㅋㅋㅋㅋㅋㅋ[m
+[19:38:37] [Netty Server IO #0/INFO]: <MC_Square> 본의 아니게 주움[m
+[19:38:37] [Netty Server IO #1/INFO]: <Time_origin> 좀 주워주실[m
+[19:38:43] [Server thread/WARN]: topology moved too quickly! -0.23584903797241452,4.0,-9.380318516982186
+[19:38:55] [Netty Server IO #0/INFO]: <MC_Square> 30% 내꺼[m
+[19:38:58] [Netty Server IO #1/INFO]: <Time_origin> ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ[m
+[19:39:00] [Netty Server IO #2/INFO]: <topology> 100% ㄱㅏㅈㅣㅁㅕㄴ ㅇㅏㄴㄷㅗㅐ??[m
+[19:39:12] [Netty Server IO #1/INFO]: <Time_origin> 된다고 전해줘[m
+[19:39:15] [Netty Server IO #0/INFO]: <MC_Square> ㅇ와[m
+[19:39:18] [Netty Server IO #0/INFO]: <MC_Square> 렉 쩔어[m
+[19:39:21] [Netty Server IO #0/INFO]: <MC_Square> 올;놈들[m
+[19:39:22] [Netty Server IO #1/INFO]: <Time_origin> ㅋㅋㅋㅋㅋ[m
+[19:40:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2053ms behind, skipping 41 tick(s)
+[19:40:07] [Netty Server IO #0/INFO]: <MC_Square> g함정 같은 거 ㅂ=뭐야?[m
+[19:40:11] [Netty Server IO #1/INFO]: <Time_origin> zㅋㅋㅋㅋ[m
+[19:40:19] [Netty Server IO #1/INFO]: <Time_origin> 함정이야[m
+[19:40:20] [Netty Server IO #2/INFO]: <topology> ㅎㅗㄱㅅㅣ ㄴㅐㄱㅏ ㅁㅏㄴㄷㅡㄴㄱㅓㄴㄱㅏ[m
+[19:40:27] [Netty Server IO #0/INFO]: <MC_Square> 이거 이제 못쓰겠는데?[m
+[19:40:31] [Netty Server IO #1/INFO]: <Time_origin> ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ[m
+[19:40:32] [Netty Server IO #2/INFO]: <topology> ;[m
+[19:40:41] [Netty Server IO #0/INFO]: <MC_Square> 호기심에 가죽을 던졌는데[m
+[19:40:47] [Netty Server IO #1/INFO]: <Time_origin> 오4[m
+[19:40:50] [Netty Server IO #0/INFO]: <MC_Square> 가죽이 수감됐어[m
+[19:40:54] [Netty Server IO #2/INFO]: <topology> ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ[m
+[19:41:10] [Netty Server IO #0/INFO]: <MC_Square> 오 가죽 구함[m
+[19:41:16] [Netty Server IO #1/INFO]: <Time_origin> 남조야 우리 농장에 문좀 늘리자[m
+[19:41:18] [Netty Server IO #1/INFO]: <Time_origin> 나 갇어[m
+[19:41:20] [Netty Server IO #1/INFO]: <Time_origin> 혔[m
+[19:41:26] [Netty Server IO #0/INFO]: <MC_Square> 오[m
+[19:41:34] [Netty Server IO #0/INFO]: <MC_Square> 가죽ㅇ 자동 점프함[m
+[19:41:35] [Netty Server IO #1/INFO]: <Time_origin> 나가고싶[m
+[19:41:39] [Netty Server IO #1/INFO]: <Time_origin> ??[m
+[19:42:00] [Netty Server IO #2/INFO]: <topology> ㅎㅏ.. ㄱㅏㅅㅡㅌㅡ ㅇㅗㅐㄹㅋㅔㅁㅏㄴㅎㄴㅑ[m
+[19:42:10] [Netty Server IO #0/INFO]: <MC_Square> 아[m
+[19:42:13] [Netty Server IO #0/INFO]: <MC_Square> 준형아[m
+[19:42:15] [Netty Server IO #2/INFO]: <topology> ㅇㅇ??[m
+[19:42:16] [Netty Server IO #1/INFO]: <Time_origin> ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ[m
+[19:42:17] [Netty Server IO #0/INFO]: <MC_Square> 참나무가 아니네?[m
+[19:42:18] [Netty Server IO #1/INFO]: <Time_origin> 저거 머임[m
+[19:42:20] [Netty Server IO #0/INFO]: <MC_Square> ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ[m
+[19:42:23] [Netty Server IO #2/INFO]: <topology> ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ[m
+[19:42:25] [Netty Server IO #1/INFO]: <Time_origin> ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ[m
+[19:42:41] [Netty Server IO #1/INFO]: <Time_origin> 핳[m
+[19:42:58] [Netty Server IO #1/INFO]: <Time_origin> ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ[m
+[19:43:38] [Netty Server IO #1/INFO]: <Time_origin> 남조아까그상황[m
+[19:43:43] [Netty Server IO #1/INFO]: <Time_origin> 나도 겪음[m
+[19:43:45] [Netty Server IO #5/INFO]: <namjo> ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ[m
+[19:43:48] [Netty Server IO #1/INFO]: <Time_origin> 효율 4에 실크터치가 붙네[m
+[19:43:49] [Netty Server IO #1/INFO]: <Time_origin> 하[m
+[19:43:56] [Netty Server IO #2/INFO]: <topology> ㅇㅗㅈㅕㅆㄷㅏ[m
+[19:44:11] [Netty Server IO #5/INFO]: <namjo> ㅈㅏㅈㅏ[m
+[19:44:15] [Netty Server IO #5/INFO]: <namjo> ㅊㅣㅁㄷㅐ ㅇㅓㅂㅅㅇㅡㅁㅕㄴ ㄴㅏㄱㅏㅆㄷㅏ ㅇㅗㅏㅈㅜㅓ[m
+[19:44:16] [Netty Server IO #1/INFO]: <Time_origin> 사냥 ㄱ[m
+[19:44:21] [Netty Server IO #5/INFO]: <namjo> ㄴㅏ ㅈㅗㅁ ㅁㅓㄹㄹㅣ ㅇㅣㅆㄴㅡㄴㄷㅔ[m
+[19:44:25] [Netty Server IO #5/INFO]: <namjo> ㄱㅡㄹㅓㄷㅏㄱㅏ[m
+[19:44:29] [Netty Server IO #5/INFO]: <namjo> ㅅㅈㅣㅂㅇㅔ ㅋㅡㄹㅣㅍㅓ ㄷㅡㄹㅇㅓㅇㅗㄴㄷㅏ[m
+[19:44:33] [Netty Server IO #5/INFO]: <namjo> ㅈㅣㅂ ㅇㅏㄴㅈㅓㄴㅎㅏㄱㅔ ㅂㅗㅎㅗㅂㅜㅌㅓ ㅎㅏㄱㅗ[m
+[19:44:39] [Netty Server IO #1/INFO]: <Time_origin> ㅠ[m
+[19:44:44] [Netty Server IO #5/INFO]: <namjo> ㅇㅜㄹㅌㅏㄹㅣㅂㅜㅌㅓ ㅊㅣㄱㅗ ㅋㅋ[m
+[19:44:49] [Netty Server IO #1/INFO]: <Time_origin> ㅅ자자[m
+[19:44:55] [Netty Server IO #5/INFO]: <namjo> ㄷㅐㄱㅕㅇㅇㅏ[m
+[19:44:57] [Netty Server IO #5/INFO]: <namjo> ㄴㅏㄱㅏㅆㄷㅏ ㅇㅗㅏㅈㅜㅓ[m
+[19:45:00] [Server thread/INFO]: MC_Square lost connection: Disconnected
+[19:45:00] [Server thread/INFO]: MC_Square left the game
+[19:45:07] [Netty Server IO #1/INFO]: <Time_origin> 뒤에 침대 었는데[m
+[19:46:22] [Server thread/INFO]: MC_Square[/110.11.109.86:3492] logged in with entity id 174603 at ([world]79.23750001192091, 70.0, 266.74052235165925)
+[19:46:43] [Netty Server IO #3/INFO]: <MC_Square> 쩄든 중형아[m
+[19:46:46] [Netty Server IO #3/INFO]: <MC_Square> 중형?[m
+[19:46:48] [Netty Server IO #1/INFO]: <Time_origin> ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ[m
+[19:46:48] [Netty Server IO #3/INFO]: <MC_Square> 준형아[m
+[19:46:49] [Netty Server IO #5/INFO]: <namjo> ㄷㅐㅎㅕㅇ?[m
+[19:46:50] [Netty Server IO #2/INFO]: <topology> ㅎㅓㄹ[m
+[19:46:53] [Netty Server IO #5/INFO]: <namjo> ㅈㅅ[m
+[19:46:58] [Netty Server IO #2/INFO]: <topology> ㅇㅇ?[m
+[19:46:59] [Netty Server IO #3/INFO]: <MC_Square> 가문비나무라도 써라[m
+[19:47:03] [Netty Server IO #2/INFO]: <topology> ㄱㅏㅁㅜㄴㅂㅣㄴㅏㅁㅜ[m
+[19:47:03] [Netty Server IO #2/INFO]: <topology> ㄱㅜㄷ[m
+[19:47:08] [Netty Server IO #2/INFO]: <topology> ㄱㅡㄱㅓㄷㅗ ㅍㅣㄹㅇㅛㅎㅐ[m
+[19:47:25] [Netty Server IO #1/INFO]: <Time_origin> 참나무[m
+[19:47:29] [Netty Server IO #1/INFO]: <Time_origin> 창고에 있어[m
+[19:47:33] [Netty Server IO #1/INFO]: <Time_origin> 창고 외곽에[m
+[19:47:41] [Netty Server IO #2/INFO]: <topology> ㄱㅅㄱㅅ[m
+[19:47:51] [Netty Server IO #1/INFO]: <Time_origin> 음[m
+[19:47:57] [Netty Server IO #1/INFO]: <Time_origin> 창고가 참나무로 돼있다는 뜻인데[m
+[19:48:01] [Netty Server IO #1/INFO]: <Time_origin> 고맙다고 하니 미안하네[m
+[19:48:09] [Netty Server IO #2/INFO]: <topology> ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ[m
+[19:48:15] [Netty Server IO #2/INFO]: <topology> ㅎㅕㄴㅇㅏ[m
+[19:48:17] [Netty Server IO #2/INFO]: <topology> ㅊㅓㄴㅈㅏㅇㅇㅡㄹ ㄷㅏ ㅁㅔㅇㅜㅓㅆㅇㅡㄴㅣㄲㅏ[m
+[19:48:29] [Netty Server IO #2/INFO]: <topology> ㅅㅣㄱㅁㅜㄹㅇㅜㅓㄴㅇㅡㄹ ㅁㅏㄴㄷㅡㄹㅇㅓㄷㅗ ㅈㅗㅎㅇㅏ[m
+[19:48:34] [Netty Server IO #2/INFO]: <topology> ㅇㅗㅏ ㅇㅕㄱㅣ ㄱㅐㄴㅓㄹㅂㄷㅏ[m
+[19:48:36] [Netty Server IO #2/INFO]: <topology> ㅊㅜㄱㄱㅜㅎㅐㄷㅗ ㄷㅗㅣㄹㄷㅡㅅ[m
+[19:48:55] [Netty Server IO #2/INFO]: <topology> ㅇㅏㄴㅗㅏ;;;;;;;;[m
+[19:49:05] [Netty Server IO #1/INFO]: <Time_origin> 굿[m
+[19:49:06] [Netty Server IO #2/INFO]: <topology> ㅎㅕㄴㅇㅣ ㅎㅗㄱㅅㅣ ㄴㅏ ㅂㅗㅏㅆㄴㅣ[m
+[19:49:13] [Netty Server IO #1/INFO]: <Time_origin> 지금 보여[m
+[19:49:14] [Netty Server IO #1/INFO]: <Time_origin> ㅓ[m
+[19:49:19] [Netty Server IO #2/INFO]: <topology> 3ㅊㅡㅇㅇㅔㅅㅓ ㄸㅓㄹㅇㅓㅈㅣㄴㄱㅓ[m
+[19:49:21] [Netty Server IO #2/INFO]: <topology> ;;;;[m
+[19:49:22] [Netty Server IO #1/INFO]: <Time_origin> ㄸ떨어지ㅕ니[m
+[19:49:28] [Netty Server IO #1/INFO]: <Time_origin> 안죽어서 다행이네[m
+[19:49:30] [Netty Server IO #2/INFO]: <topology> ㅍㅣ ㅂㅏㄴㅋㅏㄴ ㄴㅏㅁㅇㅡㅁ[m
+[19:49:31] [Netty Server IO #2/INFO]: <topology> ㅎㅏ[m
+[19:49:34] [Netty Server IO #1/INFO]: <Time_origin> ㅋㅋㅋㅋ[m
+[19:49:36] [Netty Server IO #1/INFO]: <Time_origin> 적절한 높이다[m
+[19:49:37] [Netty Server IO #2/INFO]: <topology> ㅈㅣㅇㅗㄱㅇㅔㅅㅓ ㄹㅔㅂㅔㄹ ㅂㅓㄹㅇㅓㅇㅗㄴㄱㅓ[m
+[19:49:37] [Netty Server IO #1/INFO]: <Time_origin> 굿[m
+[19:49:41] [Netty Server IO #2/INFO]: <topology> ㅅㅗㅁㅕㄹㅎㅏㄴㅡㄴㄱㅓ ㅅㅜㄴㅅㅣㄱㄱㅏㄴㅇㅣㄷㅏ[m
+[19:49:53] [Netty Server IO #2/INFO]: <topology> ㅇㅑ ㅇㅜㄹㅣ ㅅㅜㅂㅏㄱㄷㅗ ㅇㅣㅆㄴㅡㄴㄷㅔ[m
+[19:49:55] [Netty Server IO #2/INFO]: <topology> ㅅㅜㅂㅏㄱ ㅋㅣㅇㅜㄹ ㅅㅐㅇㄱㅏㄱ ㅇㅓㅂㅅㄴㅑ[m
+[19:50:05] [Netty Server IO #1/INFO]: <Time_origin> 있는데[m
+[19:50:08] [Netty Server IO #1/INFO]: <Time_origin> 씨가 나한테 없음[m
+[19:50:12] [Netty Server IO #1/INFO]: <Time_origin> 그리고[m
+[19:50:17] [Netty Server IO #1/INFO]: <Time_origin> 아까 2층에서 사라진 크리퍼[m
+[19:50:18] [Netty Server IO #5/INFO]: <namjo> ㅇㅓ ㅇㅔㅁㅔㄹㅏㄹㄷㅡㄷㅏ[m
+[19:50:21] [Netty Server IO #1/INFO]: <Time_origin> 3층에 있었냐[m
+[19:50:24] [Netty Server IO #2/INFO]: <topology> ㄴㄴ?[m
+[19:50:26] [Netty Server IO #1/INFO]: <Time_origin> 등뒤에서 터짐[m
+[19:50:29] [Netty Server IO #2/INFO]: <topology> ;[m
+[19:50:48] [Netty Server IO #1/INFO]: <Time_origin> 아 갇혔네[m
+[19:50:50] [Netty Server IO #1/INFO]: <Time_origin> ㅎㅎ[m
+[19:50:52] [Netty Server IO #2/INFO]: <topology> ㅎ[m
+[19:51:11] [Netty Server IO #3/INFO]: <MC_Square> 어 내 곡기[m
+[19:51:13] [Netty Server IO #3/INFO]: <MC_Square> 고기[m
+[19:51:16] [Netty Server IO #3/INFO]: <MC_Square> 누가 ㄱ져감[m
+[19:51:20] [Netty Server IO #3/INFO]: <MC_Square> 제길[m
+[19:51:21] [Netty Server IO #1/INFO]: <Time_origin> 나빴다[m
+[19:51:22] [Netty Server IO #1/INFO]: <Time_origin> 누구임[m
+[19:51:23] [Netty Server IO #1/INFO]: <Time_origin> 자수해[m
+[19:51:28] [Netty Server IO #2/INFO]: <topology> ㅎㅎ[m
+[19:52:02] [Netty Server IO #2/INFO]: <topology> ㄷㄷ[m
+[19:52:04] [Netty Server IO #2/INFO]: <topology> ㅊㅔㄹㅕㄱ ㅇㅓㄹㅁㅏ ㄷㅏㄴㅑ[m
+[19:52:09] [Netty Server IO #1/INFO]: <Time_origin> 4?5?[m
+[19:52:13] [Netty Server IO #2/INFO]: <topology> ㅊㅁ[m
+[19:53:22] [Netty Server IO #1/INFO]: <Time_origin> 혹시[m
+[19:53:26] [Netty Server IO #1/INFO]: <Time_origin> 거기까지 라고 들어봤나[m
+[19:53:31] [Netty Server IO #5/INFO]: <namjo> ㅇㅓ ㅇㅔㅁㅔㄹㅏㄹㄷㅡㄷㅏ[m
+[19:53:33] [Netty Server IO #2/INFO]: <topology> ㅎㅎ?[m
+[19:53:39] [Netty Server IO #2/INFO]: <topology> ㄷㅐㄱㅕㅇㅇㅣㅎㅕㅇ[m
+[19:53:42] [Netty Server IO #2/INFO]: <topology> ㄱㅡㄱㅓ ㅇㅏㅁㅜ ㅎㅛㄱㅗㅏㄷㅗ ㅇㅓㅂㅅㅇㅡㅁㅕㄴㅅㅓ[m
+[19:53:44] [Netty Server IO #3/INFO]: <MC_Square> 뭐야[m
+[19:53:47] [Netty Server IO #2/INFO]: <topology> ㄴㅐㄱㅜㄷㅗㅁㅏㄴ ㄷㅏㄹㅎㅇㅏ[m
+[19:53:51] [Netty Server IO #3/INFO]: <MC_Square> 그니까[m
+[19:53:52] [Netty Server IO #3/INFO]: <MC_Square> 미친[m
+[19:53:55] [Netty Server IO #2/INFO]: <topology> ㅎㅎ[m
+[19:54:00] [Netty Server IO #3/INFO]: <MC_Square> 미친 쉐도우복싱[m
+[19:54:06] [Netty Server IO #3/INFO]: <MC_Square> 혼자 잘했고요[m
+[19:54:10] [Netty Server IO #2/INFO]: <topology> ㅋㅋㅋㅋㅋㅋ[m
+[19:54:14] [Netty Server IO #3/INFO]: <MC_Square> di ehRl aksemfdjwnj[m
+[19:54:19] [Netty Server IO #3/INFO]: <MC_Square> 야 도끼 만들어줘[m
+[19:54:22] [Netty Server IO #3/INFO]: <MC_Square> 돌 없어[m
+[19:54:23] [Netty Server IO #2/INFO]: <topology> ㅅㅣㄹㅡㅁ[m
+[19:54:24] [Netty Server IO #3/INFO]: <MC_Square> 빨리[m
+[19:54:25] [Netty Server IO #2/INFO]: <topology> ^ㅇㅗ^[m
+[19:54:29] [Netty Server IO #3/INFO]: <MC_Square> 헐[m
+[19:54:32] [Netty Server IO #3/INFO]: <MC_Square> ㅇㅋ[m
+[19:54:34] [Netty Server IO #2/INFO]: <topology> ㅋㅋㅋㅋㅋㅋㅋ[m
+[19:54:49] [Netty Server IO #2/INFO]: <topology> ㄱㅗㅌㅗㅇㅂㅏㄷㄴㅡㄴ ㅎㅕㄴㅇㅣ..[m
+[19:54:55] [Netty Server IO #1/INFO]: <Time_origin> ....[m
+[19:55:27] [Netty Server IO #2/INFO]: <topology> ㅅㅡㄹㅅㅡㄹ[m
+[19:55:30] [Netty Server IO #2/INFO]: <topology> ㅈㅏㄹ ㄸㅐㄱㅏ ㄷㅗㅣㅇㅓㅆㄱㅜㄴ[m
+[19:55:36] [Netty Server IO #3/INFO]: <MC_Square> 나 침대좀[m
+[19:55:43] [Netty Server IO #2/INFO]: <topology> ㅈㅣㅂㅇㅔ ㅇㅣㅆㅇㅓ[m
+[19:55:53] [Netty Server IO #2/INFO]: <topology> ㅇㅕㄱㅣ[m
+[19:55:53] [Netty Server IO #3/INFO]: <MC_Square> 암대나 누워서 자?[m
+[19:55:57] [Netty Server IO #2/INFO]: <topology> ㅇㅕㄱㅣ[m
+[19:56:02] [Netty Server IO #2/INFO]: <topology> ㅈㅏㅈㅏ[m
+[19:56:18] [Netty Server IO #3/INFO]: <MC_Square> d오[m
+[19:56:23] [Netty Server IO #3/INFO]: <MC_Square> 이제 죽어도 되겠다[m
+[19:56:25] [Netty Server IO #3/INFO]: <MC_Square> 개꿀[m
+[19:56:27] [Netty Server IO #2/INFO]: <topology> ㄷ[m
+[19:56:33] [Netty Server IO #5/INFO]: <namjo> ㄱㅡㄱㅓ ㅇㅣㅆㄷㅓㄴㄷㅔ[m
+[19:56:37] [Netty Server IO #5/INFO]: <namjo> ㅅㅏㅇㄷㅐㅂㅏㅇㅇㅡㅣ ㅊㅣㅁㄷㅐㄹㅡㄹ ㅂㅜㅅㅜㅁㅕㄴ ㅇㅣㄱㅣㄴㅡㄴ[m
+[19:56:38] [Netty Server IO #5/INFO]: <namjo> ㅊㅣㅁㄷㅐㅈㅓㄴㅈㅐㅇ[m
+[19:56:48] [Netty Server IO #2/INFO]: <topology> ;_;[m
+[19:57:06] [Server thread/INFO]: MC_Square fell from a high place
+[19:57:08] [Netty Server IO #5/INFO]: <namjo> ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ[m
+[19:57:13] [Netty Server IO #2/INFO]: <topology> ㅁㅊ[m
+[19:57:17] [Netty Server IO #1/INFO]: <Time_origin> ㅋㅋㅋㅋㅋㅋㅋ[m
+[19:57:17] [Netty Server IO #3/INFO]: <MC_Square> 싸 풀피[m
+[19:57:20] [Netty Server IO #3/INFO]: <MC_Square> dkTK[m
+[19:57:21] [Netty Server IO #2/INFO]: <topology> ㅁㅊㅋㅋㅋㅋㅋㅋㅋㅋㅋ[m
+[19:57:22] [Netty Server IO #3/INFO]: <MC_Square> 아싸[m
+[19:57:41] [Netty Server IO #3/INFO]: <MC_Square> 근데 왜 집에 늪이 있냐[m
+[19:57:45] [Netty Server IO #3/INFO]: <MC_Square> 아니네 강이네[m
+[19:57:49] [Netty Server IO #2/INFO]: <topology> ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ[m
+[19:58:07] [Netty Server IO #2/INFO]: <topology> ㅇㅣㄱㅓ[m
+[19:58:10] [Netty Server IO #2/INFO]: <topology> ㅂㅜㅅㅜㄹㄹㅏ ㅎㅐㅆㅇㅓㅆㄴㅡㄴㄷㅔ[m
+[19:58:16] [Netty Server IO #1/INFO]: <Time_origin> ㄴㄴ[m
+[19:58:29] [Netty Server IO #2/INFO]: <topology> ㅈㅓㅉㅗㄱㅇㅔㄷㅗ ㄱㅖㄷㅏㄴ ㅇㅣㅆㅈㅏㄴㅎㅐ[m
+[19:58:44] [Netty Server IO #1/INFO]: <Time_origin> 떨어져도 안죽던가?[m
+[19:58:46] [Netty Server IO #2/INFO]: <topology> ㅇㅑ ㅇㅕㄱㅣㅅㅓ ㄷㅏㅇㅣㅂㅣㅇ ㅎㅏㄹ ㅅㅜ ㅇㅣㅆㄱㅔㅆㄷㅏ[m
+[19:58:48] [Netty Server IO #2/INFO]: <topology> ㅇㅇ[m
+[19:58:50] [Netty Server IO #2/INFO]: <topology> ㄱㅡㄴㄷㅔ ㄴㅣ ㄱㅏㅇㅇㅏㅈㅣㄷㅡㄹㅇㅣ..[m
+[19:59:03] [Netty Server IO #1/INFO]: <Time_origin> 반도 안닳는다 했더니[m
+[19:59:05] [Netty Server IO #1/INFO]: <Time_origin> 보호가 있군[m
+[19:59:08] [Netty Server IO #2/INFO]: <topology> ㄷㄷ[m
+[19:59:18] [Netty Server IO #2/INFO]: <topology> ㄴㅏㄷㅗ ㄸㅓㄹㅇㅓㅈㅕㅂㅗㄹㄹㅐ[m
+[19:59:35] [Netty Server IO #1/INFO]: <Time_origin> ㅋㅋㅋㅋ[m
+[19:59:37] [Netty Server IO #2/INFO]: <topology> ㄴㅏ ㄱㅗㅇㅈㅜㅇㅇㅔ ㄸㅓㅇㅣㅆㄷㅏ[m
+[19:59:42] [Netty Server IO #1/INFO]: <Time_origin> 좋겠네[m
+[19:59:44] [Netty Server IO #2/INFO]: <topology> ㅇㅗㅏ[m
+[19:59:44] [Netty Server IO #2/INFO]: <topology> ㄹㅇ[m
+[19:59:47] [Netty Server IO #2/INFO]: <topology> ㄴㅏ ㄱㅗㅇㅈㅜㅇㅇㅔ ㄸㅓㅇㅣㅆㅇㅡㅁ[m
+[20:00:11] [Netty Server IO #1/INFO]: <Time_origin> ;[m
+[20:00:14] [Netty Server IO #2/INFO]: <topology> ㅎㅎ[m
+[20:00:27] [Netty Server IO #1/INFO]: <Time_origin> 수목원 만드는거 도ㄷ와줄래?[m
+[20:00:32] [Netty Server IO #2/INFO]: <topology> ㄱㅡㄹㅐㅂ[m
+[20:00:35] [Netty Server IO #5/INFO]: <namjo> ㅇㅓ ㅇㅔㅁㅔㄹㅏㄹㄷㅡㄷㅏ[m
+[20:00:36] [Netty Server IO #2/INFO]: <topology> ㅇㅏ ㄱㅗㅇㅈㅜㅇㅇㅔ ㄷㅓ ㄸㅓㅇㅣㅆㄱㅗㅅㅣㅍㅇㅡㄴㄷㅔ[m
+[20:00:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2274ms behind, skipping 45 tick(s)
+[20:00:39] [Netty Server IO #1/INFO]: <Time_origin> ㅋㅋ[m
+[20:00:48] [Netty Server IO #1/INFO]: <Time_origin> 재료를 좀 옮겨놔야겠어[m
+[20:00:55] [Netty Server IO #1/INFO]: <Time_origin> 흙이랑 묘목이랑 꽃이랑[m
+[20:01:00] [Netty Server IO #1/INFO]: <Time_origin> 물도 두컵[m
+[20:01:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3385ms behind, skipping 67 tick(s)
+[20:01:23] [Netty Server IO #1/INFO]: <Time_origin> 유리랑 벽돌이랑 점토도[m
+[20:01:42] [Netty Server IO #2/INFO]: <topology> ㄱㅡㄹㅓㄴㅡㄴㄱㅓ ㅇㅏㄴㅣㅇㅑ[m
+[20:01:48] [Netty Server IO #1/INFO]: <Time_origin> ;[m
+[20:02:06] [Netty Server IO #2/INFO]: <topology> ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ[m
+[20:02:22] [Netty Server IO #2/INFO]: <topology> ㅎㅎ[m
+[20:03:22] [Netty Server IO #3/INFO]: <MC_Square> ㅅㅂ[m
+[20:04:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2019ms behind, skipping 40 tick(s)
+[20:04:28] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2762ms behind, skipping 55 tick(s)
+[20:04:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3127ms behind, skipping 62 tick(s)
+[20:05:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3610ms behind, skipping 72 tick(s)
+[20:05:16] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2406ms behind, skipping 48 tick(s)
+[20:05:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2216ms behind, skipping 44 tick(s)
+[20:05:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3685ms behind, skipping 73 tick(s)
+[20:06:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2791ms behind, skipping 55 tick(s)
+[20:06:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2140ms behind, skipping 42 tick(s)
+[20:06:21] [Netty Server IO #1/INFO]: <Time_origin> 실크터ㄹ치때문에 빡쳤는데[m
+[20:06:26] [Netty Server IO #1/INFO]: <Time_origin> 덕분에 잔디블럭 캤다[m
+[20:06:28] [Netty Server IO #2/INFO]: <topology> ㅋㅋㅋㅋ[m
+[20:06:45] [Netty Server IO #2/INFO]: <topology> ㄴㅏㅎㅗㄴㅈㅏ ㅇㅕㄴㄱㅕㄹ 3ㅋㅏㄴㅇㅣㄴㅔ[m
+[20:07:01] [Netty Server IO #1/INFO]: <Time_origin> ㅈㅈ[m
+[20:07:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2069ms behind, skipping 41 tick(s)
+[20:07:19] [Netty Server IO #2/INFO]: <topology> ㅈㅏㅈㅏ[m
+[20:07:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2343ms behind, skipping 46 tick(s)
+[20:07:58] [Server thread/INFO]: MC_Square lost connection: Disconnected
+[20:07:58] [Server thread/INFO]: MC_Square left the game
+[20:07:58] [Netty Server IO #1/INFO]: <Time_origin> ㅇㅈ?[m
+[20:07:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2017ms behind, skipping 40 tick(s)
+[20:08:03] [Server thread/INFO]: MC_Square[/110.11.109.86:3542] logged in with entity id 233265 at ([world]227.90867415515876, 71.0, 134.58905471144527)
+[20:08:08] [Netty Server IO #1/INFO]: <Time_origin> ;[m
+[20:08:09] [Netty Server IO #5/INFO]: <MC_Square> 뭐야[m
+[20:08:10] [Server thread/INFO]: MC_Square lost connection: Internal Exception: java.io.IOException: Connection reset by peer
+[20:08:10] [Server thread/INFO]: MC_Square left the game
+[20:08:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2353ms behind, skipping 47 tick(s)
+[20:08:16] [Netty Server IO #1/INFO]: <Time_origin> 자자고[m
+[20:08:20] [Netty Server IO #2/INFO]: <topology> ㅈㅏㅈㅏㄱㅗ[m
+[20:08:21] [Netty Server IO #2/INFO]: <topology> ㄴㅏㅁㅈㅗㅇㅑ[m
+[20:08:28] [Netty Server IO #2/INFO]: <topology> ㄴㅏㅁㅈㅗㅇㅑ[m
+[20:08:28] [Netty Server IO #5/INFO]: <namjo> ㅇㅓ ㅇㅔㅁㅔㄹㅏㄹㄷㅡㄷㅏ[m
+[20:08:28] [Server thread/INFO]: MC_Square[/110.11.109.86:3546] logged in with entity id 233801 at ([world]227.90867415515876, 71.0, 134.58905471144527)
+[20:08:28] [Netty Server IO #2/INFO]: <topology> ㄴㅏㅁㅈㅗㅇㅑ[m
+[20:08:30] [Netty Server IO #2/INFO]: <topology> ㄴㅏㅁㅈㅗㅇㅑ[m
+[20:08:31] [Netty Server IO #2/INFO]: <topology> ㄴㅏㅁㅈㅗㅇㅑ[m
+[20:08:33] [Netty Server IO #2/INFO]: <topology> ㅈㅏㅈㅏㄱㅗ[m
+[20:08:34] [Netty Server IO #5/INFO]: <namjo> ㅁㅏㄹㅇㅡㄹ ㅎㅐ[m
+[20:08:36] [Server thread/INFO]: MC_Square lost connection: Disconnected
+[20:08:36] [Server thread/INFO]: MC_Square left the game
+[20:08:47] [Netty Server IO #5/INFO]: <namjo> ㄴㅏ ㄸㅏㅇㅅㅗㄱㅇㅣㄹㅏㄱㅗ[m
+[20:08:50] [Server thread/INFO]: MC_Square[/110.11.109.86:3549] logged in with entity id 234245 at ([world]227.90867415515876, 71.0, 134.58905471144527)
+[20:08:55] [Netty Server IO #1/INFO]: <MC_Square> rne[m
+[20:08:57] [Netty Server IO #2/INFO]: <topology> ㅈㅏㅈㅏㄱㅗ ㅁㅕㅊㅂㅓㄴ ㅇㅒㄱㅣㅎㅐㅅㄴㅡㄴㄷㅔ[m
+[20:08:57] [Netty Server IO #1/INFO]: <MC_Square> 굳[m
+[20:08:58] [Netty Server IO #2/INFO]: <topology> ㅉㅉ[m
+[20:09:15] [Netty Server IO #5/INFO]: <namjo> ㅇㅓ ㅇㅔㅁㅔㄹㅏㄹㄷㅡㄷㅏ[m
+[20:09:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2032ms behind, skipping 40 tick(s)
+[20:09:49] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2169ms behind, skipping 43 tick(s)
+[20:10:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2293ms behind, skipping 45 tick(s)
+[20:10:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2394ms behind, skipping 47 tick(s)
+[20:11:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2134ms behind, skipping 42 tick(s)
+[20:11:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2148ms behind, skipping 42 tick(s)
+[20:11:47] [Netty Server IO #5/INFO]: <namjo> ㅇㅓ ㄷㅓㄴㅈㅓㄴ[m
+[20:12:09] [Netty Server IO #5/INFO]: <namjo> ㅍㅡㄹㅗㅅㅡㅌㅡ ㅇㅜㅓㅋㅓ ㅋㅋㅋㅋㅋㅋㅋ[m
+[20:12:17] [Netty Server IO #2/INFO]: <topology> ㅆㅡㄹㅔㄱㅣㄴㅔ[m
+[20:12:22] [Netty Server IO #1/INFO]: <Time_origin> ??[m
+[20:12:24] [Netty Server IO #1/INFO]: <Time_origin> 안돼[m
+[20:12:30] [Netty Server IO #2/INFO]: <topology> ㅋㅋㅋㅋㅋㅋ[m
+[20:12:36] [Netty Server IO #1/INFO]: <Time_origin> 꼭 잘 모셔와[m
+[20:12:37] [Netty Server IO #5/INFO]: <namjo> 1ㅌㅣㅇㅓㅇㅣㅁ[m
+[20:12:41] [Netty Server IO #1/INFO]: <Time_origin> 그래도 머[m
+[20:12:46] [Netty Server IO #1/INFO]: <Time_origin> 티어가 중요하지 않음[m
+[20:12:48] [Netty Server IO #5/INFO]: <namjo> ㅊㅐㅇㄱㅣㅁ ㅇㅇ[m
+[20:13:04] [Netty Server IO #2/INFO]: <topology> ㅋㅋㅋㅋㅋㅋㅋㅋㅋ[m
+[20:13:14] [Netty Server IO #1/INFO]: <Time_origin> ㅋㅋㅋㅋ[m
+[20:13:36] [Netty Server IO #2/INFO]: <topology> ㄷㅐㄱㅕㅇㅇㅣㅎㅕㅇ[m
+[20:13:40] [Netty Server IO #2/INFO]: <topology> ㄷㅗㅎㅕㅇㅇㅣㅎㅕㅇㅇㅣㄴㅈㅜㄹ[m
+[20:13:41] [Netty Server IO #1/INFO]: <MC_Square> 응?[m
+[20:13:45] [Netty Server IO #2/INFO]: <topology> ㅂㅏㄴㄷㅏㄹㄹㅣㅈㅡㅁ[m
+[20:13:47] [Netty Server IO #2/INFO]: <topology> ㄷㄷ[m
+[20:13:52] [Netty Server IO #1/INFO]: <MC_Square> ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ[m
+[20:14:01] [Netty Server IO #1/INFO]: <MC_Square> 나 이제 나무 싸그리 베어서[m
+[20:14:07] [Netty Server IO #1/INFO]: <MC_Square> 땅 밑으로 간다[m
+[20:14:10] [Netty Server IO #2/INFO]: <topology> ㅋㅋㅋㅋㅋㅋㅋ[m
+[20:14:26] [Netty Server IO #2/INFO]: <topology> ㅃㅏㄹㅡㄱㅔ ㄱㅏㄱㅣ ㅇㅜㅣㅎㅐ ㅇㅕㄱㅣㅅㅓ ㄸㅓㄹㅇㅓㅈㅣㄴㅡㄴㄱㅓㄴ ㅇㅓㄸㅐ[m
+[20:14:31] [Netty Server IO #1/INFO]: <MC_Square> 얘 머리는 ㅙ 및나??[m
+[20:14:33] [Netty Server IO #1/INFO]: <MC_Square> 빛[m
+[20:14:39] [Netty Server IO #1/INFO]: <MC_Square> 닥쳐[m
+[20:14:44] [Netty Server IO #2/INFO]: <topology> ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ[m
+[20:15:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2929ms behind, skipping 58 tick(s)
+[20:16:18] [Netty Server IO #2/INFO]: <topology> ㅋㅡ[m
+[20:16:32] [Netty Server IO #1/INFO]: <Time_origin> 흠[m
+[20:16:59] [Netty Server IO #1/INFO]: <Time_origin> 뭔가[m
+[20:17:04] [Netty Server IO #1/INFO]: <Time_origin> 훨씬 더 크게 만들어야 될듯[m
+[20:17:08] [Netty Server IO #1/INFO]: <Time_origin> 흙을 가져와야겠따[m
+[20:17:21] [Netty Server IO #1/INFO]: <Time_origin> 급 귀찮[m
+[20:17:22] [Netty Server IO #1/INFO]: <Time_origin> ㅎㅎ[m
+[20:18:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2121ms behind, skipping 42 tick(s)
+[20:18:12] [Netty Server IO #2/INFO]: <topology> ㅎㅕㄴㅇㅣ[m
+[20:18:13] [Netty Server IO #2/INFO]: <topology> ㅇㅛㅇㄱㅏㅁㅎㅏㄴㅔ[m
+[20:18:14] [Netty Server IO #5/INFO]: <namjo> ㅇㅣㄱㅅㅡㅌㅡㄹㅣㅁ ㅎㅣㄹㅈㅡ ㄱㅐㄲㅜㄹ ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ[m
+[20:18:17] [Netty Server IO #1/INFO]: <Time_origin> 이쪽이 더 높네[m
+[20:18:20] [Netty Server IO #1/INFO]: <Time_origin> ??[m
+[20:18:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2624ms behind, skipping 52 tick(s)
+[20:18:21] [Netty Server IO #5/INFO]: <namjo> ㅅㅓㄱㅌㅏㄴ ㅎㅏㄴ ㅊㅓㅇㅋㅡㄱㅏ 30ㄱㅐㅇㅣㅁ[m
+[20:18:25] [Netty Server IO #1/INFO]: <Time_origin> 넌 뛰지 마[m
+[20:18:34] [Server thread/INFO]: topology fell from a high place
+[20:18:35] [Netty Server IO #5/INFO]: <namjo> ?????????????/[m
+[20:18:38] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3588ms behind, skipping 71 tick(s)
+[20:18:41] [Netty Server IO #2/INFO]: <topology> ㅈㅏ-ㅅㅏㄹ[m
+[20:18:48] [Netty Server IO #1/INFO]: <Time_origin> 뛰지 말라면 꼭 뜀 ㅎㅎ[m
+[20:18:52] [Netty Server IO #2/INFO]: <topology> ㅇㅏㄴㅣ[m
+[20:18:55] [Netty Server IO #2/INFO]: <topology> ㅁㅜㄹㅇㅔ ㄸㅓㄹㅇㅓㅈㅣㄹㄹㅏ ㅎㅐㅆㄷㅏㄱㅗ[m
+[20:19:00] [Netty Server IO #1/INFO]: <Time_origin> ㅎㅎ[m
+[20:19:03] [Netty Server IO #1/INFO]: <Time_origin> 경험치 내가 먹어야지[m
+[20:19:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2010ms behind, skipping 40 tick(s)
+[20:19:06] [Netty Server IO #2/INFO]: <topology> ㄴㄴㄴㄴㄴ[m
+[20:19:09] [Netty Server IO #5/INFO]: <namjo> ㅋㅋ[m
+[20:19:11] [Netty Server IO #5/INFO]: <namjo> ㄴㅣㄱㅏ ㄷㅏ ㅁㅓㄱㅇㅓㅂㅗㅏㅇㅑ[m
+[20:19:13] [Netty Server IO #5/INFO]: <namjo> 8ㄹㅔㅂㅔㄹㅇㅣㅇㅑ[m
+[20:19:19] [Netty Server IO #2/INFO]: <topology> 8ㄷㅗ ㅇㅏㄴㄷㅗㅣㅁ;[m
+[20:19:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2032ms behind, skipping 40 tick(s)
+[20:19:25] [Netty Server IO #1/INFO]: <MC_Square> 어둡다[m
+[20:19:29] [Netty Server IO #1/INFO]: <Time_origin> 사냥을 시작하지[m
+[20:19:35] [Netty Server IO #2/INFO]: <topology> ㅇㅋ[m
+[20:19:37] [Netty Server IO #2/INFO]: <topology> ㅅㅏㄴㅑㅇㅎㅏㅈㅏ[m
+[20:19:45] [Netty Server IO #2/INFO]: <topology> ㅋㅡㄹㅣㅍㅓㄴㅏ ㅈㅜㅁㅣㄴㅈㅗㅁㅂㅣ ㅁㅏㄴㄴㅏㅁㅕㄴ[m
+[20:19:48] [Netty Server IO #2/INFO]: <topology> ㅎㅏㅁㅈㅓㅇㅇㅔ ㄱㅏㄷㅜㅓ[m
+[20:19:57] [Netty Server IO #1/INFO]: <Time_origin> 스켈 불러서[m
+[20:20:00] [Netty Server IO #1/INFO]: <Time_origin> ㅡㅇㅁ반 ㄱㄱ[m
+[20:20:04] [Netty Server IO #2/INFO]: <topology> ㅇㅇ[m
+[20:20:05] [Netty Server IO #2/INFO]: <topology> ㅎㅕㄴㅇㅏ[m
+[20:20:07] [Netty Server IO #2/INFO]: <topology> ㄴㅐㄱㅏ ㄱㅓㅁㅇㅣ ㅇㅓㅂㅅㅇㅓㅅㅓ[m
+[20:20:08] [Netty Server IO #1/INFO]: <Time_origin> ?[m
+[20:20:10] [Netty Server IO #2/INFO]: <topology> ㄴㅣㄱㅏ ㅇㅏㅍㅈㅏㅇㅅㅓㅇㅑㅎㅐ[m
+[20:20:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2271ms behind, skipping 45 tick(s)
+[20:20:12] [Netty Server IO #2/INFO]: <topology> ㄴㅏ ㄴㅓ ㄸㅏㄹㅏㄷㅏㄴㅕㅇㅑㅎㅏㅁ[m
+[20:20:13] [Netty Server IO #1/INFO]: <Time_origin> ㅇㅋㅋㅇㅋ[m
+[20:20:15] [Netty Server IO #1/INFO]: <Time_origin> dk[m
+[20:20:22] [Netty Server IO #5/INFO]: <namjo> ㅇㅑ[m
+[20:20:25] [Netty Server IO #5/INFO]: <namjo> ㄴㅐㄱㅏ ㅈㅜㄴ ㅇㅣㄴㅍㅣㄴㅣㅌㅣ ㅎㅗㅏㄹㅇㅡㄴ[m
+[20:20:25] [Netty Server IO #1/INFO]: <Time_origin> 개 니가 쐈냐[m
+[20:20:29] [Netty Server IO #1/INFO]: <MC_Square> 나갔다 옴[m
+[20:20:33] [Netty Server IO #5/INFO]: <namjo> ㄴㄴ[m
+[20:20:33] [Netty Server IO #2/INFO]: <topology> ㅅㅣㄹㅅㅜ[m
+[20:20:34] [Netty Server IO #1/INFO]: <MC_Square> 아침 만들어놔[m
+[20:20:34] [Netty Server IO #5/INFO]: <namjo> ㅈㅏㄴㅡㄴㄱㅓ ㅇㅏㄴㅣㅁ[m
+[20:20:41] [Netty Server IO #1/INFO]: <MC_Square> 제길[m
+[20:20:45] [Netty Server IO #1/INFO]: <MC_Square> 아침좀[m
+[20:20:47] [Netty Server IO #1/INFO]: <MC_Square> ㅋㅋㅋㅋ[m
+[20:20:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2584ms behind, skipping 51 tick(s)
+[20:20:55] [Netty Server IO #1/INFO]: <Time_origin> 너 어딨냐[m
+[20:20:57] [Netty Server IO #1/INFO]: <Time_origin> ㅎㅎㅎ[m
+[20:20:59] [Server thread/INFO]: MC_Square lost connection: Disconnected
+[20:20:59] [Server thread/INFO]: MC_Square left the game
+[20:21:01] [Netty Server IO #2/INFO]: <topology> ㄷㅗㅁㅏㅇ[m
+[20:21:06] [Netty Server IO #2/INFO]: <topology> ㅈㅏㅈㅏ[m
+[20:21:10] [Netty Server IO #1/INFO]: <Time_origin> ㅠㅠ[m
+[20:21:27] [Netty Server IO #2/INFO]: <topology> ㄱㅐㅎㅏㄴㅌㅔ[m
+[20:21:30] [Netty Server IO #2/INFO]: <topology> ㄱㅡㄴㅑㅇ ㅁㅏㅈㅇㅏㅈㅜㄱㅇㅡㄹㄲㅏ[m
+[20:21:39] [Netty Server IO #1/INFO]: <Time_origin> ?[m
+[20:21:56] [Netty Server IO #1/INFO]: <Time_origin> 지옥가서 사냥해야지[m
+[20:22:00] [Netty Server IO #2/INFO]: <topology> ㄷㄷㄷㄷㄷ[m
+[20:22:02] [Netty Server IO #2/INFO]: <topology> ㅁㅊㅋㅋㅋㅋㅋ[m
+[20:22:03] [Netty Server IO #5/INFO]: <namjo> ㅇㅓ ㅇㅔㅁㅔㄹㅏㄹㄷㅡㄷㅏ[m
+[20:23:12] [Server thread/INFO]: MC_Square[/110.11.109.86:3579] logged in with entity id 286809 at ([world]-81.11120720720947, 69.0, 275.00073359311915)
+[20:23:20] [Netty Server IO #3/INFO]: <MC_Square> 휴[m
+[20:23:27] [Netty Server IO #3/INFO]: <MC_Square> 좀비 소리 나서 나갔는데[m
+[20:23:35] [Netty Server IO #2/INFO]: <topology> ㅈㅗㅁㅂㅣㄹㅡㄹ ㄷㅜㄹㅕㅇㅜㅓ ㅁㅏㄹㄹㅏ[m
+[20:23:36] [Netty Server IO #3/INFO]: <MC_Square> 들어오니까 불타고 있음ㅋ[m
+[20:23:38] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2110ms behind, skipping 42 tick(s)
+[20:23:46] [Netty Server IO #2/INFO]: <topology> ㅎㅕㄴㅇㅏ ㄴㅓ ㅈㅣㄴㅉㅏ ㅈㅣㅇㅗㄱㄱㅏㅆㄴㅑ[m
+[20:23:50] [Netty Server IO #1/INFO]: <Time_origin> ㄴㄴ[m
+[20:23:51] [Netty Server IO #5/INFO]: <namjo> ㅎㅗㄴㅈㅏㄱㅏㄱㅔ?[m
+[20:23:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2504ms behind, skipping 50 tick(s)
+[20:23:59] [Netty Server IO #1/INFO]: <Time_origin> 가려고?[m
+[20:24:06] [Netty Server IO #5/INFO]: <namjo> ㅈㅜㄴㅎㅕㅇㅇㅣㄹㅏㅇ ㄱㅏㅌㅇㅣ ㄱㅏ[m
+[20:24:10] [Netty Server IO #1/INFO]: <Time_origin> ㅋㅋㅋ[m
+[20:24:10] [Netty Server IO #2/INFO]: <topology> ㄴㅗㄴㅗ ㄴㅔㅂㅓ[m
+[20:24:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3136ms behind, skipping 62 tick(s)
+[20:24:16] [Netty Server IO #5/INFO]: <namjo> ㄴㅣ ㄱㅕㅇㅎㅓㅁㅊㅣㄴㅡㄴ ㅇㅓㅉㅓㄱㅜ[m
+[20:24:22] [Netty Server IO #2/INFO]: <topology> ㅇㅣㄴㅊㅐㄴ ㅇㅏㄴㅎㅐ ㅆㅂ[m
+[20:24:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2693ms behind, skipping 53 tick(s)
+[20:24:32] [Netty Server IO #5/INFO]: <namjo> ㄴㅐㄱㅏ ㅈㅓㅂㅓㄴㅇㅔ ㅈㅓㄹㅐㅆㅈㅣ ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ[m
+[20:24:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4232ms behind, skipping 84 tick(s)
+[20:25:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2846ms behind, skipping 56 tick(s)
+[20:25:14] [Netty Server IO #1/INFO]: <Time_origin> 가야겠당[m
+[20:25:15] [Netty Server IO #1/INFO]: <Time_origin> 지옥[m
+[20:25:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2529ms behind, skipping 50 tick(s)
+[20:25:22] [Netty Server IO #2/INFO]: <topology> ㄷㄷ[m
+[20:25:25] [Netty Server IO #2/INFO]: <topology> ㅁㅜㅓㅎㅏㄱㅔ??[m
+[20:25:26] [Netty Server IO #1/INFO]: <Time_origin> 무한활 빌려주실분[m
+[20:25:30] [Netty Server IO #2/INFO]: <topology> ㅇㅡㅁ[m
+[20:25:34] [Netty Server IO #2/INFO]: <topology> ㄱㅖㅇㅑㄱㅅㅓ ㅆㅡㅁㅕㄴ ㅂㅣㄹㄹㅕㅈㅜㅁ[m
+[20:25:36] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2714ms behind, skipping 54 tick(s)
+[20:25:36] [Netty Server IO #5/INFO]: <namjo> ㄱㅑㅇ ㄱㅏㅌㅇㅣ ㄱㅏ[m
+[20:25:40] [Netty Server IO #2/INFO]: <topology> ㄴㄴ ㄴㅏ ㅇㅏㄴㄱㅏ[m
+[20:25:45] [Netty Server IO #5/INFO]: <namjo> ㅈㅒ ㅎㅗㄴㅈㅏ ㅂㅗㄴㅐㄱㅣ ㅂㅜㄹㅇㅏㄴㅎㅏㄴㄷㅔ[m
+[20:25:48] [Netty Server IO #5/INFO]: <namjo> ㄱㅡㄴㅊㅓ ㅈㅣㅎㅕㅇ ㅈㅗㅁ ㅂㅗㄱㅈㅏㅂㅎㅐ[m
+[20:25:49] [Netty Server IO #1/INFO]: <Time_origin> ;[m
+[20:25:57] [Netty Server IO #2/INFO]: <topology> ㅎㅕㄴㅇㅣㄴㅡㄴ[m
+[20:25:58] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2146ms behind, skipping 42 tick(s)
+[20:25:58] [Netty Server IO #5/INFO]: <namjo> ㄱㅡㄴㅊㅓ ㅅㅓㄱㅇㅕㅇ ㄷㅏ ㅍㅏㅂㅓㄹㅕㅆㄷㅏㄴ ㅁㅏㄹㅇㅑ ㅋㅋㅋㅋㅋ[m
+[20:25:59] [Netty Server IO #2/INFO]: <topology> ㅈㅏㄹ ㅎㅏㄹ ㅅㅜ ㅇㅣㅆㅇㅡㅁ[m
+[20:26:06] [Netty Server IO #2/INFO]: <topology> ㅇㅏㅈㅣㄱ ㅁㅏㄴㅎㄷㅓㄴㄷㅔ[m
+[20:26:10] [Netty Server IO #1/INFO]: <Time_origin> 석영캐러가는거 아니라서 괜찮아 ㅎㅎ[m
+[20:26:12] [Netty Server IO #5/INFO]: <namjo> ㅍㅏㄱㅣ ㅇㅓㄹㅇㅜㅓ[m
+[20:26:12] [Netty Server IO #5/INFO]: <namjo> ㅇㅎ[m
+[20:26:14] [Netty Server IO #5/INFO]: <namjo> ㅇㅠㅈㅓㄱ?[m
+[20:26:15] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3362ms behind, skipping 67 tick(s)
+[20:26:16] [Netty Server IO #2/INFO]: <topology> ㄴㄴ[m
+[20:26:17] [Netty Server IO #1/INFO]: <Time_origin> 사냥[m
+[20:26:19] [Netty Server IO #2/INFO]: <topology> ㅈㅗㅁㅂㅣㅍㅣㄱㅡㅁㅐㄴ[m
+[20:26:19] [Netty Server IO #5/INFO]: <namjo> ㅍㅣㄱㅡㅁㅐㄴ...[m
+[20:26:20] [Netty Server IO #2/INFO]: <topology> ㅈㅏㅂㄱㅔㅆㄷㅏ[m
+[20:26:21] [Netty Server IO #5/INFO]: <namjo> ㅇㅣㅎㅐㅎㅏㅁ[m
+[20:26:28] [Netty Server IO #2/INFO]: <topology> ㄱㅡㄹㅓㄴㅣㄲㅏ[m
+[20:26:30] [Netty Server IO #2/INFO]: <topology> ㄴㅏㄴ ㅇㅏㄴㄱㅏㄹㄹㅐ[m
+[20:26:30] [Netty Server IO #2/INFO]: <topology> ㅎㅎ[m
+[20:26:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2084ms behind, skipping 41 tick(s)
+[20:26:36] [Netty Server IO #1/INFO]: <Time_origin> 활ㅈ좀[m
+[20:26:40] [Netty Server IO #2/INFO]: <topology> ㄱㅖㅇㅑㄱㅅㅓ ㅆㅡㅁㅕㄴ[m
+[20:26:42] [Netty Server IO #2/INFO]: <topology> ㅇㅣㄹㅎㅇㅓㅂㅓㄹㅣㄹ ㅅㅣ[m
+[20:26:45] [Netty Server IO #2/INFO]: <topology> ㄱㅏㅌㅇㅡㄴ ㅅㅡㅍㅔㄱㅇㅡㄹ ㄱㅏㅈㅣㄴ ㅎㅗㅏㄹㅇㅡㄹ[m
+[20:26:47] [Netty Server IO #2/INFO]: <topology> ㅁㅏㄴㄷㅡㄹㄱㅔㅆㅅㅡㅂㄴㅣㄷㅏ[m
+[20:26:49] [Netty Server IO #2/INFO]: <topology> ㄷㅗㅈㅏㅇ ㅉㅣㄱㅇㅓㄹㅏ[m
+[20:26:53] [Netty Server IO #1/INFO]: <Time_origin> 같은 스펙은 좀 어렵고[m
+[20:26:58] [Netty Server IO #1/INFO]: <Time_origin> 상위호환으로 갚을게[m
+[20:27:01] [Netty Server IO #5/INFO]: <namjo> ㅋㅡㅇㅡㅇㅡㅇㅡㅇㅡ[m
+[20:27:01] [Netty Server IO #2/INFO]: <topology> ㅋㅡㅇㅡㅇㅡㅇㅡ[m
+[20:27:05] [Netty Server IO #5/INFO]: <namjo> ㅈㅓㄱㅓㅂㅗㄷㅏ ㅈㅗㅎㅇㅡㄴㄱㅓ[m
+[20:27:06] [Netty Server IO #5/INFO]: <namjo> ㅇㅓㅂㅅㄴㅡㄴㄷㅔ..[m
+[20:27:07] [Netty Server IO #2/INFO]: <topology> ㄸㅓㄹㄱㅜㅁ[m
+[20:27:16] [Netty Server IO #2/INFO]: <topology> ㄱㅏㅍㄱㅔㅆㄷㅏㄴㅡㄴㄷㅔ[m
+[20:27:19] [Netty Server IO #2/INFO]: <topology> ㅁㅣㄷㅇㅓㅇㅑㅈㅣㅁㅓ[m
+[20:27:21] [Netty Server IO #1/INFO]: <Time_origin> 뭐냐 ㅋㅋㅋㅋ[m
+[20:27:22] [Netty Server IO #2/INFO]: <topology> ㅈㅗㅅㅣㅁㅎㅣ ㄷㅏㄹㅕㅇㅗㄹㅕㅁ[m
+[20:27:24] [Netty Server IO #2/INFO]: <topology> ㄷㅏㄴㅕ[m
+[20:27:28] [Netty Server IO #1/INFO]: <Time_origin> 흠..[m
+[20:27:31] [Netty Server IO #2/INFO]: <topology> ㄱㅖㅇㅑㄱㅅㅓㄴㅡㄴ ㅇㅣㅁㅣ ㅌㅗㅇㄱㅗㅏㄷㅗㅣㅇㅓㅆㄷㅏ~~[m
+[20:27:32] [Netty Server IO #1/INFO]: <Time_origin> ㅇ,ㅡ으음[m
+[20:27:37] [Netty Server IO #1/INFO]: <Time_origin> 안죽지?[m
+[20:27:39] [Netty Server IO #1/INFO]: <Time_origin> 겠[m
+[20:27:54] [Netty Server IO #5/INFO]: <namjo> ???[m
+[20:28:05] [Netty Server IO #2/INFO]: <topology> ㅇㅏ[m
+[20:28:06] [Netty Server IO #2/INFO]: <topology> ㅇㅣㄱㅓ ㄹㅇ ㅅㅣㄹㅅㅜ[m
+[20:28:21] [Server thread/INFO]: topology fell from a high place
+[20:28:23] [Netty Server IO #5/INFO]: <namjo> ...................[m
+[20:28:55] [Netty Server IO #5/INFO]: <namjo> ㄱㅐ ㅈㄴ ㅂㅜㄹㅆㅏㅇㅎㅐ[m
+[20:29:00] [Netty Server IO #5/INFO]: <namjo> ㅈㅣㅇㅗㄱ ㅇㅣㅂㄱㅜㅇㅔㅅㅓ ㅂㅜㄹㅆㅏㅇㅎㅏㄱㅔ ㄱㅣㄷㅏㄹㅣㄱㅗ ㅇㅣㅆㅇㅓ[m
+[20:29:07] [Netty Server IO #1/INFO]: <Time_origin> ;[m
+[20:29:17] [Netty Server IO #2/INFO]: <topology> ㅎㅕㄴㅇㅏ ㅎㅗㅏㅅㅏㄹㅇㅡㄴ ㅇㅣㅆㄴㅣ[m
+[20:29:29] [Netty Server IO #1/INFO]: <Time_origin> 하나있아[m
+[20:29:31] [Netty Server IO #1/INFO]: <Time_origin> 다행이도[m
+[20:29:51] [Netty Server IO #5/INFO]: <namjo> ㅁㅜㅓㅎㅏㄴㅑ ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ[m
+[20:29:51] [Netty Server IO #3/INFO]: <MC_Square> 나무 캤다[m
+[20:29:55] [Netty Server IO #3/INFO]: <MC_Square> 이제 나가야해서[m
+[20:29:57] [Netty Server IO #3/INFO]: <MC_Square> ㅂㅂ[m
+[20:30:03] [Netty Server IO #5/INFO]: <namjo> ㅅㅂ?[m
+[20:30:08] [Server thread/INFO]: MC_Square lost connection: Disconnected
+[20:30:08] [Server thread/INFO]: MC_Square left the game
+[20:30:09] [Netty Server IO #2/INFO]: <topology> ㄷㅏㅅㅣ ㅇㅗㄹㄹㅏㅇㅗㅏ[m
+[20:30:23] [Netty Server IO #2/INFO]: <topology> ㅁㅜㅓㅎㅏㅁ[m
+[20:30:27] [Netty Server IO #5/INFO]: <namjo> ㄴㅣ[m
+[20:30:29] [Netty Server IO #5/INFO]: <namjo> ㅎㅣㅁ 4 ㅎㅗㅏㄹ[m
+[20:30:27] [Server thread/WARN]: Time ran backwards! Did the system time change?
+[20:30:30] [Netty Server IO #5/INFO]: <namjo> ㄱㅏㅈㄱㅣ ㅅㅣㄹㅎㄱㅜㄴㅏ?[m
+[20:30:35] [Netty Server IO #2/INFO]: <topology> ???[m
+[20:30:38] [Netty Server IO #2/INFO]: <topology> ㅇㅏㄴㅣㅅ[m
+[20:30:41] [Netty Server IO #2/INFO]: <topology> ㄴㅏㄴ ㄹㅇ ㄷㅗㅇㅗㅏㅈㅜㄴㄱㅓㄴㄷㅔ[m
+[20:30:45] [Netty Server IO #5/INFO]: <namjo> ㅇㅗㅐ ㄴㅏ ㄸㅓㄹㄱㅜㅁ[m
+[20:30:46] [Netty Server IO #5/INFO]: <namjo> ;;[m
+[20:30:49] [Netty Server IO #2/INFO]: <topology> ㄱㅡㄱㅓㄴ[m
+[20:30:50] [Netty Server IO #2/INFO]: <topology> ㄴㅐㄱㅏ ㅇㅗㄹㄹㅏㄱㅏㅅㅓ[m
+[20:30:53] [Netty Server IO #2/INFO]: <topology> ㅂㅡㄹㅓㄹㄱ ㅅㅓㄹㅊㅣㅎㅐㅈㅜㄹㄹㅏ ㅎㅐㅆㄴㅡㄴㄷㅔ[m
+[20:30:55] [Netty Server IO #2/INFO]: <topology> ;;;;[m
+[20:30:59] [Netty Server IO #5/INFO]: <namjo> ㅇㅜㅓㄴㄹㅐ[m
+[20:31:00] [Netty Server IO #5/INFO]: <namjo> ㅅㅏㄷㅏㄹㅣ ㅇㅜㅣㅇㅔ[m
+[20:31:01] [Netty Server IO #2/INFO]: <topology> ㅇㅗㄹㄹㅏㅇㅗㅏ[m
+[20:31:03] [Netty Server IO #5/INFO]: <namjo> ㅅㅓㅇㅣㅆㅇㅡㄹ ㅅㅜ ㅇㅣㅆㅇㅓ[m
+[20:31:10] [Netty Server IO #2/INFO]: <topology> ㅇㅗㄹㄹㅏㅇㅗㅏ[m
+[20:31:11] [Netty Server IO #2/INFO]: <topology> ㅠ[m
+[20:31:15] [Netty Server IO #5/INFO]: <namjo> ㄱㄷ[m
+[20:31:17] [Netty Server IO #5/INFO]: <namjo> ㅊㅓㄹㅇㅡㄹ 250ㄱㅐ ㅋㅐㅇㅗㅏㅅㅓ[m
+[20:31:32] [Netty Server IO #5/INFO]: <namjo> ㅅㅓㄱㅌㅏㄴㅇㅡㄴ 500ㄱㅐ..?[m
+[20:31:58] [Netty Server IO #2/INFO]: <topology> ㅈㅏㅁㅇㅣㄴㅏ ㅈㅏㅈㅏ[m
+[20:31:58] [Netty Server IO #5/INFO]: <namjo> ㅎㅕㄴㅇㅏ ㅍㅡㄹㅗㅅㅡㅌㅡ ㅇㅜㅓㅋㅓ[m
+[20:32:04] [Netty Server IO #5/INFO]: <namjo> ㄷㅐㄱㅕㅇㅇㅏ ㄴㅏㄱㅏ[m
+[20:32:07] [Netty Server IO #2/INFO]: <topology> ㄷㅐㄱㅕㅇㅇㅣㅎㅕㅇ[m
+[20:32:10] [Netty Server IO #2/INFO]: <topology> ㄴㅏㄱㅏㄴㅈㅣㄱㅏ[m
+[20:32:11] [Netty Server IO #2/INFO]: <topology> ㅇㅓㄴㅈㅔㄴㄷㅐ[m
+[20:32:13] [Netty Server IO #5/INFO]: <namjo> ㄱㅡㄹㅓㄴㅔ[m
+[20:32:13] [Netty Server IO #2/INFO]: <topology> ㄷㅔ[m
+[20:32:15] [Netty Server IO #5/INFO]: <namjo> ㅇㅗㅐ ㅇㅏㄴㅈㅏㅈㅣㅁ?[m
+[20:32:18] [Netty Server IO #5/INFO]: <namjo> ㅃㅏㄹㄹㅣ ㅈㅏ[m
+[20:32:25] [Netty Server IO #5/INFO]: <namjo> ㅎㅕㄴㅇㅏ[m
+[20:32:26] [Netty Server IO #5/INFO]: <namjo> ㅍㅡㄹㅗㅅㅡㅌㅡ ㅇㅜㅓㅋㅓ[m
+[20:32:30] [Netty Server IO #5/INFO]: <namjo> ㅊㅏㅇㄱㅗ ㅂㅗㅁㅜㄹㅋㅏㄴㅇㅔ ㄴㅓㅎㅇㅓㄴㅗㅎㅇㅡㅁ[m
+[20:32:35] [Netty Server IO #2/INFO]: <topology> ㅎㅕㄴㅇㅣㄴㅡㄴ[m
+[20:32:37] [Netty Server IO #2/INFO]: <topology> ㅈㅗㅁㅂㅣㅍㅣㄱㅡㅁㅐㄴㄱㅗㅏ[m
+[20:32:41] [Netty Server IO #2/INFO]: <topology> ㅎㅕㄹㅌㅜㄹㅡㄹ ㅂㅓㄹㅇㅣㄱㅗ ㅇㅣㅆㅇㅓ[m
+[20:32:59] [Netty Server IO #2/INFO]: <topology> ㅍㅏㅂㅋㅗㄴ ㅌㅜㅣㄱㅣㄹㅓ ㄱㅏㅂㅗㄹㄲㅏ[m
+[20:33:01] [Netty Server IO #5/INFO]: <namjo> ㅇㅣㄹㄹㅗㅇㅗㅏㅂㅗㅏ ㅋㅋㅋㅋ[m
+[20:33:11] [Netty Server IO #2/INFO]: <topology> ㅇㅓ[m
+[20:33:13] [Netty Server IO #2/INFO]: <topology> ㄴㅏ ㅅㅓㄱㅌㅏㄴ ㄷㅓㅇㅣㅆㅇㅡㅁ[m
+[20:33:15] [Netty Server IO #5/INFO]: <namjo> ㄱㅡㄹㅣㄱㅗ[m
+[20:33:18] [Netty Server IO #5/INFO]: <namjo> ㅇㅣ ㅎㅗㅏㄹㅗㄷㅡㄹ ㅇㅕㄹㅇㅓㅂㅗㅏㅂㅗㅏ[m
+[20:33:41] [Netty Server IO #5/INFO]: <namjo> ㅎㅗㅏㄹㅗ ㅇㅕㄹㅇㅓㅂㅗㅅㅔㅁ[m
+[20:33:50] [Netty Server IO #1/INFO]: <Time_origin> 길이 너무 안좋네[m
+[20:33:53] [Netty Server IO #2/INFO]: <topology> ㅋㅋ[m
+[20:33:56] [Netty Server IO #2/INFO]: <topology> ㄱㅐㅇㅐㅇㅐㅇㅐㅁㅏㄴㅎㄴㅔ[m
+[20:33:58] [Netty Server IO #5/INFO]: <namjo> ㅇㅣㄱㅅㅡㅌㅡㄹㅣㅁ ㅎㅣㄹㅈㅡㄱㅏ[m
+[20:34:00] [Netty Server IO #5/INFO]: <namjo> ㄱㅐㅇㅐㅇㅐㅇㅐ ㄲㅜㄹㅇㅣㄴㄱㅔ[m
+[20:34:04] [Netty Server IO #5/INFO]: <namjo> ㅁㅗㄷㅡㄴ ㅊㅓㅇㅋㅡㄱㅏ ㅇㅓㅁㅊㅓㅇ ㅋㅓ[m
+[20:34:08] [Netty Server IO #5/INFO]: <namjo> ㅊㅓㄹ ㄱㅣㅂㅗㄴ ㅎㅏㄴㅂㅓㄴㅇㅔ 10ㄱㅐㅆㅣㄱㅇㅣㄱㅗ[m
+[20:34:12] [Netty Server IO #5/INFO]: <namjo> ㅅㅓㄱㅌㅏㄴㅇㅡㄴ ㅊㅗㅣㅅㅗ 20ㄱㅐㅆㅣㄱ ㄴㅏㅇㅗㅁ[m
+[20:34:30] [Netty Server IO #1/INFO]: <Time_origin> 애들이 한마리씩 다녀서 어그로가 안끌려[m
+[20:34:32] [Netty Server IO #5/INFO]: <namjo> ㅇㅣㄱㅓㄴㅏ ㅁㅓㄱㅇㅓ[m
+[20:34:36] [Netty Server IO #1/INFO]: <Time_origin> 그래서 사냥이 안돼[m
+[20:34:46] [Netty Server IO #5/INFO]: <namjo> ㅃㅏㄹㄹㅣ[m
+[20:34:47] [Netty Server IO #5/INFO]: <namjo> ㅈㅜㄴㅎㅕㅇㅇㅏ[m
+[20:34:54] [Netty Server IO #2/INFO]: <topology> ㅁㅓ[m
+[20:34:55] [Netty Server IO #5/INFO]: <namjo> ㅇㅣㄱㅓ[m
+[20:35:10] [Netty Server IO #2/INFO]: <topology> ㅇㅇ?[m
+[20:35:11] [Netty Server IO #5/INFO]: <namjo> ㅇㅣㄹㄹㅗㅇㅗㅏㅂㅗㅏ[m
+[20:35:14] [Netty Server IO #5/INFO]: <namjo> ㅇㅜㅣㅊㅣㄱㅏ ㅇㅏㄴㅈㅗㅎㄷㅏ[m
+[20:35:30] [Netty Server IO #5/INFO]: <namjo> ??[m
+[20:35:32] [Netty Server IO #5/INFO]: <namjo> ㄴㅓ ㅁㅓㄱㅇㅓㅆㅇㅓ[m
+[20:35:38] [Netty Server IO #2/INFO]: <topology> ㅇㅗ[m
+[20:35:38] [Netty Server IO #2/INFO]: <topology> ㄱㅅㄱㅅ[m
+[20:35:39] [Netty Server IO #5/INFO]: <namjo> ㄴㅏㅈㅜㅇㅇㅔ ㅎㅏㅂㅊㅣㅅㅔㅁ[m
+[20:35:47] [Netty Server IO #5/INFO]: <namjo> ㄷㅏㄲㅓㅈㅕ[m
+[20:35:50] [Netty Server IO #5/INFO]: <namjo> ㅍㅗㅊㅠㄴ3 ㄷㅏㄱㅗㄱ ㅁㅏㄴㄷㅡㄹㄹㅓ ㄱㅏㄴㄷㅏ[m
+[20:36:04] [Netty Server IO #5/INFO]: <namjo> ㄷㅏㅇㅣㅇㅏㄱㅏ[m
+[20:36:05] [Netty Server IO #5/INFO]: <namjo> ㅇㅓㅂㅅㄴㅔ?[m
+[20:36:10] [Netty Server IO #5/INFO]: <namjo> ㄱㅡㄹㅓㄹㄹㅣㄱㅏ?[m
+[20:36:10] [Netty Server IO #2/INFO]: <topology> ㄷㅏㅇㅣㅇㅏ[m
+[20:36:12] [Netty Server IO #2/INFO]: <topology> ㄷㅗㅅㅓㄱㅗㅏㄴㅇㅔ ㅁㅏㄴㅎㅇㅏ[m
+[20:36:52] [Netty Server IO #5/INFO]: <namjo> ㅈㅣㄹㅕㄸㅏ ㅈㅣㄹㅕㄸㅏ~~~~~~~~~~~~~~~~~~~~~[m
+[20:36:58] [Netty Server IO #5/INFO]: <namjo> ㅍㅗㅊㅠㄴ3 ㅎㅛㅇㅠㄹ4 ㄴㅐㄱㅜㄷㅗ3~~~~~~~~~~~~~~~`[m
+[20:37:09] [Netty Server IO #1/INFO]: <Time_origin> 크으으[m
+[20:37:30] [Netty Server IO #5/INFO]: <namjo> ㅋㅡㅇㅡㅇㅡㅇㅡㅇㅡㅇㅡㅇㅡㅇㅡㅇㅡㅇㅡ[m
+[20:37:37] [Netty Server IO #5/INFO]: <namjo> ㄷㅏㅇㅣㅇㅏ ㅈㅏㄱㅈㅓㅇㅎㅏㄱㅗ ㅋㅐㄹㅓ ㄱㅏㄹ ㄸㅐ ㅆㅡㅁㅕㄴ ㄷㅗㅣㄱㅔㅆㄷㅏ[m
+[20:40:40] [Netty Server IO #1/INFO]: <Time_origin> 어그로 언제 풀려?[m
+[20:40:44] [Netty Server IO #2/INFO]: <topology> 40ㅊㅗ?[m
+[20:40:47] [Netty Server IO #5/INFO]: <namjo> ㄴㅏㄱㅏㅆㄷㅏㄱㅏ[m
+[20:40:49] [Netty Server IO #5/INFO]: <namjo> 40ㅊㅗ ㄷㅜㅣㅇㅔ[m
+[20:40:50] [Netty Server IO #5/INFO]: <namjo> ㅇㅗㅁㅕㄴ ㄷㅗㅣㅁ[m
+[20:40:54] [Netty Server IO #1/INFO]: <Time_origin> ㅇㅎ[m
+[20:41:21] [Server thread/INFO]: Time_origin lost connection: Disconnected
+[20:41:21] [Server thread/INFO]: Time_origin left the game
+[20:41:25] [Netty Server IO #2/INFO]: <topology> ??[m
+[20:41:30] [Netty Server IO #5/INFO]: <namjo> ㅇㅓㄱㅡㄹㅗ ㅍㅜㄹㄹㅓ ㄴㅏㄱㅏㄴㄷㅡㅅ[m
+[20:41:38] [Netty Server IO #2/INFO]: <topology> ㄱㅡㄹㅓㄴㄷㅏㄱㅗ ㅇㅏㄴㅍㅜㄹㄹㅣㄴㅡㄴㄷㅔ[m
+[20:41:41] [Netty Server IO #2/INFO]: <topology> ㄴㅏㄱㅏㅁㅕㄴ ㅋㅏㅇㅜㄴㅌㅡ ㅊㅗㄱㅣㅎㅗㅏㄷㅗㅣㄹㄱㅓㄹ[m
+[20:41:45] [Netty Server IO #5/INFO]: <namjo> ㄴㄴ[m
+[20:41:46] [Netty Server IO #5/INFO]: <namjo> ㅇㅏ ㄱㅡㄴㄷㅔ[m
+[20:41:50] [Netty Server IO #5/INFO]: <namjo> ㅊㅓㅇㅋㅡ ㄹㅗㄷㅣㅇ ㅎㅐㅈㅜㄹ ㅅㅏㄹㅏㅁㅇㅣ ㅇㅓㅂㅅㅇㅓㅅㅓ[m
+[20:41:53] [Netty Server IO #5/INFO]: <namjo> ㅊㅗㄱㅣㅎㅗㅏㄴㅡㄴ ㅇㅏㄴㅣㄱㅗ[m
+[20:41:55] [Netty Server IO #5/INFO]: <namjo> ㅇㅏㄴ ㅈㅜㄹㅇㅓㄷㅡㄹㄱㅔㅆㄷㅏ[m
+[20:42:51] [Server thread/INFO]: Time_origin[/110.76.126.190:51622] logged in with entity id 341210 at ([world_nether]105.9620126244152, 68.0, 71.65672985996875)
+[20:42:57] [Netty Server IO #2/INFO]: <topology> ㄴㅏㅁㅈㅗㅇㅑ ㅈㅏㅈㅏ[m
+[20:43:14] [Netty Server IO #5/INFO]: <namjo> ㅁㅣㅊㅣㄴ[m
+[20:43:16] [Netty Server IO #5/INFO]: <namjo> ㅇㅓㄸㅓㄱㅎㅏㅈㅣ[m
+[20:43:18] [Netty Server IO #2/INFO]: <topology> ?[m
+[20:43:19] [Netty Server IO #5/INFO]: <namjo> ㅊㅓㄹ ㅎㅏㄴㅈㅜㄹ ㄷㅏ ㅊㅐㅇㅜㅓㅆㅇㅓ[m
+[20:43:36] [Netty Server IO #7/INFO]: <Time_origin> 잔다고?[m
+[20:43:40] [Netty Server IO #2/INFO]: <topology> ㅇㅣㅁㅣ ㅈㅏㅁ[m
+[20:43:45] [Netty Server IO #7/INFO]: <Time_origin> 나도 자야댐?[m
+[20:43:49] [Netty Server IO #2/INFO]: <topology> ㄴㄴ[m
+[20:44:04] [Netty Server IO #2/INFO]: <topology> ㄴㅓ ㅇㄷ?[m
+[20:44:10] [Netty Server IO #7/INFO]: <Time_origin> 나 지옥[m
+[20:44:18] [Netty Server IO #2/INFO]: <topology> ㅍㅏㅂㅋㅗㄴ ㅌㅜㅣㄱㅣㄹㅓ ㄱㅏㄴㄷㅏ[m
+[20:44:20] [Netty Server IO #5/INFO]: <namjo> ㅎㅎ[m
+[20:44:22] [Netty Server IO #5/INFO]: <namjo> ㄴㅏ[m
+[20:44:26] [Netty Server IO #5/INFO]: <namjo> ㅊㅓㄹ ㅂㅡㄹㄹㅗㄱ ㅎㅏㄴ ㅅㅔㅌㅡ ㅁㅏㄴㄷㅡㄹㅁ[m
+[20:44:27] [Netty Server IO #7/INFO]: <Time_origin> 좀 데리러와줘[m
+[20:44:29] [Netty Server IO #7/INFO]: <Time_origin> 안먼데 길 모름 ㅎㅎ[m
+[20:44:38] [Netty Server IO #2/INFO]: <topology> ㄴㅏ ㅈㅏㅇㄴㅏㄴㅈㅗㅁ ㅊㅣㄱㅗ[m
+[20:44:47] [Netty Server IO #5/INFO]: <namjo> ㅎㅕㄴㅇㅏ[m
+[20:44:48] [Netty Server IO #5/INFO]: <namjo> ㅈㅗㅏㅍㅛㅈㅗㅁ[m
+[20:44:57] [Netty Server IO #7/INFO]: <Time_origin> 132 58 45[m
+[20:45:06] [Netty Server IO #2/INFO]: <topology> ㅋㅡ[m
+[20:45:07] [Netty Server IO #5/INFO]: <namjo> ㅊㅣㅁㄷㅐ ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ[m
+[20:45:07] [Netty Server IO #2/INFO]: <topology> ㅇㅗㅈㅕㅆㄷㅏ[m
+[20:45:13] [Netty Server IO #2/INFO]: <topology> ㅇㅇ???[m
+[20:45:15] [Netty Server IO #2/INFO]: <topology> ㅇㅓㄸㅓㅎㄱㅔ ㅇㅏㄹㅇㅏㅆㄴㅑ[m
+[20:45:18] [Netty Server IO #5/INFO]: <namjo> ㅌㅓㅈㅣㄴㅡㄴㄱㅓ[m
+[20:45:20] [Netty Server IO #5/INFO]: <namjo> ㄱㅡㄱㅓㅂㅏㄲㅇㅔ ㅇㅓㅂㅅㅈㅣ[m
+[20:45:26] [Netty Server IO #2/INFO]: <topology> ㄴㅣ ㅈㅣㅇㅗㄱㅇㅣㄴㅑㅋㅋㅋㅋㅋㅋ[m
+[20:45:44] [Netty Server IO #2/INFO]: <topology> ㅇㅣㄱㅓ ㅈㅗㅁㅍㅣㄱㅡㅁㅐㄴ ㅇㅜㅓㄴㅋㅣㄹㅇㅣㄹㅏ[m
+[20:45:45] [Netty Server IO #2/INFO]: <topology> ㅇㅏㄴㅈㅓㄴㅎㅏㅁ[m
+[20:46:18] [Netty Server IO #5/INFO]: <namjo> ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ[m
+[20:46:20] [Netty Server IO #2/INFO]: <topology> ㄱㅐㄲㅜㄹ[m
+[20:46:22] [Netty Server IO #5/INFO]: <namjo> ㄴㅏ ㄴㅣ ㅁㅓㄹㅣ ㅇㅜㅣ[m
+[20:46:26] [Netty Server IO #2/INFO]: <topology> ㅋㅋㅋㅋㅋ[m
+[20:47:24] [Netty Server IO #2/INFO]: <topology> ㅊㅣㅁㄷㅐㅍㅗㄱㅌㅏㄴ ㄴㅓㅁㅜㅈㅐㅁㅣㅆㄷㅏ[m
+[20:47:30] [Netty Server IO #5/INFO]: <namjo> ㄴㅓ ㅇㄷ?[m
+[20:47:34] [Netty Server IO #5/INFO]: <namjo> ㅎㅕㄴ[m
+[20:47:34] [Netty Server IO #2/INFO]: <topology> ㄴㅏ ㄱㅗㄱㅣㄱㅏㅈㅣㄹㅓㅇㅗㅁ[m
+[20:47:42] [Netty Server IO #5/INFO]: <namjo> ㅎㅇ[m
+[20:47:47] [Netty Server IO #7/INFO]: <Time_origin> 앗[m
+[20:47:49] [Netty Server IO #7/INFO]: <Time_origin> 찾았다[m
+[20:47:53] [Netty Server IO #7/INFO]: <Time_origin> 너 왜 옷이 없니[m
+[20:47:56] [Netty Server IO #7/INFO]: <Time_origin> 남조인가[m
+[20:47:59] [Netty Server IO #5/INFO]: <namjo> ㅇㅇ[m
+[20:48:06] [Netty Server IO #7/INFO]: <Time_origin> 나 데리러 온거야?[m
+[20:48:15] [Netty Server IO #5/INFO]: <namjo> ㅇㅇ[m
+[20:48:16] [Netty Server IO #5/INFO]: <namjo> ㅁㅜㄹㄴㅗㄴ[m
+[20:48:38] [Netty Server IO #7/INFO]: <Time_origin> gg[m
+[20:48:40] [Netty Server IO #7/INFO]: <Time_origin> ㅎㅎ[m
+[20:48:40] [Netty Server IO #5/INFO]: <namjo> ??????????/[m
+[20:48:41] [Netty Server IO #5/INFO]: <namjo> ㄸㅏㅁ?[m
+[20:48:43] [Netty Server IO #7/INFO]: <Time_origin> ㅇㅇ[m
+[20:48:48] [Netty Server IO #5/INFO]: <namjo> ㅅㅓㄱㅇㅕㅇㅇㅡㄴ ㅊㅜㅇㅂㅜㄴㅎㅣ ㅋㅐㅁ?[m
+[20:48:57] [Netty Server IO #7/INFO]: <Time_origin> 좀더 캐면 좋은데[m
+[20:48:59] [Netty Server IO #7/INFO]: <Time_origin> 너도 캘래?[m
+[20:49:03] [Netty Server IO #5/INFO]: <namjo> ㅇㅋ[m
+[20:49:11] [Netty Server IO #7/INFO]: <Time_origin> 남조는 그냥[m
+[20:49:14] [Netty Server IO #7/INFO]: <Time_origin> 네비지 거의[m
+[20:49:19] [Netty Server IO #5/INFO]: <namjo> ㄱㅅ[m
+[20:49:20] [Netty Server IO #5/INFO]: <namjo> ㄴㅓ[m
+[20:49:24] [Netty Server IO #5/INFO]: <namjo> ㅁㅏㄱㅡㅁㅏ ㅂㅡㄹㄹㅗㄱ ㅋㅐㄹㄹㅐ?[m
+[20:49:37] [Netty Server IO #7/INFO]: <Time_origin> 저것도 경험치 줘?[m
+[20:49:39] [Netty Server IO #5/INFO]: <namjo> ㄴㄴ[m
+[20:49:41] [Netty Server IO #2/INFO]: <topology> ㅊㅣㅁㄷㅐ ㄱㅐㄲㅜㄹㅎㅎㅎㅎ[m
+[20:49:43] [Netty Server IO #5/INFO]: <namjo> ㄱㅡㄴㄷㅔ ㅈㅣㅂ ㅂㅏㅇㅇㅓㅇㅛㅇㅇㅣㅁ[m
+[20:49:46] [Netty Server IO #7/INFO]: <Time_origin> ㅋㅋ[m
+[20:49:55] [Netty Server IO #2/INFO]: <topology> ㄸㅗ ㅈㅗㅁㅂㅣㅍㅣㄱㅡㅁㅐㄴ ㅇㅓㅂㅅㄴㅏ[m
+[20:50:01] [Netty Server IO #2/INFO]: <topology> ㅊㅣㅁㄷㅐㅇㅡㅣ ㅁㅜㅅㅓㅇㅜㅁㅇㅡㄹ ㅂㅗㅇㅕㅈㅜㅁㅏ[m
+[20:50:02] [Netty Server IO #7/INFO]: <Time_origin> 왔다다할때마다 나도 맞음..[m
+[20:50:11] [Netty Server IO #5/INFO]: <namjo> ㅎㅕㄴㅇㅏ[m
+[20:50:11] [Netty Server IO #7/INFO]: <Time_origin> 좀비피그맨 잡을까[m
+[20:50:13] [Netty Server IO #5/INFO]: <namjo> ㅇㅣㄹㄹㅗㅇㅗㅏㅂㅗㅏ[m
+[20:50:32] [Netty Server IO #7/INFO]: <Time_origin> 피그맨 잡자고?[m
+[20:50:34] [Netty Server IO #5/INFO]: <namjo> ㄴㅓㄱㅏ ㅈㅏㅂㅈㅏㅁㅕ[m
+[20:50:36] [Netty Server IO #5/INFO]: <namjo> ㅁㅏㄴㅎㅇㅡㅁ ㅋ[m
+[20:50:37] [Netty Server IO #7/INFO]: <Time_origin> 굿[m
+[20:50:41] [Netty Server IO #7/INFO]: <Time_origin> 짱좋음[m
+[20:50:43] [Netty Server IO #2/INFO]: <topology> ㅊㅣㅁㄷㅐ ㄷㅏㅆㅓㅆㄷㅏ[m
+[20:50:58] [Netty Server IO #2/INFO]: <topology> ㅊㅣㅁㄷㅐ ㅁㅏㄴㄷㅡㄹㄹㅓ ㄱㅏㅇㅑㅈㅣㅇ[m
+[20:51:34] [Netty Server IO #7/INFO]: <Time_origin> 쓱싹[m
+[20:52:11] [Netty Server IO #2/INFO]: <topology> ㅎㅏ[m
+[20:52:14] [Netty Server IO #2/INFO]: <topology> ㅊㅣㅁㄷㅐ ㅈㅣㄴㅉㅏ ㄴㅓㅁㅜㅈㅐㅁㅣㅆㄴㅔ[m
+[20:52:21] [Netty Server IO #7/INFO]: <Time_origin> 저런[m
+[20:52:28] [Netty Server IO #2/INFO]: <topology> ㄷㅓㅎㅏㄱㅗㅅㅣㅍㅈㅣㅁㅏㄴ ㅊㅣㅁㄷㅐㄱㅏ ㅇㅓㅂㅅㄷㅏ[m
+[20:52:58] [Netty Server IO #7/INFO]: <Time_origin> ㄱ수[m
+[20:53:03] [Netty Server IO #7/INFO]: <Time_origin> 구우웃[m
+[20:53:27] [Netty Server IO #7/INFO]: <Time_origin> 남조 보모 잘할거같음[m
+[20:53:37] [Netty Server IO #2/INFO]: <topology> ㅂㅗㄴㅗㅂㅗㄴㅗ?[m
+[20:53:43] [Netty Server IO #7/INFO]: <Time_origin> ㄴㄷ?[m
+[20:53:48] [Netty Server IO #2/INFO]: <topology> ㅎ[m
+[20:54:50] [Netty Server IO #7/INFO]: <Time_origin> 34[m
+[20:54:52] [Netty Server IO #7/INFO]: <Time_origin> 돌아갈까?[m
+[20:54:57] [Netty Server IO #5/INFO]: <namjo> ㅇㄷ?[m
+[20:55:22] [Netty Server IO #2/INFO]: <topology> ㅇㅜㅣㄷㅓㅅㅡㅋㅔㄹ ㄷㅐㄱㅏㄹㅣ ㅎㅏㄴㅏㅁㅏㄴ ㄷㅓ ㄱㅏㅈㅕㅇㅗㅁㅕㄴ[m
+[20:55:24] [Netty Server IO #2/INFO]: <topology> ㅇㅜㅣㄷㅓ ㅅㅗㅎㅗㅏㄴㅎㅏㄹ ㅅㅜ ㅇㅣㅆㅇㅡㅁ[m
+[20:55:35] [Netty Server IO #7/INFO]: <Time_origin> 후[m
+[20:55:43] [Netty Server IO #5/INFO]: <namjo> ㅂㅏㅂㅗ ㅋㅋ[m
+[20:56:16] [Netty Server IO #7/INFO]: <Time_origin> 위더 재밌다[m
+[20:56:19] [Netty Server IO #7/INFO]: <Time_origin> 겠[m
+[20:56:33] [Netty Server IO #5/INFO]: <namjo> ㅇㅓㄷㅣㅅㅓ ㄱㅏㅅㅡㅌㅡ ㅈㅜㅈㅔㅇㅔ ㅁㅜㅂㅣㅇㅇㅣㅇㅑ[m
+[20:56:38] [Netty Server IO #7/INFO]: <Time_origin> ㅋㅋㅋㅋㅋ[m
+[20:56:42] [Netty Server IO #2/INFO]: <topology> ㄴㅓㄴㅔ ㅇㄷ[m
+[20:56:47] [Netty Server IO #5/INFO]: <namjo> ㄱㅗㄷ ㄷㅗㄹㅇㅏㄱㅏㅁ[m
+[20:57:58] [Netty Server IO #5/INFO]: <namjo> ㅇㅗㅇㅖ 33[m
+[20:58:00] [Netty Server IO #5/INFO]: <namjo> ㄱㅏㅈㅏ[m
+[20:58:41] [Netty Server IO #7/INFO]: <Time_origin> 역시 사냥이 제일 재밌는ㄷ듯[m
+[20:58:46] [Netty Server IO #5/INFO]: <namjo> ㄴㅓㄱㅏ ㅆㅔㅅㅓ ㄱㅡㄹㅓㅁ[m
+[20:58:47] [Netty Server IO #5/INFO]: <namjo> ㅋㅋ[m
+[20:58:50] [Netty Server IO #7/INFO]: <Time_origin> ㅋㅋ[m
+[20:58:51] [Netty Server IO #7/INFO]: <Time_origin> 활이[m
+[20:58:54] [Netty Server IO #7/INFO]: <Time_origin> 글치[m
+[20:59:04] [Netty Server IO #5/INFO]: <namjo> ㅁㅜㅓㅎㅏㄴㅑ[m
+[20:59:32] [Netty Server IO #5/INFO]: <namjo> ㅇㅎ[m
+[20:59:35] [Netty Server IO #5/INFO]: <namjo> ㄷㅗㄹㅇㅏㄱㅏㅈㅏ[m
+[20:59:43] [Netty Server IO #7/INFO]: <Time_origin> 고소공포증..[m
+[20:59:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2289ms behind, skipping 45 tick(s)
+[21:00:04] [Netty Server IO #2/INFO]: <topology> ㅎㅕㄴㅇㅏ ㅎㅗㅏㄹ[m
+[21:00:08] [Netty Server IO #2/INFO]: <topology> ㄱㅅ[m
+[21:00:10] [Netty Server IO #7/INFO]: <Time_origin> 잘어[m
+[21:00:14] [Netty Server IO #7/INFO]: <Time_origin> ㅓ썼[m
+[21:00:28] [Netty Server IO #2/INFO]: <topology> ㅂㄷㅂㄷ[m
+[21:00:30] [Netty Server IO #2/INFO]: <topology> ㄹㅔㅂㅔㄹㅈㅗㅁ ㅂㅣㄹㄹㅕㅈㅜㅅㅣㄹㅂㅜㄴ[m
+[21:00:37] [Netty Server IO #7/INFO]: <Time_origin> 청금석?[m
+[21:00:43] [Netty Server IO #7/INFO]: <Time_origin> ㅎㅎ 내거 빌려가[m
+[21:00:43] [Netty Server IO #2/INFO]: <topology> ㄹㅔㅂㅔㄹ[m
+[21:00:47] [Netty Server IO #2/INFO]: <topology> ㅊㅓㅇㄱㅡㅁㅅㅓㄱ ㅁㅏㄹㄱㅗ[m
+[21:00:52] [Netty Server IO #7/INFO]: <Time_origin> 내 레벨[m
+[21:00:53] [Netty Server IO #7/INFO]: <Time_origin> 빌려가 ㅎㅎ[m
+[21:00:59] [Netty Server IO #2/INFO]: <topology> ㅁㅗㄹㅜㄹㅗ ㅇㅗㅏㅈㅜㅓㅎㅎㅎ[m
+[21:00:59] [Netty Server IO #5/INFO]: <namjo> ㅁㅜㅓㄴㅑ ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ[m
+[21:01:02] [Netty Server IO #2/INFO]: <topology> ㅇㅇ?[m
+[21:01:05] [Netty Server IO #5/INFO]: <namjo> ㅎㅛㅇㅠㄹ 4 ㅂㅗㄱㅗ[m
+[21:01:08] [Netty Server IO #5/INFO]: <namjo> ㅊㅓㄹㄱㅗㄱ ㅇㅣㄴㅊㅐㄴ ㅎㅐㅆㄴㅡㄴㄷㅔ[m
+[21:01:11] [Netty Server IO #5/INFO]: <namjo> ㅎㅐㅇㅜㄴ3 ㅂㅜㅌㅇㅡㅁ[m
+[21:01:13] [Netty Server IO #5/INFO]: <namjo> ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ[m
+[21:01:17] [Netty Server IO #5/INFO]: <namjo> ㅅㅣㄴㄴㅏㄴㄷㅏ~~[m
+[21:01:20] [Netty Server IO #5/INFO]: <namjo> ㅇㅣㄱㅓ ㄱㅖㅅㅗㄱ ㅆㅓㅇㅑㅈㅣ[m
+[21:01:28] [Netty Server IO #5/INFO]: <namjo> ㄴㅐㄱㅜㄷㅗ ㄷㅏㄹㅇㅏㄷㅗ ㅊㅓㄹㄱㅗㄱㅇㅣㅁㅕㄴ ㅅㅜㄹㅣㅎㅏㄱㅣ ㄱㅐㅍㅕㄴㅎㅏㅁ[m
+[21:01:51] [Netty Server IO #2/INFO]: <topology> ㅇㅏㄴㅣㄷㅏ ㅎㅕㄴㅇㅏ[m
+[21:01:54] [Netty Server IO #2/INFO]: <topology> ㅇㅏㄴㅂㅣㄹㄹㅕㄷㅗ ㄷㅗㅣㄹ ㄱㅓㅅ ㄱㅏㅌㅇㅏ[m
+[21:01:58] [Netty Server IO #7/INFO]: <Time_origin> ㅎㅎ[m
+[21:02:03] [Netty Server IO #5/INFO]: <namjo> ㄴㅏ ㄹㅜㅌㅣㅇ3 ㅊㅓㄹㅋㅏㄹㄷㅗ ㅇㅣㅆㅇㅡㅁ[m
+[21:02:54] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2196ms behind, skipping 43 tick(s)
+[21:03:03] [Netty Server IO #7/INFO]: <Time_origin> 데려다줘서 ㄳㄳ[m
+[21:03:08] [Netty Server IO #5/INFO]: <namjo> ㅎㅕㄴㅇㅏ[m
+[21:03:11] [Netty Server IO #5/INFO]: <namjo> 1ㅊㅡㅇㅇㅡㄹㅗ ㅇㅗㅏㅂㅗㅏㅇ[m
+[21:03:38] [Netty Server IO #5/INFO]: <namjo> ㅇㅛㄱㅣ ㅅㅓㅇㅣㅆㅇㅓㅂㅗㅏ[m
+[21:03:47] [Netty Server IO #7/INFO]: <Time_origin> 오오[m
+[21:03:50] [Server thread/WARN]: Time_origin moved wrongly!
+[21:03:52] [Netty Server IO #7/INFO]: <Time_origin> 음?[m
+[21:03:55] [Netty Server IO #7/INFO]: <Time_origin> 다시[m
+[21:04:00] [Netty Server IO #7/INFO]: <Time_origin> 오오오[m
+[21:04:02] [Netty Server IO #7/INFO]: <Time_origin> 근데[m
+[21:04:03] [Netty Server IO #5/INFO]: <namjo> ㄱㅓㄱㅣㄱㅏ ㅈㅣㅎㅏㅅㅣㄹㅇㅣ ㄷㅗㅣㄹㄲㅓㅇㅑ[m
+[21:04:05] [Netty Server IO #7/INFO]: <Time_origin> 어떻게 나감?[m
+[21:04:07] [Netty Server IO #5/INFO]: <namjo> ㅁㅗㅅㄴㅏㄱㅏ[m
+[21:04:10] [Netty Server IO #5/INFO]: <namjo> ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ[m
+[21:04:10] [Netty Server IO #7/INFO]: <Time_origin> ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ[m
+[21:04:15] [Netty Server IO #5/INFO]: <namjo> ㅇㅏㅈㅣㄱ ㄱㅐㅅㅓㄴㅎㅏㄹ ㅈㅓㅁㅇㅣ ㅇㅣㅆㅈㅣㅁㅏㄴ[m
+[21:04:17] [Netty Server IO #5/INFO]: <namjo> ㅇㅣㄹㄷㅏㄴ ㅁㅏㄴㄷㅡㄹㅇㅓㄴㅗㅎㅇㅡㅁ[m
+[21:04:21] [Netty Server IO #5/INFO]: <namjo> ㅈㅏㅈㅏ[m
+[21:04:22] [Netty Server IO #7/INFO]: <Time_origin> 굿굿굿굿[m
+[21:04:40] [Netty Server IO #5/INFO]: <namjo> ㅈㅣㅂ ㅇㅏㅈㅣㄱ ㅇㅗㅏㄴㅅㅓㅇ ㅇㅏㄴ ㄷㅗㅐㅆㄴㅔ[m
+[21:04:45] [Netty Server IO #5/INFO]: <namjo> 1ㅊㅡㅇㅇㅔ ㅇㅣ ㄴㅏㅁㅜㅅㅇㅣㅍ ㅇㅓㅉㅓㄹㄲㅓㅇㅑ[m
+[21:04:57] [Netty Server IO #7/INFO]: <Time_origin> ??[m
+[21:05:56] [Netty Server IO #2/INFO]: <topology> ㄷㅏㄷㅓㅁㅂㅕㄹㅏ[m
+[21:05:59] [Netty Server IO #2/INFO]: <topology> ㅎㅣㅁ5 ㅎㅗㅏㄹㅇㅣㄷㅏ[m
+[21:06:06] [Netty Server IO #7/INFO]: <Time_origin> 가라 엔더맨[m
+[21:06:09] [Netty Server IO #2/INFO]: <topology> .....[m
+[21:06:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2090ms behind, skipping 41 tick(s)
+[21:07:05] [Netty Server IO #2/INFO]: <topology> ㄴㅏㅎㅏㄴㅌㅔ[m
+[21:07:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2884ms behind, skipping 57 tick(s)
+[21:07:15] [Netty Server IO #2/INFO]: <topology> efficiency 5 enchant bookㅇㅣ ㅇㅣㅆㄴㅡㄴㄷㅔ[m
+[21:07:18] [Netty Server IO #2/INFO]: <topology> ㄴㅏㄴ ㅆㅡㄹㅁㅗㄱㅏ ㅇㅓㅂㅅㅇㅡㄴㅣ[m
+[21:07:22] [Netty Server IO #2/INFO]: <topology> ㄱㅏㅈㄷㅏㅆㅡㅅㅣㅇㅛ[m
+[21:07:24] [Netty Server IO #2/INFO]: <topology> ㅇㅗ[m
+[21:07:31] [Netty Server IO #5/INFO]: <namjo> ㅎㅕㄴㅇㅏ[m
+[21:07:35] [Netty Server IO #5/INFO]: <namjo> ㄴㅏ 1ㅊㅡㅇ ㅊㅁㅣㄷㅐㅂㅏㅇㅇㅣㅁ[m
+[21:07:35] [Netty Server IO #7/INFO]: <Time_origin> 응?[m
+[21:07:36] [Netty Server IO #5/INFO]: <namjo> ㅋㅓㅁ[m
+[21:07:38] [Netty Server IO #5/INFO]: <namjo> ㅇㅏㄴㅣㄷㅏ[m
+[21:07:41] [Netty Server IO #5/INFO]: <namjo> ㄴㅓㅎㅇㅓㄴㅗㅏㅆㅇㅓㅆㅈㅣ[m
+[21:07:42] [Netty Server IO #5/INFO]: <namjo> ㅇㅣㄹㄷㅏㄴ ㅇㅗㅏㅂㅗㅏ[m
+[21:07:55] [Netty Server IO #5/INFO]: <namjo> ㅇㅣㄱㅓ ㅇㅓㅉㅓㄹㄲㅓㅇㅑ ㅋㅋㅋㅋㅋㅋ[m
+[21:08:03] [Netty Server IO #7/INFO]: <Time_origin> 침대방[m
+[21:08:04] [Netty Server IO #5/INFO]: <namjo> ㅇㅕㄱㅣ[m
+[21:08:10] [Netty Server IO #7/INFO]: <Time_origin> ㅋㅋㅋㅋ[m
+[21:08:13] [Netty Server IO #2/INFO]: <topology> ㄴㅏㅁㅜㅅㅇㅣㅍ ㄴㅐㄱㅏ ㅇㅏㄴㅎㅏㅁ;;[m
+[21:08:14] [Netty Server IO #7/INFO]: <Time_origin> 이거 왜 안덮었음?[m
+[21:08:19] [Netty Server IO #5/INFO]: <namjo> ㄴㅐㄱㅏ ㅎㅏㄴㄱㅓㄱㅣㄴ ㅎㅏㄴㄷㅔ[m
+[21:08:20] [Netty Server IO #7/INFO]: <Time_origin> 만든거야?[m
+[21:08:21] [Netty Server IO #5/INFO]: <namjo> ㅇㅏㅈㅣㄱㄷㅗ ㅊㅓㄹㅣ ㅎㅏㄴ ㅎㅏㅁ?[m
+[21:08:27] [Netty Server IO #2/INFO]: <topology> ㅇㅜㅓㄴㄹㅐ[m
+[21:08:31] [Netty Server IO #2/INFO]: <topology> ㄱㅖㄷㅏㄴ ㅁㅏㄴㄷㅡㄹㅇㅓㅅㅓ[m
+[21:08:31] [Netty Server IO #5/INFO]: <namjo> ㅅㅣㄹㅋㅡㅌㅓㅊㅣ ㄷㅗㄲㅣㄹㅗ ㅇㅕㄹㅅㅣㅁㅎㅣ ㅋㅐㄷㅏㄱㅏ[m
+[21:08:33] [Netty Server IO #2/INFO]: <topology> ㄴㅐㄹㅕㄱㅏㅅㅓ[m
+[21:08:34] [Netty Server IO #7/INFO]: <Time_origin> 잘만들었네[m
+[21:08:34] [Netty Server IO #5/INFO]: <namjo> ㅆㅏㅎㅇㅣㄴ ㄴㅏㅁㅜㅅㅇㅣㅍㅇㅡㄹㅗ[m
+[21:08:36] [Netty Server IO #2/INFO]: <topology> ㅂㅐㅌㅏㄴㅡㄴ ㅇㅛㅇㄷㅗㄹㅗ ㅆㅡㄹㄹㅏㅎㅐㅆㄴㅡㄴㄷㅔ[m
+[21:08:38] [Netty Server IO #5/INFO]: <namjo> ㅁㅏㄱㅇㅏㄴㅗㅎㅇㅡㄴㄱㅓㅇㅣㅁ[m
+[21:08:47] [Netty Server IO #5/INFO]: <namjo> ㅁㅜㅓㄷㅡㄴ ㅎㅐㅂㅗㅅㅔㅁㅋㅋㅋㅋㅋㅋㅋ[m
+[21:08:48] [Netty Server IO #7/INFO]: <Time_origin> 그래 그럼[m
+[21:08:53] [Netty Server IO #5/INFO]: <namjo> ㅎㅜㅔㅇ...ㅎㅏㄴㅔ[m
+[21:09:00] [Netty Server IO #7/INFO]: <Time_origin> 계단하려면[m
+[21:09:01] [Netty Server IO #7/INFO]: <Time_origin> 흠[m
+[21:09:04] [Netty Server IO #7/INFO]: <Time_origin> 꽤 높은데[m
+[21:09:07] [Netty Server IO #2/INFO]: <topology> ㄱㅑㅇ ㄷㅓㅍㅈㅏ[m
+[21:09:08] [Netty Server IO #2/INFO]: <topology> ㅋㅋㅋㅋㅋㅋ[m
+[21:10:02] [Netty Server IO #2/INFO]: <topology> 2ㅊㅡㅇㅇㅔ[m
+[21:10:06] [Netty Server IO #2/INFO]: <topology> ㅈㅏㄱㅣ ㄱㅐㅇㅣㄴㅂㅏㅇ ㅎㅏㄴㅏㅆㅣㄱ ㅁㅏㄴㄷㅡㄹㄱㅗ[m
+[21:10:08] [Netty Server IO #2/INFO]: <topology> ㅅㅣㄱㄷㅏㅇ ㅁㅏㄴㄷㅡㄹㅈㅏ[m
+[21:10:25] [Netty Server IO #7/INFO]: <Time_origin> 내구3 무한 힘4 활[m
+[21:10:28] [Netty Server IO #7/INFO]: <Time_origin> 드디어 만들었군[m
+[21:10:30] [Netty Server IO #2/INFO]: <topology> ㄱㅜㄷ[m
+[21:10:34] [Netty Server IO #5/INFO]: <namjo> ㅇㅓ[m
+[21:10:35] [Netty Server IO #5/INFO]: <namjo> ㅎㅕㄴㅇㅏ[m
+[21:10:38] [Netty Server IO #5/INFO]: <namjo> ㅇㅣㄹㄹㅗㅇㅗㅏㅂㅗㅏ[m
+[21:10:47] [Netty Server IO #7/INFO]: <Time_origin> 응?[m
+[21:10:47] [Netty Server IO #5/INFO]: <namjo> ㄱㅓㄱㅣ ㄱㅡ ㅎㅗㅏㄹㅇㅣㄹㅏㅇ[m
+[21:10:48] [Netty Server IO #5/INFO]: <namjo> ㅎㅏㅂㅊㅕㅅㅓ[m
+[21:10:51] [Netty Server IO #5/INFO]: <namjo> ㅎㅣㅁ5 ㄱㄱ[m
+[21:11:02] [Netty Server IO #7/INFO]: <Time_origin> 여기도 모루를 놔야겠따[m
+[21:11:11] [Netty Server IO #7/INFO]: <Time_origin> 옮길까 그냥[m
+[21:11:20] [Netty Server IO #5/INFO]: <namjo> ㄴㅏ ㅇㅓㄷㅣㅆㄱㅔ[m
+[21:11:23] [Netty Server IO #5/INFO]: <namjo> ㅊㅏㅈㅇㅏㅂㅗㅏㄹㅏㅇ[m
+[21:11:24] [Netty Server IO #5/INFO]: <namjo> ㅎㅎㅎㅎㅎㅎ[m
+[21:11:32] [Netty Server IO #2/INFO]: <topology> ㅈㅏㄹㄴㅗㄴㅔ[m
+[21:11:35] [Netty Server IO #5/INFO]: <namjo> ㅊㅐㄱㅈㅏㅇㅂㅏㅇㅇㅔ ㅇㅣㅆㅇㅡㅁ[m
+[21:11:38] [Netty Server IO #7/INFO]: <Time_origin> 나홀로 숨바꼭질..?[m
+[21:11:42] [Netty Server IO #2/INFO]: <topology> ㅋㅋㅋㅋㅋㅋㅋㅋ[m
+[21:11:42] [Netty Server IO #7/INFO]: <Time_origin> ㄱㄷ[m
+[21:11:44] [Netty Server IO #2/INFO]: <topology> ㄱㅡㄱㅓ ㄱㅏㅇㄹㅕㅇㅅㅜㄹㅇㅣㄴㄷㅔ[m
+[21:11:55] [Netty Server IO #5/INFO]: <namjo> ㄷㅐㅆㄱㅗ[m
+[21:11:57] [Netty Server IO #5/INFO]: <namjo> ㅇㅣㄱㅓㅈㅗㅁ ㅇㅓㄸㅓㅎㄱㅔ ㅎㅐㅂㅗㅏ[m
+[21:12:00] [Netty Server IO #7/INFO]: <Time_origin> ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ[m
+[21:12:03] [Netty Server IO #5/INFO]: <namjo> ㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠ[m
+[21:12:04] [Netty Server IO #7/INFO]: <Time_origin> 어떻게 나올거[m
+[21:12:16] [Netty Server IO #5/INFO]: <namjo> ㅎ[m
+[21:12:17] [Netty Server IO #7/INFO]: <Time_origin> 실크터치 곡괭이로[m
+[21:12:19] [Netty Server IO #7/INFO]: <Time_origin> 책장 캘수있음[m
+[21:12:21] [Netty Server IO #5/INFO]: <namjo> ㅇㅎ[m
+[21:12:35] [Netty Server IO #5/INFO]: <namjo> ㅇㅕㄱㅣ ㅁㅏㄱㅇㅏㅇㅑㅈㅣ ㅋㅋ[m
+[21:12:54] [Netty Server IO #7/INFO]: <Time_origin> 다[m
+[21:12:55] [Netty Server IO #7/INFO]: <Time_origin> 됐[m
+[21:12:59] [Netty Server IO #5/INFO]: <namjo> ㅁㅜㅓㄴㅏㅇㅗㅁ?[m
+[21:13:00] [Netty Server IO #7/INFO]: <Time_origin> 이정도면 충분한 활이야[m
+[21:13:20] [Netty Server IO #7/INFO]: <Time_origin> 내구3 무한 화염 밀어내기1 힘5[m
+[21:13:23] [Netty Server IO #5/INFO]: <namjo> ㄱㅜㄷ[m
+[21:13:27] [Netty Server IO #5/INFO]: <namjo> ㅁㅣㄹㅇㅓㄴㅐㄱㅣ1ㅇㅣ ㅂㅜㅈㅗㄱㅎㅏㄷㅏ[m
+[21:13:45] [Netty Server IO #7/INFO]: <Time_origin> 레빌이 14네[m
+[21:13:48] [Netty Server IO #5/INFO]: <namjo> ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ[m
+[21:13:49] [Netty Server IO #7/INFO]: <Time_origin> 뭐 할거 있을텐데[m
+[21:13:54] [Netty Server IO #7/INFO]: <Time_origin> 칼 합치려고 했나봄[m
+[21:14:09] [Netty Server IO #7/INFO]: <Time_origin> 칼에 화염이 없어서 아쉽..[m
+[21:14:41] [Netty Server IO #7/INFO]: <Time_origin> 강타도 5가 나?[m
+[21:14:42] [Netty Server IO #7/INFO]: <Time_origin> 있[m
+[21:14:44] [Netty Server IO #2/INFO]: <topology> ㅇㅇ[m
+[21:14:51] [Netty Server IO #7/INFO]: <Time_origin> 만들어야겠다[m
+[21:15:04] [Netty Server IO #7/INFO]: <Time_origin> 강타 4 다이아칼이 필요한거군[m
+[21:15:14] [Netty Server IO #7/INFO]: <Time_origin> 음[m
+[21:15:14] [Netty Server IO #5/INFO]: <namjo> ㅈㅏㅈㅏ[m
+[21:15:17] [Netty Server IO #7/INFO]: <Time_origin> 꼭 필요할까[m
+[21:15:25] [Netty Server IO #7/INFO]: <Time_origin> 없을듯[m
+[21:15:26] [Netty Server IO #5/INFO]: <namjo> ㅇㅏ ㅈㅣㄴㅉㅏ[m
+[21:15:28] [Netty Server IO #5/INFO]: <namjo> ㅁㅏㅋㅡ ㅎㅏㄴㅡㄹㅏ[m
+[21:15:28] [Server thread/INFO]: topology lost connection: Disconnected
+[21:15:28] [Server thread/INFO]: topology left the game
+[21:15:32] [Server thread/INFO]: topology[/210.117.73.64:19966] logged in with entity id 401704 at ([world]84.92462512711609, 70.0, 267.22206500039806)
+[21:15:33] [Netty Server IO #5/INFO]: <namjo> ㅇㅗㄱㅏㅁㅈㅏㄹㅡㄹ ㅁㅗㅅ ㅁㅓㄱㅇㅓㅆㅈㅏㄴㅎㅇㅏ ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ[m
+[21:15:41] [Netty Server IO #7/INFO]: <Time_origin> ㅡㅡㅡㅡㅡㅡ[m
+[21:15:44] [Netty Server IO #5/INFO]: <namjo> ㅂㄷㅂㄷ[m
+[21:15:48] [Netty Server IO #5/INFO]: <namjo> ㅇㅣ ㅈㅣㅂ ㅌㅐㅇㅜㅓㅂㅓㄹㅣㄱㅗ ㅅㅣㅍㄷㅏ[m
+[21:15:54] [Netty Server IO #5/INFO]: <namjo> ㅈㅜㄴㅎㅕㅇㅇㅏ ㄱㅣㅅㅎㅓㅂ ㅂㅡㄹㅐㄴㅊㅣ ㅁㅏㄴㄷㅡㄹㅇㅓㅅㅓ[m
+[21:15:56] [Netty Server IO #5/INFO]: <namjo> ㅌㅐㅇㅜㅓㅂㅗㄹㄹㅐ?[m
+[21:15:56] [Netty Server IO #7/INFO]: <Time_origin> 그니까[m
+[21:16:01] [Netty Server IO #7/INFO]: <Time_origin> 목재는 불에 타는게 ㅠㅠ[m
+[21:16:04] [Netty Server IO #2/INFO]: <topology> ???[m
+[21:16:06] [Netty Server IO #2/INFO]: <topology> ㅇㅗㅐ ㅌㅐㅇㅜㅓ[m
+[21:16:19] [Netty Server IO #5/INFO]: <namjo> ㅇㅕㄱㅣㄴ ㅁㅜㅓㄴㅑ[m
+[21:16:20] [Netty Server IO #2/INFO]: <topology> ㄱㅓㄱㅣ ㄴㅐ ㅂㅏㅇㅇㅣㅇㅑ[m
+[21:16:28] [Netty Server IO #7/INFO]: <Time_origin> 가스트가 이 집을 공격한다고 생각해보자[m
+[21:16:33] [Netty Server IO #5/INFO]: <namjo> ㅇㅡㅇ ㅊㅣㅁㅅㅜ~~~[m
+[21:16:38] [Netty Server IO #2/INFO]: <topology> ㅗ[m
+[21:17:08] [Netty Server IO #7/INFO]: <Time_origin> 앗..[m
+[21:17:10] [Netty Server IO #7/INFO]: <Time_origin> 그럴거면[m
+[21:17:13] [Netty Server IO #7/INFO]: <Time_origin> 저 계단 치워도 됨[m
+[21:17:32] [Netty Server IO #5/INFO]: <namjo> ㅇㅗㄹ[m
+[21:18:19] [Netty Server IO #2/INFO]: <topology> ....?[m
+[21:18:57] [Netty Server IO #2/INFO]: <topology> ㅊㅣㅁㄷㅐㄹㅡㄹ ㅈㅣㅇㅗㄱㅇㅔㅅㅓ ㄷㅏ ㅆㅓㅅㅓ ㅊㅣㅁㄷㅐㄱㅏ ㅇㅓㅂㅅㄴㅔ[m
+[21:19:34] [Netty Server IO #7/INFO]: <Time_origin> SJ[m
+[21:19:37] [Netty Server IO #7/INFO]: <Time_origin> 신준[m
+[21:19:40] [Netty Server IO #2/INFO]: <topology> ㄴㅔ[m
+[21:19:48] [Netty Server IO #7/INFO]: <Time_origin> H는 어디에?[m
+[21:19:55] [Netty Server IO #2/INFO]: <topology> ????[m
+[21:20:43] [Netty Server IO #2/INFO]: <topology> ㄱㅅㄱㅅ[m
+[21:22:00] [Netty Server IO #5/INFO]: <namjo> ㄴㅏㄷㅗ ㄴㅏㅁㅜㅈㅗㅁ ㅠㅠ[m
+[21:22:08] [Netty Server IO #7/INFO]: <Time_origin> 1층에 많아![m
+[21:25:01] [Netty Server IO #2/INFO]: <topology> ㅇㅜㄹㅣ[m
+[21:25:05] [Netty Server IO #2/INFO]: <topology> ㅊㅏㅇㅁㅜㄴㅇㅡㄹ ㄸㅜㄹㅎㅇㅡㄹ ㅍㅣㄹㅇㅛㄱㅏ ㅇㅣㅆㅇㅓ[m
+[21:25:10] [Netty Server IO #2/INFO]: <topology> ㅇㅣㄹㅈㅓㅇㅎㅏㄴ ㄱㅏㄴㄱㅕㄱㅇㅡㄹㅗ ㅊㅏㅇㅁㅜㄴㅇㅡㄹ ㄸㅜㄹㅎㅈㅏ[m
+[21:25:17] [Netty Server IO #7/INFO]: <Time_origin> 그것 참[m
+[21:25:20] [Netty Server IO #7/INFO]: <Time_origin> 좋은 생각이야[m
+[21:25:26] [Netty Server IO #7/INFO]: <Time_origin> 2x3 사이즈 어떰[m
+[21:25:28] [Netty Server IO #2/INFO]: <topology> ㄱㄱ[m
+[21:25:33] [Netty Server IO #2/INFO]: <topology> 2ㄱㅏ ㄱㅏㄹㅗ??[m
+[21:25:37] [Netty Server IO #7/INFO]: <Time_origin> 세로[m
+[21:25:38] [Netty Server IO #2/INFO]: <topology> ㅇㅋㅇㅋ[m
+[21:25:42] [Netty Server IO #7/INFO]: <Time_origin> 높이는[m
+[21:25:44] [Netty Server IO #7/INFO]: <Time_origin> 밑에서 한칸?[m
+[21:25:49] [Netty Server IO #7/INFO]: <Time_origin> 두칸?[m
+[21:25:50] [Netty Server IO #2/INFO]: <topology> ㅇㅇㅇㅇㅇㅇ[m
+[21:25:51] [Netty Server IO #2/INFO]: <topology> ㅎㅏㄴㅋㅏㄴ[m
+[21:26:18] [Netty Server IO #2/INFO]: <topology> ㅈㅏㅈㅏㅇ[m
+[21:26:26] [Server thread/INFO]: Time_origin lost connection: Disconnected
+[21:26:26] [Server thread/INFO]: Time_origin left the game
+[21:26:30] [Server thread/INFO]: namjo lost connection: Disconnected
+[21:26:30] [Server thread/INFO]: namjo left the game
+[21:26:33] [Server thread/INFO]: namjo[/192.168.0.6:50659] logged in with entity id 430103 at ([world]73.36132413589159, 81.0, 282.1391593896361)
+[21:26:40] [Server thread/INFO]: Time_origin[/110.76.126.190:51867] logged in with entity id 430642 at ([world]100.00021721407992, 78.0, 246.8333197262353)
+[21:27:44] [Netty Server IO #6/INFO]: <Time_origin> 아주 좋군[m
+[21:27:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3254ms behind, skipping 65 tick(s)
+[21:28:15] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3126ms behind, skipping 62 tick(s)
+[21:28:22] [Server thread/INFO]: topology has just earned the achievement [Hot Topic]
+[21:28:26] [Netty Server IO #2/INFO]: <topology> ㅁㅏㅂㅅㅗㅅㅏ[m
+[21:28:51] [Netty Server IO #6/INFO]: <Time_origin> ?[m
+[21:29:02] [Netty Server IO #2/INFO]: <topology> ㅇㅣ ㅅㅓㅂㅓㅇㅔ ㄷㅡㄹㅇㅓㅇㅗㅏㅅㅓ ㅊㅓㅇㅡㅁㅇㅡㄹㅗ furnaceㄹㅡㄹ ㅁㅏㄴㄷㅡㄹㅇㅓㅆㄷㅏㄴㅣ[m
+[21:29:03] [Netty Server IO #2/INFO]: <topology> ㄴㅗㄹㄹㅏㅆㅇㅓ[m
+[21:29:17] [Netty Server IO #6/INFO]: <Time_origin> 그게 뭐니[m
+[21:29:21] [Netty Server IO #2/INFO]: <topology> ㅎㅗㅏㄹㅗ[m
+[21:29:23] [Netty Server IO #6/INFO]: <Time_origin> zzzzzzzzzzzz[m
+[21:29:25] [Netty Server IO #6/INFO]: <Time_origin> 어[m
+[21:29:28] [Netty Server IO #6/INFO]: <Time_origin> 나도 안만든듯[m
+[21:30:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2213ms behind, skipping 44 tick(s)
+[21:31:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7332ms behind, skipping 146 tick(s)
+[21:31:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2605ms behind, skipping 52 tick(s)
+[21:31:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2108ms behind, skipping 42 tick(s)
+[21:32:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2271ms behind, skipping 45 tick(s)
+[21:32:17] [Netty Server IO #2/INFO]: <topology> ㅇㅑ[m
+[21:32:18] [Netty Server IO #2/INFO]: <topology> ㅈㅒ ㅁㅜㅓㄴㅑ?[m
+[21:32:21] [Netty Server IO #5/INFO]: <namjo> re[m
+[21:32:23] [Netty Server IO #5/INFO]: <namjo> ㄱㄷ[m
+[21:32:45] [Netty Server IO #2/INFO]: <topology> ㅁㅗㄹㅐㄱㅏㅈㅕㅇㅗㅏ[m
+[21:33:38] [Netty Server IO #2/INFO]: <topology> ㅈㅏㄹㄱㅏ~[m
+[21:33:50] [Netty Server IO #6/INFO]: <Time_origin> ??[m
+[21:33:55] [Server thread/WARN]: namjo moved wrongly!
+[21:33:56] [Server thread/WARN]: namjo moved wrongly!
+[21:33:56] [Server thread/WARN]: namjo moved wrongly!
+[21:34:00] [Netty Server IO #2/INFO]: <topology> ㅈㅗㅁㅂㅣㅍㅣㄱㅡㅁㅐㄴㅇㅣ[m
+[21:34:01] [Server thread/WARN]: namjo moved wrongly!
+[21:34:02] [Netty Server IO #2/INFO]: <topology> ㅇㅗㅂㅓㅇㅜㅓㄹㄷㅡㅇㅔ ㄴㅓㅁㅇㅓㅇㅗㅁ[m
+[21:34:04] [Server thread/WARN]: namjo moved wrongly!
+[21:34:05] [Netty Server IO #6/INFO]: <Time_origin> ㅋㅋㅋㅋㅋ[m
+[21:35:43] [Netty Server IO #6/INFO]: <Time_origin> 이 방의 컨셉은 하늘색으로 정했따[m
+[21:36:02] [Netty Server IO #2/INFO]: <topology> ㅁㅓㅅㅈㅕ[m
+[21:36:09] [Server thread/WARN]: namjo moved wrongly!
+[21:36:09] [Server thread/WARN]: namjo moved wrongly!
+[21:36:10] [Server thread/WARN]: namjo moved wrongly!
+[21:36:10] [Server thread/WARN]: namjo moved wrongly!
+[21:36:10] [Server thread/WARN]: namjo moved wrongly!
+[21:36:10] [Server thread/WARN]: namjo moved wrongly!
+[21:37:09] [Netty Server IO #2/INFO]: <topology> ㅈㅏㄹㄲㅏ[m
+[21:37:09] [Netty Server IO #5/INFO]: <namjo> ㅈㅏㅈㅏ[m
+[21:37:47] [Netty Server IO #2/INFO]: <topology> ㅎㅗㅇㅗ[m
+[21:38:24] [Server thread/WARN]: topology moved too quickly! -8.435503915453651,0.0,-8.374300442877882
+[21:38:48] [Netty Server IO #5/INFO]: <namjo> ㅈㅜㄴㅎㅕㅇ[m
+[21:38:51] [Netty Server IO #5/INFO]: <namjo> ㄴㅐ ㅂㅏㅇㄷㅗ ㅊㅏㅇㅁㅜㄴ ㄸㅜㄹㅎㅇㅓㅈㅜㅓㅇ[m
+[21:39:12] [Netty Server IO #2/INFO]: <topology> ㅇㄷ??[m
+[21:39:44] [Netty Server IO #5/INFO]: <namjo> ㅇㅛㄱㅣ[m
+[21:40:01] [Netty Server IO #2/INFO]: <topology> ㅂㅏㅇ ㄱㅐㅋㅡㄴㅔ;;[m
+[21:40:15] [Netty Server IO #2/INFO]: <topology> ㅂㅏㅇㅇㅣ ㅇㅏㄴㅣㄹㅏ ㅇㅕㄴㄱㅜㅅㅣㄹ ㅇㅏㄴㅣㄴㅑ[m
+[21:40:19] [Netty Server IO #5/INFO]: <namjo> ㄴㅏㄴㅜㄹㅕㄱㅜ[m
+[21:40:19] [Netty Server IO #6/INFO]: <Time_origin> ㅋㅋㅋㅋㅋ[m
+[21:40:22] [Netty Server IO #2/INFO]: <topology> ㅎㅕㅇㅏ[m
+[21:40:23] [Netty Server IO #2/INFO]: <topology> ㅎㅕㄴㅇㅏ[m
+[21:40:26] [Netty Server IO #5/INFO]: <namjo> ㅇㅐㅊㅗㅇㅔ ㅈㅣㅂㅇㅡㄴ ㅇㅓㅁㅊㅓㅇ ㅋㅡㄴㄷㅔ[m
+[21:40:26] [Netty Server IO #2/INFO]: <topology> ㅊㅏㅇㅁㅜㄴㅈㅗㅁ ㄸㅜㄹㅎㅇㅓㅈㅜㅓㅇ[m
+[21:40:26] [Netty Server IO #6/INFO]: <Time_origin> ?[m
+[21:40:30] [Netty Server IO #5/INFO]: <namjo> ㅇㅣㅈㅓㅇㄷㅗㄴㅡㄴ ㄷㅗㅣㅇㅑ ㅎㅏㄴㅡㄴㄱㅓ ㅇㅏㄴㅣㄴㅑ[m
+[21:40:33] [Netty Server IO #5/INFO]: <namjo> ㄴㅓㄴㅔㄱㅏ ㄴㅓㅁㅜ ㅈㅏㄱㅇㅏ[m
+[21:40:38] [Netty Server IO #2/INFO]: <topology> ㄴㅣ ㅅㅐㅇㄱㅏㄱㅁㅏㄴㅋㅡㅁ ㄱㅡㄹㅓㅎㄱㅔ ㅋㅡㅈㅣ ㅇㅏㄴㅎㅇㅡㅁ;;[m
+[21:40:42] [Netty Server IO #2/INFO]: <topology> 2ㅊㅡㅇㅇㅔ ㅇㅜㅓㄴㄹㅐ[m
+[21:40:45] [Netty Server IO #2/INFO]: <topology> ㅅㅣㄱㄷㅏㅇㄷㅗ ㅁㅏㄴㄷㅡㄹㄹㅕㄱㅗ ㅎㅐㅆㄷㅏㄱㅗ[m
+[21:40:45] [Netty Server IO #6/INFO]: <Time_origin> ㅇㅇ[m
+[21:40:50] [Netty Server IO #5/INFO]: <namjo> ㅇㅎ[m
+[21:40:52] [Netty Server IO #5/INFO]: <namjo> ㄱㅡㄹㅓㅁ ㅈㅓㄱㅣㄹㅡㄹ[m
+[21:40:54] [Netty Server IO #5/INFO]: <namjo> ㅅㅣㄱㄷㅏㅇㅇㅡㄹㅗ ㅎㅐㅈㅜㅓ[m
+[21:40:54] [Netty Server IO #2/INFO]: <topology> ㄴㅣ ㅈㅣㅂㅇㅣ ㄴㅓㅁㅜ ㅋㅡㅁ[m
+[21:41:01] [Netty Server IO #5/INFO]: <namjo> ㄱㅡ ㅇㅏㄴㅉㅗㄱ ㅂㅏㅇㅇㅡㄹ[m
+[21:41:03] [Netty Server IO #5/INFO]: <namjo> ㄴㅐㄱㅏ ㅆㅡㄹㄱㅔ[m
+[21:41:07] [Netty Server IO #5/INFO]: <namjo> ㅁㅜㄴㅇㅕㄹㅁㅕㄴ ㅅㅣㄱㄷㅏㅇ ㄱㅐㄲㅜㄹ~[m
+[21:41:08] [Netty Server IO #2/INFO]: <topology> ㅎㅡㅁ[m
+[21:41:17] [Netty Server IO #2/INFO]: <topology> ㅁㅓ ㄱㅗㅐㄴㅊㅏㄴㅎㄱㅜㄴ[m
+[21:43:22] [Netty Server IO #6/INFO]: <Time_origin> 책 조합법이?[m
+[21:43:34] [Netty Server IO #5/INFO]: <namjo> 258 ㄱㅏㅈㅜㄱ369 ㅈㅗㅇㅇㅣ[m
+[21:43:34] [Netty Server IO #2/INFO]: <topology> 145 ㅈㅗㅇㅇㅣ 2 ㄱㅏㅈㅜㄱ[m
+[21:43:36] [Netty Server IO #5/INFO]: <namjo> ㅇㅏㄴㅣㅈㅣ[m
+[21:43:38] [Netty Server IO #5/INFO]: <namjo> 5ㅁㅏㄴ ㄱㅏㅈㅜㄱ[m
+[21:43:48] [Netty Server IO #5/INFO]: <namjo> ㅁㅜㅓㄷㅡㄴ ㄱㅏㅇㅜㄴㄷㅔ ㄱㅏㅈㅜㄱ ㅎㅏㄴㅈㅜㄹ ㅈㅗㅇㅇㅣ[m
+[21:44:08] [Netty Server IO #6/INFO]: <Time_origin> 어떻게든 3대1이면 되네[m
+[21:44:09] [Netty Server IO #6/INFO]: <Time_origin> 신기[m
+[21:45:34] [Netty Server IO #6/INFO]: <Time_origin> 으아 좀비가 집에[m
+[21:47:09] [Netty Server IO #2/INFO]: <topology> ㅅㅔㄴㅅㅡ ㅈㅗㅎㄴㅔ...[m
+[21:47:13] [Netty Server IO #2/INFO]: <topology> ㅎㅕㄴㅇㅏ ㅇㅠㄹㅣ ㅇㅣㅆㄴㅣ[m
+[21:47:20] [Netty Server IO #6/INFO]: <Time_origin> ㄳㄳ[m
+[21:47:30] [Netty Server IO #2/INFO]: <topology> ㄸㅐㅇㅋㅠ'[m
+[21:47:31] [Netty Server IO #5/INFO]: <namjo> ㅎㅏ[m
+[21:47:34] [Netty Server IO #5/INFO]: <namjo> ㅍㅣㄴㅌㅗㅅㅡ ㅇㅓㄴㅈㅔㅎㅏㅈㅣ[m
+[21:47:42] [Netty Server IO #2/INFO]: <topology> ㅎㅏㄹ ㅅㅜ ㅇㅣㅆㅇㄹㅡㄱㅓㅇㅑ[m
+[21:48:02] [Netty Server IO #5/INFO]: <namjo> ㅈㅏㅈㅏ[m
+[21:49:33] [Netty Server IO #6/INFO]: <Time_origin> 뭔가 엄청날 렉이?[m
+[21:49:39] [Netty Server IO #5/INFO]: <namjo> ?[m
+[21:50:48] [Netty Server IO #5/INFO]: <namjo> ㄹㅇ[m
+[21:50:50] [Netty Server IO #5/INFO]: <namjo> ㅎㅕㄴㅇㅣㄴㅡㄴ[m
+[21:50:52] [Netty Server IO #5/INFO]: <namjo> ㅇㅓㄸㅓㅎㄱㅔ ㅇㅣㄹㅓㄴㄱㅓㄹ ㅎㅏㄴㅡㄴㄱㅓㅈㅣ[m
+[21:50:58] [Netty Server IO #6/INFO]: <Time_origin> ...[m
+[21:51:02] [Netty Server IO #6/INFO]: <Time_origin> ㅎㅅㅎ[m
+[21:51:04] [Netty Server IO #5/INFO]: <namjo> ㅁㅜㄹ ㅂㅜㅇㅜㅁㅕㄴ ㄷㅏ ㅁㅏㅇㄱㅏㅈㅣㄴㅔ...[m
+[21:51:16] [Netty Server IO #2/INFO]: <topology> ㅇㅣㄴㅅㅓㅇㄷㄷ[m
+[21:51:26] [Netty Server IO #5/INFO]: <namjo> ㅌㅌㅌ[m
+[21:51:37] [Netty Server IO #6/INFO]: <Time_origin> 천장에 조명만 달면 되는데[m
+[21:51:39] [Netty Server IO #6/INFO]: <Time_origin> 오래걸리려나[m
+[21:51:43] [Netty Server IO #5/INFO]: <namjo> ㄴㄴ[m
+[21:51:45] [Netty Server IO #5/INFO]: <namjo> ㄴㅐㄱㅏ ㅂㅏㄹㄱㅗㅏㅇㅅㅓㄱ ㅁㅏㄴㅎㅇㅣ ㅋㅐㅇㅗㅁ[m
+[21:51:54] [Netty Server IO #6/INFO]: <Time_origin> 오오[m
+[21:52:01] [Netty Server IO #6/INFO]: <Time_origin> 그것까지 해봐야다[m
+[21:53:03] [Netty Server IO #6/INFO]: <Time_origin> 렉이 심한데[m
+[21:53:06] [Netty Server IO #6/INFO]: <Time_origin> 소때문인가[m
+[21:53:07] [Netty Server IO #2/INFO]: <topology> dw[m
+[21:53:10] [Netty Server IO #2/INFO]: <topology> ㅇ[m
+[21:53:11] [Netty Server IO #2/INFO]: <topology> ㅇㅈ[m
+[21:53:38] [Netty Server IO #2/INFO]: <topology> ㅇㅕㄱㅣ ㄴㅜㄱㅏ ㅁㅜㄹ ㅂㅜㅇㅓㄴㅗㅏㅆㄴㅑ ㅡㅡ[m
+[21:53:41] [Netty Server IO #2/INFO]: <topology> ㄴㅏㅁㅈㅗㅇㅑ[m
+[21:53:43] [Netty Server IO #5/INFO]: <namjo> ㅋ[m
+[21:53:56] [Netty Server IO #5/INFO]: <namjo> ㄱㅗㅇㅂㅜㅎㅏㄷㅏㄱㅏ[m
+[21:53:59] [Netty Server IO #5/INFO]: <namjo> ㅁㅗㄱㅁㅏㄹㅡㅈㅣ ㅁㅏㄹㄹㅏㄱㅗ ^^[m
+[21:54:06] [Netty Server IO #2/INFO]: <topology> ㅎ[m
+[21:54:06] [Netty Server IO #6/INFO]: <Time_origin> ㅠㅠ[m
+[21:56:15] [Netty Server IO #5/INFO]: <namjo> ㅇㅏ[m
+[21:56:17] [Netty Server IO #5/INFO]: <namjo> ㅇㅗㄱㅏㅁㅈㅏ ㅁㅓㄱㅇㅡㄹㄹㅐ[m
+[21:56:21] [Netty Server IO #5/INFO]: <namjo> ㅁㅣㅊㅣㄴ ㅅㅗ ㅇㅗㅐㅇㅣㄹㅣ ㅁㅏㄴㅎㄱㅏ[m
+[21:56:27] [Netty Server IO #5/INFO]: <namjo> ㅁㅣㅊㅣㄴ ㄷㅏㄹㄱㅇㅡㄴ ㄸㅗ ㅇㅗㅐ ㅇㅓㅂㅅㄴㅑ?????????????[m
+[21:56:35] [Netty Server IO #5/INFO]: <namjo> ㄷㅏㄹㄱ[m
+[21:56:37] [Netty Server IO #5/INFO]: <namjo> ㄴㅜㄱㅏ ㄷㅏ ㅈㅜㄱㅇㅕㅆㄴㅑ[m
+[21:56:39] [Netty Server IO #5/INFO]: <namjo> ㅂㅗㄱㄱㅜㅎㅐㄴㅗㅏ[m
+[21:56:41] [Netty Server IO #5/INFO]: <namjo> ;;;;;;[m
+[21:56:44] [Netty Server IO #6/INFO]: <Time_origin> ? ss[m
+[21:56:45] [Netty Server IO #6/INFO]: <Time_origin> ㄴㄴ[m
+[21:56:47] [Netty Server IO #2/INFO]: <topology> ㄴㅏㄴ ㅇㅏㄴㅣㅁ[m
+[21:56:48] [Netty Server IO #2/INFO]: <topology> ;;[m
+[21:56:48] [Netty Server IO #6/INFO]: <Time_origin> ㄴㅇㄴ[m
+[21:56:50] [Netty Server IO #2/INFO]: <topology> ㅅㅗㅁㅏㄴ ㅈㅜㄱㅇㅕㅆㅇㅓ[m
+[21:56:56] [Netty Server IO #5/INFO]: <namjo> ㅎㅕㄴㅇㅣㄱㅏ[m
+[21:56:58] [Netty Server IO #5/INFO]: <namjo> ㅎㅗㅏㅇㅕㅁㅋㅏㄹㄹㅗ[m
+[21:57:01] [Netty Server IO #5/INFO]: <namjo> ㅆㅏㄱㅆㅡㄹㅇㅣㅎㅏㄴㅡㄴㄱㅓㄹ ㅂㅗㅏㅆㄴㅡㄴㄷㅔ[m
+[21:57:06] [Netty Server IO #6/INFO]: <Time_origin> ????[m
+[21:57:11] [Netty Server IO #6/INFO]: <Time_origin> 화염칼로 때린적 없는데[m
+[21:57:25] [Netty Server IO #2/INFO]: <topology> ㄴㅐㄱㅏ ㄷㅏㄹㄱㅈㅏㅇㅇㅔ ㅎㅏㄴ ㅇㅣㄹㅇㅡㄴ[m
+[21:57:30] [Netty Server IO #2/INFO]: <topology> ㄱㅖㄹㅏㄴㅇㅡㄹ ㅁㅏㄱㅜ ㄷㅓㄴㅈㅕㄴㅓㅎㅇㅡㄴ ㄱㅓㅅ ㅇㅗㅣㅇㅔㄴㅡㄴ ㅇㅓㅂㅅㅇㅓ[m
+[21:57:37] [Netty Server IO #5/INFO]: <namjo> ㅁㅜㅓㅈㅣ ㅅㅂ[m
+[21:57:46] [Netty Server IO #2/INFO]: <topology> ㄱㅡㄹㅓㅁㅕㄴ[m
+[21:57:49] [Netty Server IO #2/INFO]: <topology> ㅇㅠㅇㅣㄹㅎㅏㄴ ㅇㅛㅇㅇㅡㅣㅈㅏㄴㅡㄴ[m
+[21:57:53] [Netty Server IO #5/INFO]: <namjo> ㅇ?[m
+[21:57:54] [Netty Server IO #5/INFO]: <namjo> ㅁㅓㄹㅉㅓㅇㅎㅏㄴㅔ[m
+[21:57:54] [Netty Server IO #2/INFO]: <topology> ㄷㄱㅇㅎ....?[m
+[21:58:03] [Netty Server IO #5/INFO]: <namjo> ㄴㅐㄹㅕㅇㅗㄴㅣㄲㅏ[m
+[21:58:06] [Netty Server IO #5/INFO]: <namjo> ㄷㅏㄹㄱㅇㅣ ㅅㅐㅇㄱㅕㅆㅇㅓ[m
+[21:58:10] [Netty Server IO #2/INFO]: <topology> ㅉㅉ[m
+[21:58:18] [Netty Server IO #5/INFO]: <namjo> ㄴㅏ[m
+[21:58:20] [Netty Server IO #5/INFO]: <namjo> ㅇㅕㄱㅣㅆㅇㅓㅆㄴㅡㄴㄷㅔ[m
+[21:58:22] [Netty Server IO #5/INFO]: <namjo> ㅅㅗㄴㅡㄴ ㅇㅏㄴㅂㅗㅇㅣㄱㅗ[m
+[21:58:25] [Netty Server IO #5/INFO]: <namjo> ㅅㅗㄴㅡㄴ ㅈㅏㄹㅂㅗㅇㅣㄱㅗ[m
+[21:58:28] [Netty Server IO #5/INFO]: <namjo> ㄷㅏㄹㄱㅇㅡㄴ ㅎㅏㄴㅁㅏㄹㅣㄷㅗ ㅇㅏㄴㅂㅗㅇㅕ[m
+[21:58:31] [Netty Server IO #5/INFO]: <namjo> ㄴㅓㄷㅗ ㅇㅕㄱㅣㅇㅗㅏㅅㅓ ㅂㅗㅏㅂㅗㅏ[m
+[21:58:36] [Netty Server IO #2/INFO]: <topology> ㅁㅜㅓㄴㅁㅏㄹㅇㅣㄴㅈㅣ ㅇㅏㄹㅇㅏ[m
+[21:58:37] [Netty Server IO #2/INFO]: <topology> ㅋ[m
+[21:58:42] [Netty Server IO #5/INFO]: <namjo> ㅇㅗㅐ[m
+[21:58:44] [Netty Server IO #5/INFO]: <namjo> ㅅㅗㄴㅡㄴ ㄷㅏ ㅂㅗㅇㅣㄱㅗ[m
+[21:58:46] [Netty Server IO #5/INFO]: <namjo> ㄷㅏㄹㄱㅇㅡㄴ...ㅈㅏㄱㅇㅏㅅㅓ?[m
+[21:59:11] [Netty Server IO #5/INFO]: <namjo> ㅈㅏㅈㅏ[m
+[22:08:07] [Netty Server IO #6/INFO]: <Time_origin> 음...[m
+[22:08:30] [Netty Server IO #6/INFO]: <Time_origin> 조명을 하려면 벽이 두꺼워야 되나?[m
+[22:09:59] [Netty Server IO #5/INFO]: <namjo> ㅈㅈ[m
+[22:10:19] [Netty Server IO #5/INFO]: <namjo> ㅇㅗㄱㅏㅁㅈㅏ[m
+[22:10:22] [Netty Server IO #5/INFO]: <namjo> ㅎㅐㄱ-ㅈㅗㄴㅁㅏㅅ[m
+[22:10:34] [Netty Server IO #6/INFO]: <Time_origin> ㅊㅊ[m
+[22:10:38] [Netty Server IO #2/INFO]: <topology> ㅊㅊ[m
+[22:11:18] [Netty Server IO #2/INFO]: <topology> ㅊㅏㅇㄱㅗㅇㅔ ㅇㅣㅆㄴㅡㄴㄱㅓ[m
+[22:11:20] [Netty Server IO #2/INFO]: <topology> ㅅㅡㄹㅅㅡㄹ ㅈㅣㅂㅇㅡㄹㅗ ㅇㅗㄹㅁㄱㅕㅇㅗㅈㅏ[m
+[22:11:22] [Netty Server IO #2/INFO]: <topology> ㄱㅏㄱㅣ ㄱㅜㅣㅊㅏㄴㅎㄷㅏ[m
+[22:11:36] [Netty Server IO #6/INFO]: <Time_origin> ㅇㅇ.[m
+[22:11:38] [Netty Server IO #6/INFO]: <Time_origin> ..[m
+[22:11:46] [Netty Server IO #2/INFO]: <topology> ㄴㅣㅁㄷㅡㄹ[m
+[22:11:51] [Netty Server IO #2/INFO]: <topology> ㅊㅏㅇㄱㅗㅇㅔ ㅇㅗㅏㅂㅗㅏㅇㅕ[m
+[22:11:54] [Netty Server IO #2/INFO]: <topology> ㅈㅐㅁㅣㅆㄴㅡㄴㄱㅓ ㅂㅗㅇㅕㄷㅡㄹㅣㅁ[m
+[22:12:22] [Netty Server IO #2/INFO]: <topology> ㄴㅏ ㅇㅜㅁㅈㅣㄱㅇㅣㄴㅡㄴㄱㅓ ㅁㅗㅅㅂㅗㅁ?[m
+[22:12:26] [Netty Server IO #2/INFO]: <topology> ㅈㅐㅁㅣㅆㄴㅡㄴㄱㅓ ㄲㅡㅌㄴㅏㅆㅇ[m
+[22:12:33] [Netty Server IO #5/INFO]: <namjo> ㅡㅡ[m
+[22:12:34] [Netty Server IO #6/INFO]: <Time_origin> ㅠㅠ[m
+[22:12:37] [Netty Server IO #6/INFO]: <Time_origin> 뛰어내렸는데[m
+[22:12:38] [Netty Server IO #2/INFO]: <topology> ㅠ[m
+[22:12:40] [Netty Server IO #2/INFO]: <topology> ㅈㅅㅈㅅ[m
+[22:12:41] [Netty Server IO #2/INFO]: <topology> ㄱㅗㄱㅣㅈㅜㄹㄱㅔ[m
+[22:13:11] [Netty Server IO #6/INFO]: <Time_origin> 참나무 목재가 5개만 었으면..[m
+[22:13:29] [Netty Server IO #6/INFO]: <Time_origin> 길러서 베야지[m
+[22:15:15] [Netty Server IO #6/INFO]: <Time_origin> 한그루에서 40개 나옴 ㄷㄷ[m
+[22:15:18] [Netty Server IO #6/INFO]: <Time_origin> 짱커[m
+[22:15:20] [Netty Server IO #2/INFO]: <topology> ㄷ[m
+[22:16:26] [Netty Server IO #6/INFO]: <Time_origin> 오 예[m
+[22:16:29] [Netty Server IO #6/INFO]: <Time_origin> ㅈ명 달았다[m
+[22:17:06] [Netty Server IO #2/INFO]: <topology> ㅇㅗㅏ[m
+[22:17:07] [Netty Server IO #2/INFO]: <topology> ㅇㅣㄱㅓ ㅇㅣㄴㅌㅓㅅㅡㅌㅔㄹㄹㅏㄴㅑ[m
+[22:17:13] [Netty Server IO #2/INFO]: <topology> ㅅㅜㄴㄱㄱㅏㄴㅇㅣㄷㅗㅇㅇㅡㄹ ㅁㅕㅊㅂㅓㄴㅇㅡㄹ ㅎㅏㄴㅡㄴㄱㅓㅇㅑ[m
+[22:17:17] [Netty Server IO #6/INFO]: <Time_origin> ㅋㅋㅋㅋㅋㅋㅋㅋㅋ[m
+[22:17:19] [Netty Server IO #2/INFO]: <topology> ㄴㅏㅁㅈㅗㅇㅑ[m
+[22:17:24] [Netty Server IO #2/INFO]: <topology> ㅋㅓㅁㅐㄴㄷㅡㅊㅏㅇㅈㅗㅁ ㅎㅗㅏㄱㅇㅣㄴㅎㅐㅂㅗㅏ[m
+[22:17:25] [Netty Server IO #6/INFO]: <Time_origin> 소 잡아야지[m
+[22:17:26] [Netty Server IO #2/INFO]: <topology> ㄴㅏ ㅈㅣㄱㅡㅁ ㅁㅣㅊㅕㅆㅇㅡㅁ[m
+[22:17:38] [Netty Server IO #5/INFO]: <namjo> ?[m
+[22:17:45] [Netty Server IO #2/INFO]: <topology> ㄴㅏ ㅈㅣㄱㅡㅁ[m
+[22:17:49] [Netty Server IO #2/INFO]: <topology> ㅎㅗㅏㅁㅕㄴㅇㅣ ㄱㅖㅅㅗㄱ ㅅㅜㄴㄱㅏㄴㅇㅣㄷㅗㅇㅎㅏㅁ[m
+[22:17:50] [Netty Server IO #6/INFO]: <Time_origin> 인간적으로 소 너무 많은거 아니냐;[m
+[22:17:53] [Netty Server IO #6/INFO]: <Time_origin> 300마리는 되겠네[m
+[22:17:57] [Netty Server IO #2/INFO]: <topology> ㅇㅜㄹㅣㄱㅏ ㅇㅓㄴㅈㅔㅂㅜㅌㅓ ㅇㅣㄴㄱㅏㄴㅈㅓㄱㅇㅣㅇㅓㅆㄷㅏㄱㅗ..[m
+[22:18:06] [Server thread/INFO]: topology lost connection: Disconnected
+[22:18:06] [Server thread/INFO]: topology left the game
+[22:18:08] [Server thread/INFO]: topology[/210.117.73.64:20456] logged in with entity id 549873 at ([world]76.31647426710695, 82.5477029800225, 249.34504605444351)
+[22:18:30] [Netty Server IO #6/INFO]: <Time_origin> 남조야 화염 약탈 칼 있니?[m
+[22:18:35] [Netty Server IO #5/INFO]: <namjo> ㅇㅑㄱㅌㅏㄹㅁㅏㄴ ㅇㅣㅆㅇㅡㅁ[m
+[22:18:38] [Netty Server IO #5/INFO]: <namjo> ㄴㅣ ㅎㅗㅏㅇㅕㅁㅇㅣㄹㅏㅇ ㅎㅏㅂㅊㅣㄷㅡㄴㄱㅏ[m
+[22:18:38] [Netty Server IO #6/INFO]: <Time_origin> 흠[m
+[22:20:56] [Netty Server IO #2/INFO]: <topology> ㅇㅏㄴㄴㅕㅇㅎㅏㅅㅔㅇㅛ ㄱㅣㅅㅜㄹㅈㅏㅇㅣㅂㄴㅣㄷㅏ[m
+[22:21:01] [Netty Server IO #2/INFO]: <topology> ㅁㅜㄴㅇㅡㅣㅈㅜㅅㅣㅁㅕㄴ[m
+[22:21:04] [Netty Server IO #2/INFO]: <topology> ㅈㅓㄴㄷㅡㅇㅇㅡㄹ ㄷㅏㄹㅇㅏㄷㅡㄹㅣㅂㄴㅣㄷㅏ[m
+[22:21:10] [Netty Server IO #5/INFO]: <namjo> ㅅㅈㅏㅈㅏ[m
+[22:21:12] [Netty Server IO #5/INFO]: <namjo> ㅈㅏㅈㅏㅈㅏㅈㅏㅈㅏ[m
+[22:21:16] [Netty Server IO #5/INFO]: <namjo> ㄴㅏ ㄸㅏㅇㅍㅏㄴㅡㄴㅈㅜㅇㅇㅣㅇㅑ[m
+[22:21:16] [Server thread/INFO]: Time_origin lost connection: Disconnected
+[22:21:16] [Server thread/INFO]: Time_origin left the game
+[22:21:37] [Server thread/INFO]: Time_origin[/110.76.126.190:52185] logged in with entity id 559634 at ([world]172.7856866795314, 66.0, 221.0060973910931)
+[22:21:41] [Netty Server IO #2/INFO]: <topology> ㅎㅕㄴㅇㅏ ㅎㅗㄱㅅㅣ ㄱㅣㅅㅜㄹㅈㅏㄱㅏ ㅍㅣㄹㅇㅛㅎㅏㄴㅣ[m
+[22:21:50] [Netty Server IO #5/INFO]: <Time_origin> 전등 아까 고민하다가[m
+[22:21:55] [Netty Server IO #5/INFO]: <Time_origin> 겨우 달는데 ㅠㅠ[m
+[22:21:59] [Netty Server IO #5/INFO]: <Time_origin> 바쁜거 같아서[m
+[22:22:00] [Netty Server IO #5/INFO]: <Time_origin> ㅠㅠ[m
+[22:22:06] [Netty Server IO #2/INFO]: <topology> ㅠㅠ[m
+[22:22:06] [Netty Server IO #5/INFO]: <Time_origin> 한번[m
+[22:22:10] [Netty Server IO #5/INFO]: <Time_origin> 확인해줄수 있니?[m
+[22:22:15] [Netty Server IO #5/INFO]: <Time_origin> 안예쁘게 돼있을거야[m
+[22:22:23] [Netty Server IO #2/INFO]: <topology> ㄷㄷㄷㄷ[m
+[22:22:26] [Netty Server IO #2/INFO]: <topology> ㅈㅓㄴㄷㅡㅇㄸㅓㄱㅊㅣㄹ[m
+[22:22:27] [Netty Server IO #2/INFO]: <topology> ㅋㅋㅋㅋㅋㅋ[m
+[22:22:34] [Netty Server IO #2/INFO]: <topology> ㄱㅡㄹㅐㄷㅗ[m
+[22:22:36] [Netty Server IO #2/INFO]: <topology> ㅈㅏㄹ ㄷㅏㄹㅇㅏㅆㄴㅔ[m
+[22:22:45] [Netty Server IO #2/INFO]: <topology> ㄹㅔㄷㅡㅅㅡㅌㅗㄴㅇㅣ ㅂㅗㅇㅣㄴㅡㄴㄱㅓㄴ[m
+[22:22:47] [Netty Server IO #2/INFO]: <topology> ㅇㅓㅉㅓㄹ ㅅㅜ ㅇㅓㅂㅅㅈㅣ[m
+[22:22:53] [Netty Server IO #5/INFO]: <Time_origin> 그렇군[m
+[22:23:41] [Netty Server IO #2/INFO]: <topology> ㄴㅣㅁㄷㅡㄹ ㅈㅣㄱㅡㅁ ㅁㅜㅓㅎㅏㅅㅔㅇㅕ[m
+[22:23:50] [Netty Server IO #5/INFO]: <Time_origin> 도축이요[m
+[22:23:59] [Netty Server IO #5/INFO]: <Time_origin> 도축왕 업적이 있었느면 방금 받았을듯[m
+[22:25:15] [Netty Server IO #5/INFO]: <Time_origin> 소고기 5셋이랑 가죽 5셋[m
+[22:25:21] [Netty Server IO #5/INFO]: <Time_origin> 가죽 4셋[m
+[22:25:29] [Netty Server IO #5/INFO]: <Time_origin> 그래도 아직 많아.. 세상에[m
+[22:25:35] [Netty Server IO #5/INFO]: <Time_origin> 누가보면 스스로 번식하는줄 알군[m
+[22:26:19] [Netty Server IO #5/INFO]: <Time_origin> 너네 방부터 창문 뚫을게[m
+[22:26:27] [Netty Server IO #5/INFO]: <Time_origin> 음?[m
+[22:26:30] [Netty Server IO #5/INFO]: <Time_origin> 창문이 돼있네[m
+[22:26:33] [Netty Server IO #2/INFO]: <topology> ㅎㅎ[m
+[22:26:34] [Netty Server IO #5/INFO]: <Time_origin> 여긴 패스[m
+[22:27:17] [Netty Server IO #5/INFO]: <Time_origin> 여긴.. 남조방인가?[m
+[22:27:20] [Netty Server IO #5/INFO]: <Time_origin> 아니면 복도?[m
+[22:27:26] [Netty Server IO #5/INFO]: <namjo> ㅂㅜㄴㅅㅜㄷㅐ ㅇㅣㅆㄴㅡㄴㄱㅔ ㄴㅐㅂㅏㅇ[m
+[22:27:27] [Netty Server IO #2/INFO]: <topology> ㅎㅁㅎ[m
+[22:27:36] [Netty Server IO #5/INFO]: <Time_origin> ....??[m
+[22:28:28] [Netty Server IO #2/INFO]: <topology> ㅇㅏ ㅇㅗㄱㅅㅏㅇ ㄴㅓㅁㅜ ㅁㅏㅇㅡㅁㅇㅔ ㄷㅡㄹㅇㅓ[m
+[22:28:31] [Netty Server IO #2/INFO]: <topology> ㄴㅓㄹㅉㅣㄱㅎㅐ[m
+[22:28:36] [Netty Server IO #5/INFO]: <Time_origin> ㅇㅇㅇㅇ[m
+[22:30:23] [Netty Server IO #5/INFO]: <Time_origin> 준형아[m
+[22:30:25] [Netty Server IO #2/INFO]: <topology> ㅎㅇ??[m
+[22:30:26] [Netty Server IO #5/INFO]: <Time_origin> 저 구름같은건 뭐야?[m
+[22:30:30] [Netty Server IO #2/INFO]: <topology> ㅇㅔㅇㅓㅋㅓㄴ[m
+[22:30:31] [Netty Server IO #2/INFO]: <topology> ㅠㅠ[m
+[22:30:33] [Netty Server IO #5/INFO]: <Time_origin> ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ[m
+[22:30:36] [Netty Server IO #5/INFO]: <namjo> ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ[m
+[22:30:51] [Netty Server IO #2/INFO]: <topology> ㅅㅣㅁㅜㄹㅜㄱ[m
+[22:31:26] [Netty Server IO #5/INFO]: <Time_origin> 밤돼서 조명을 보고싶군[m
+[22:31:34] [Netty Server IO #2/INFO]: <topology> ㅈㅗㅁㅕㅇㅇㅡㄹ ㅂㅗㄱㅗ ㅈㅏㅈㅏ[m
+[22:31:39] [Netty Server IO #5/INFO]: <Time_origin> 앗[m
+[22:31:44] [Netty Server IO #5/INFO]: <Time_origin> 명찰 달아네[m
+[22:31:47] [Netty Server IO #5/INFO]: <Time_origin> 고마워[m
+[22:31:49] [Netty Server IO #2/INFO]: <topology> ㅎㅎ[m
+[22:33:01] [Netty Server IO #5/INFO]: <Time_origin> 집 자체가 워낙 환해서[m
+[22:33:03] [Netty Server IO #5/INFO]: <Time_origin> 흠[m
+[22:33:31] [Netty Server IO #2/INFO]: <topology> ㄴㅐ ㅂㅏㅇㅇㅡㄴ[m
+[22:33:34] [Netty Server IO #5/INFO]: <Time_origin> 이정도면 괜찮네[m
+[22:33:35] [Netty Server IO #2/INFO]: <topology> ㅂㅜㄹ ㅇㅏㄴㅋㅕㅁㅕㄴ[m
+[22:33:37] [Netty Server IO #2/INFO]: <topology> ㄱㅜㅣㅅㅣㄴㄴㅏㅇㅗㄹㄱㅓㄱㅏㅌㅇㅡㅁ[m
+[22:33:46] [Netty Server IO #5/INFO]: <Time_origin> 아마 내 방 벽을 유리로 해서 그런듯[m
+[22:33:52] [Netty Server IO #5/INFO]: <Time_origin> gjf[m
+[22:33:55] [Netty Server IO #5/INFO]: <Time_origin> 헐[m
+[22:34:01] [Netty Server IO #2/INFO]: <topology> ㅇㅇ?[m
+[22:34:01] [Netty Server IO #5/INFO]: <Time_origin> t밤에 잘때 불 못끄네 그럼 ㅠㅠ[m
+[22:34:07] [Netty Server IO #2/INFO]: <topology> ㅋㅋㅋㅋㅋㅋㅋㅋ[m
+[22:34:09] [Netty Server IO #2/INFO]: <topology> ㄱㅑㅇ ㄲㅡㄱㅗ ㅈㅏㄹㄹㅐ[m
+[22:34:09] [Netty Server IO #5/INFO]: <Time_origin> 벽을 바꿔야할듯[m
+[22:34:13] [Netty Server IO #5/INFO]: <Time_origin> 자[m
+[22:34:23] [Netty Server IO #2/INFO]: <topology> ㅊㅜㅣㅊㅣㅁ~[m
+[22:34:49] [Netty Server IO #2/INFO]: <topology> ㅇㅗㄱㅅㅏㅇㅇㅔ ㄱㅓㅁㅣㅅㅐㅇㄱㅣㅁ[m
+[22:34:54] [Netty Server IO #5/INFO]: <Time_origin> ㅈㅅ[m
+[22:34:59] [Netty Server IO #2/INFO]: <topology> ㄱㅡㄹㅣㄱㅗ[m
+[22:35:00] [Netty Server IO #5/INFO]: <Time_origin> 내가 횃불 치워서 그런듯[m
+[22:35:04] [Netty Server IO #2/INFO]: <topology> ㅇㅕㄱㅣ ㅁㅜㄹㅇㅔ ㅂㅏㄷㅏㄱㅇㅣ ㄴㅏㅁㅜㅇㅣㄴㄷㅔ[m
+[22:35:07] [Netty Server IO #2/INFO]: <topology> ㅇㅣㄹㅐㄷㅗ ㄷㅗㅣㄴㅑㅋㅋㅋㅋㅋ[m
+[22:35:13] [Netty Server IO #5/INFO]: <Time_origin> ㅋㅋㅋㅋㅋ[m
+[22:35:17] [Netty Server IO #5/INFO]: <Time_origin> 안새니까 ㄱㅊ[m
+[22:35:49] [Netty Server IO #5/INFO]: <namjo> ㄷㅏㅇㅣㅇㅏ~[m
+[22:35:53] [Netty Server IO #2/INFO]: <topology> ㅊㅊ[m
+[22:37:03] [Netty Server IO #5/INFO]: <namjo> 2ㄱㅐ ㅋㅐㅆㄴㅡㄴㄷㅔ 5ㄱㅐ~~~~[m
+[22:38:17] [Netty Server IO #5/INFO]: <Time_origin> 뭐 어쨌든[m
+[22:38:22] [Netty Server IO #5/INFO]: <Time_origin> 다당[m
+[22:38:27] [Netty Server IO #5/INFO]: <Time_origin> 다됐당[m
+[22:38:32] [Netty Server IO #5/INFO]: <namjo> ㅈㅏㅈㅏㄴㅡㄴㅈㅜㄹ[m
+[22:38:40] [Netty Server IO #5/INFO]: <Time_origin> ㅇㅇ[m
+[22:38:52] [Netty Server IO #5/INFO]: <Time_origin> 진짜 실컷 했네 ㅋㅋㅋ[m
+[22:38:58] [Netty Server IO #2/INFO]: <topology> ㅎㅗㅇㅜ[m
+[22:39:10] [Netty Server IO #5/INFO]: <Time_origin> 너 눈 파란색[m
+[22:39:13] [Netty Server IO #2/INFO]: <topology> ㄴㅓㄷㅗ[m
+[22:39:18] [Netty Server IO #5/INFO]: <Time_origin> 글쿤[m
+[22:39:30] [Netty Server IO #5/INFO]: <Time_origin> ??[m
+[22:40:24] [Netty Server IO #5/INFO]: <Time_origin> ??[m
+[22:40:27] [Netty Server IO #5/INFO]: <Time_origin> 얘들아 잘자[m
+[22:40:29] [Netty Server IO #5/INFO]: <Time_origin> 나는 갈게[m
+[22:40:30] [Netty Server IO #5/INFO]: <namjo> ??[m
+[22:40:31] [Netty Server IO #5/INFO]: <namjo> ㅇㅎ..[m
+[22:40:47] [Netty Server IO #5/INFO]: <Time_origin> 안뇽[m
+[22:40:50] [Netty Server IO #5/INFO]: <namjo> ㅂㅂ~[m
+[22:40:53] [Server thread/INFO]: Time_origin lost connection: Disconnected
+[22:40:53] [Server thread/INFO]: Time_origin left the game
+[22:45:20] [Netty Server IO #2/INFO]: <topology> ㅎㅕㄴㅇㅣ ㅇㅓㄴㅈㅔㄴㅏㄱㅏㅁ[m
+[22:45:26] [Netty Server IO #2/INFO]: <topology> ㅈㅏㄹㅏ[m
+[22:45:49] [Netty Server IO #2/INFO]: <topology> ㅇㅑ[m
+[22:45:52] [Netty Server IO #2/INFO]: <topology> ㅇㅜㄹㅣㄷㅗ ㅇㅕㄱㅣㄲㅏㅈㅣ ㅎㅏㄹㄲㅏ[m
+[22:45:57] [Netty Server IO #5/INFO]: <namjo> ㅇㅋ[m
+[22:46:00] [Netty Server IO #2/INFO]: <topology> ㅂㅂ[m
+[22:46:06] [Server thread/INFO]: namjo lost connection: Disconnected
+[22:46:06] [Server thread/INFO]: namjo left the game
+[22:46:07] [Server thread/INFO]: topology lost connection: Disconnected
+[22:46:07] [Server thread/INFO]: topology left the game
+[22:46:12] [Server thread/INFO]: Stopping the server
+[22:46:12] [Server thread/INFO]: Stopping server
+[22:46:12] [Server thread/INFO]: Saving players
+[22:46:12] [Server thread/INFO]: Saving worlds
+[22:46:12] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[22:46:12] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[22:46:12] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
