@@ -1,0 +1,51 @@
+2016-12-27 21:44:33 [INFO] Starting minecraft server version 1.6.4
+2016-12-27 21:44:34 [INFO] Loading properties
+2016-12-27 21:44:34 [WARNING] server.properties does not exist
+2016-12-27 21:44:34 [INFO] Generating new properties file
+2016-12-27 21:44:34 [INFO] Default game type: SURVIVAL
+2016-12-27 21:44:34 [INFO] Generating keypair
+2016-12-27 21:44:34 [INFO] Starting Minecraft server on *:25565
+2016-12-27 21:44:35 [WARNING] Failed to load operators list: java.io.FileNotFoundException: ./ops.txt (No such file or directory)
+2016-12-27 21:44:35 [WARNING] Failed to load white-list: java.io.FileNotFoundException: ./white-list.txt (No such file or directory)
+2016-12-27 21:44:35 [INFO] Preparing level "world"
+2016-12-27 21:44:36 [INFO] Preparing start region for level 0
+2016-12-27 21:44:37 [INFO] Preparing spawn area: 6%
+2016-12-27 21:44:38 [INFO] Preparing spawn area: 14%
+2016-12-27 21:44:39 [INFO] Preparing spawn area: 22%
+2016-12-27 21:44:40 [INFO] Preparing spawn area: 30%
+2016-12-27 21:44:41 [INFO] Preparing spawn area: 39%
+2016-12-27 21:44:42 [INFO] Preparing spawn area: 48%
+2016-12-27 21:44:43 [INFO] Preparing spawn area: 57%
+2016-12-27 21:44:44 [INFO] Preparing spawn area: 67%
+2016-12-27 21:44:45 [INFO] Preparing spawn area: 78%
+2016-12-27 21:44:46 [INFO] Preparing spawn area: 83%
+2016-12-27 21:44:47 [INFO] Preparing spawn area: 87%
+2016-12-27 21:44:48 [INFO] Preparing spawn area: 93%
+2016-12-27 21:44:49 [INFO] Preparing spawn area: 97%
+2016-12-27 21:44:49 [INFO] Done (14.247s)! For help, type "help" or "?"
+2016-12-27 21:44:59 [INFO] Stopping the server
+2016-12-27 21:44:59 [INFO] Stopping server
+2016-12-27 21:44:59 [INFO] Saving players
+2016-12-27 21:44:59 [INFO] Saving worlds
+2016-12-27 21:44:59 [INFO] Saving chunks for level 'world'/Overworld
+2016-12-27 21:44:59 [INFO] Closing listening thread
+2016-12-27 21:45:04 [INFO] Saving chunks for level 'world'/Nether
+2016-12-27 21:45:04 [INFO] Saving chunks for level 'world'/The End
+2016-12-27 21:45:07 [INFO] Stopping server
+2016-12-27 21:46:38 [INFO] Starting minecraft server version 1.6.4
+2016-12-27 21:46:39 [INFO] Loading properties
+2016-12-27 21:46:39 [INFO] Default game type: SURVIVAL
+2016-12-27 21:46:39 [INFO] Generating keypair
+2016-12-27 21:46:40 [INFO] Starting Minecraft server on *:25565
+2016-12-27 21:46:40 [INFO] Preparing level "world"
+2016-12-27 21:46:41 [INFO] Preparing start region for level 0
+2016-12-27 21:46:42 [INFO] Preparing spawn area: 92%
+2016-12-27 21:46:42 [INFO] Done (1.846s)! For help, type "help" or "?"
+2016-12-27 21:46:48 [INFO] Stopping the server
+2016-12-27 21:46:48 [INFO] Stopping server
+2016-12-27 21:46:48 [INFO] Saving players
+2016-12-27 21:46:48 [INFO] Saving worlds
+2016-12-27 21:46:48 [INFO] Saving chunks for level 'world'/Overworld
+2016-12-27 21:46:48 [INFO] Closing listening thread
+2016-12-27 21:46:48 [INFO] Saving chunks for level 'world'/Nether
+2016-12-27 21:46:48 [INFO] Saving chunks for level 'world'/The End

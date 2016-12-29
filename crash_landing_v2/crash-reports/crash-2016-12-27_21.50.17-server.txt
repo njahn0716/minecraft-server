@@ -1,0 +1,74 @@
+---- Minecraft Crash Report ----
+// Everything's going to plan. No, really, that was supposed to happen.
+
+Time: 12/27/16 9:50 PM
+Description: Exception in server tick loop
+
+cpw.mods.fml.common.MissingModsException
+	at cpw.mods.fml.common.Loader.sortModList(Loader.java:228)
+	at cpw.mods.fml.common.Loader.loadMods(Loader.java:491)
+	at cpw.mods.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:99)
+	at cpw.mods.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:350)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:69)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:445)
+	at net.minecraft.server.ThreadMinecraftServer.run(SourceFile:583)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.6.4
+	Operating System: Mac OS X (x86_64) version 10.12.1
+	Java Version: 1.7.0_80, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 842873904 bytes (803 MB) / 1029701632 bytes (982 MB) up to 1908932608 bytes (1820 MB)
+	JVM Flags: 2 total; -Xmx2048M -Xms1024M
+	AABB Pool Size: 0 (0 bytes; 0 MB) allocated, 0 (0 bytes; 0 MB) used
+	Suspicious classes: FML and Forge are installed
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP v8.11 FML v6.4.50.1,345 Minecraft Forge 9.11.1.1345 40 mods loaded, 40 mods active
+	mcp{8.09} [Minecraft Coder Pack] (minecraft.jar) Unloaded
+	FML{6.4.50.1,345} [Forge Mod Loader] (forge-1.6.4-9.11.1.1345-universal.jar) Unloaded
+	Forge{9.11.1.1345} [Minecraft Forge] (forge-1.6.4-9.11.1.1345-universal.jar) Unloaded
+	OpenModsCore{@VERSION@} [OpenModsCore] (minecraft.jar) Unloaded
+	Autoutils{1.0.1} [Autoutils] (autoutils-1.6.4-1.0.1.jar) Unloaded
+	BigReactors{0.3.4A2} [Big Reactors] (BigReactors-0.3.4A2.jar) Unloaded
+	Chisel{1.5.2} [Chisel] (chisel-1.6.4-1.5.2.jar) Unloaded
+	ConfigMod{v1.0} [Extended Mod Config] (ConfigMod for MC v1.6.4.zip) Unloaded
+	CoroAI{v1.0} [CoroAI] (CoroUtil for MC v1.6.4.zip) Unloaded
+	crowley.skyblock{1.29e} [Ex Nihilo] (crowley-skyblock-v1.29e.jar) Unloaded
+	CustomChestLoot{1.1} [Custom Chest Loot] (CustomChestLoot 1.1 for MC 1.6.2.zip) Unloaded
+	EnviroMine{1.1.89} [EnviroMine] (EnviroMine-v1.1.89.jar) Unloaded
+	extracells{1.6.9d} [ExtraCells] (ExtraCells-1.6.9d.jar) Unloaded
+	ExtraUtilities{1.0.3c} [Extra Utilities] (extrautils-1.0.3c.zip) Unloaded
+	CARuins{0.1.4} [Cellular Automata Generator] (Generator_mods_0.1.4(1.6.X).zip) Unloaded
+	GreatWallMod{0.1.4} [Great Wall Mod] (Generator_mods_0.1.4(1.6.X).zip) Unloaded
+	WalledCityMod{0.1.4} [Walled City Generator] (Generator_mods_0.1.4(1.6.X).zip) Unloaded
+	HungerOverhaul{1.6.X-2l} [Hunger Overhaul] (hungeroverhaul-1.6.X-2l-build4.zip) Unloaded
+	inventorytweaks{1.56} [Inventory Tweaks] (InventoryTweaks-MC1.6.2-1.56-b77.jar) Unloaded
+	IronChest{5.4.1.702} [Iron Chest] (ironchest-universal-1.6.4-5.4.1.702.zip) Unloaded
+	launchgui{1.3} [LaunchGUI] (launchgui-1.6.4-1.3.jar) Unloaded
+	Lockdown{1.0.0} [Lockdown] (Lockdown-universal-1.6.4-1.0.0.0.jar) Unloaded
+	NEIPlugins{1.1.0.6} [NEI Plugins] (NEIPlugins-1.1.0.6.jar) Unloaded
+	notenoughkeys{0.0.4} [Not Enough Keys] (NotEnoughKeys-1.6.4-0.0.4.jar) Unloaded
+	OpenBlocks{1.2.8} [OpenBlocks] (OpenBlocks-1.2.8.jar) Unloaded
+	OpenMods{0.5} [OpenMods] (OpenModsLib-0.5.jar) Unloaded
+	pamharvestcraft{1.0} [Pam's HarvestCraft Base] (Pam's HarvestCraft 1.6.4 v1.1.4.zip) Unloaded
+	PneumaticCraft{1.1.4e} [PneumaticCraft] (PneumaticCraft 1.1.4f.zip) Unloaded
+	Redstone Arsenal{1.0.0.0} [Redstone Arsenal] (RedstoneArsenal-1.0.0.0.jar) Unloaded
+	AS_Ruins{11.0} [Ruins Spawning System] (Ruins_1.6.4.zip) Unloaded
+	SpecialMobs{3.0} [Special Mobs] (SpecialMobs 3.0 for MC 1.6.2.zip) Unloaded
+	StevesDrought{4} [Steve's Drought] (Steve's Drought 4.zip) Unloaded
+	StevesFactoryManager{A83} [Steve's Factory Manager] (StevesFactoryManagerA83.zip) Unloaded
+	IguanaTweaksTConstruct{1.6.X-1.0.3)} [TiC Tweaks] (tictweaks-1.6.4-1.0.3.jar) Unloaded
+	AS_UpdateCheck{1.1.1} [AtomicStryker Update Check Mod] (UpdateCheckerMod_1.6.4.zip) Unloaded
+	mod_ZanMinimap{Not available} [mod_ZanMinimap] (ZansMinimap1.6.4.zip) Unloaded
+	MineTweaker{1.6.4-2.1.2} [MineTweaker] (zMineTweaker-1.6.4-2.3.1.jar) Unloaded
+	ForgeMicroblock{1.0.0.219} [Forge Microblocks] (ForgeMultipart-universal-1.6.4-1.0.0.219.jar) Unloaded
+	ForgeMultipart{1.0.0.219} [Forge Multipart] (ForgeMultipart-universal-1.6.4-1.0.0.219.jar) Unloaded
+	McMultipart{1.0.0.219} [Minecraft Multipart Plugin] (ForgeMultipart-universal-1.6.4-1.0.0.219.jar) Unloaded
+	Profiler Position: N/A (disabled)
+	Is Modded: Definitely; Server brand changed to 'fml,forge'
+	Type: Dedicated Server (map_server.txt)

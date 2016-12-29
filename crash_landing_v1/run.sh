@@ -1,0 +1,1 @@
+java -Xmx2048M -Xms1024M -jar forge-1.6.4-9.11.1.1345-universal.jar nogui

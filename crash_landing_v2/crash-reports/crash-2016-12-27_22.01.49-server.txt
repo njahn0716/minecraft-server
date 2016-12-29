@@ -1,0 +1,116 @@
+---- Minecraft Crash Report ----
+// My bad.
+
+Time: 12/27/16 10:01 PM
+Description: Exception in server tick loop
+
+java.lang.NoClassDefFoundError: net/minecraft/client/renderer/EntityRenderer
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:278)
+	at cpw.mods.fml.common.ModClassLoader.loadBaseModClass(ModClassLoader.java:104)
+	at cpw.mods.fml.common.modloader.ModLoaderModContainer.constructMod(ModLoaderModContainer.java:484)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:313)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:201)
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:181)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:313)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:112)
+	at cpw.mods.fml.common.Loader.loadMods(Loader.java:511)
+	at cpw.mods.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:99)
+	at cpw.mods.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:350)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:69)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:445)
+	at net.minecraft.server.ThreadMinecraftServer.run(SourceFile:583)
+Caused by: java.lang.ClassNotFoundException: net.minecraft.client.renderer.EntityRenderer
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:186)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:425)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:358)
+	... 31 more
+Caused by: java.lang.RuntimeException: Attempted to load class bfe for invalid side SERVER
+	at cpw.mods.fml.common.asm.transformers.SideTransformer.transform(SideTransformer.java:50)
+	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:274)
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:172)
+	... 33 more
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.6.4
+	Operating System: Mac OS X (x86_64) version 10.12.1
+	Java Version: 1.7.0_80, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 754115496 bytes (719 MB) / 1029701632 bytes (982 MB) up to 1908932608 bytes (1820 MB)
+	JVM Flags: 2 total; -Xmx2048M -Xms1024M
+	AABB Pool Size: 0 (0 bytes; 0 MB) allocated, 0 (0 bytes; 0 MB) used
+	Suspicious classes: FML and Forge are installed
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP v8.11 FML v6.4.50.1,345 Minecraft Forge 9.11.1.1345 48 mods loaded, 48 mods active
+	mcp{8.09} [Minecraft Coder Pack] (minecraft.jar) Unloaded->Constructed
+	FML{6.4.50.1,345} [Forge Mod Loader] (forge-1.6.4-9.11.1.1345-universal.jar) Unloaded->Constructed
+	Forge{9.11.1.1345} [Minecraft Forge] (forge-1.6.4-9.11.1.1345-universal.jar) Unloaded->Constructed
+	AppliedEnergistics-Core{rv13.c} [AppliedEnergistics Core] (minecraft.jar) Unloaded->Constructed
+	OpenModsCore{@VERSION@} [OpenModsCore] (minecraft.jar) Unloaded->Constructed
+	AppliedEnergistics{rv13.c} [Applied Energistics] (AppliedEnergisticsMod1.6.4.jar) Unloaded->Constructed
+	Autoutils{1.0.1} [Autoutils] (autoutils-1.6.4-1.0.1.jar) Unloaded->Constructed
+	BigReactors{0.3.4A2} [Big Reactors] (BigReactors-0.3.4A2.jar) Unloaded->Constructed
+	Chisel{1.5.2} [Chisel] (chisel-1.6.4-1.5.2.jar) Unloaded->Constructed
+	CoFHCore{2.0.0.5} [CoFH Core] (CoFHCore-2.0.0.5.jar) Unloaded->Constructed
+	CoFHLoot{2.0.0.5} [CoFH Loot] (CoFHCore-2.0.0.5.jar) Unloaded->Constructed
+	CoFHMasquerade{2.0.0.5} [CoFH Masquerade] (CoFHCore-2.0.0.5.jar) Unloaded->Constructed
+	CoFHSocial{2.0.0.5} [CoFH Social] (CoFHCore-2.0.0.5.jar) Unloaded->Constructed
+	CoFHWorld{2.0.0.5} [CoFH World] (CoFHCore-2.0.0.5.jar) Unloaded->Constructed
+	ConfigMod{v1.0} [Extended Mod Config] (ConfigMod for MC v1.6.4.zip) Unloaded->Constructed
+	CoroAI{v1.0} [CoroAI] (CoroUtil for MC v1.6.4.zip) Unloaded->Constructed
+	crowley.skyblock{1.29e} [Ex Nihilo] (crowley-skyblock-v1.29e.jar) Unloaded->Constructed
+	CustomChestLoot{1.1} [Custom Chest Loot] (CustomChestLoot 1.1 for MC 1.6.2.zip) Unloaded->Constructed
+	EnviroMine{1.1.89} [EnviroMine] (EnviroMine-v1.1.89.jar) Unloaded->Constructed
+	extracells{1.6.9d} [ExtraCells] (ExtraCells-1.6.9d.jar) Unloaded->Constructed
+	ExtraUtilities{1.0.3c} [Extra Utilities] (extrautils-1.0.3c.zip) Unloaded->Constructed
+	CARuins{0.1.4} [Cellular Automata Generator] (Generator_mods_0.1.4(1.6.X).zip) Unloaded->Constructed
+	GreatWallMod{0.1.4} [Great Wall Mod] (Generator_mods_0.1.4(1.6.X).zip) Unloaded->Constructed
+	WalledCityMod{0.1.4} [Walled City Generator] (Generator_mods_0.1.4(1.6.X).zip) Unloaded->Constructed
+	pamharvestcraft{1.0} [Pam's HarvestCraft Base] (Pam's HarvestCraft 1.6.4 v1.1.4.zip) Unloaded->Constructed
+	TConstruct{1.6.4_1.4.6d1} [Tinkers' Construct] (TConstructMod1.6.4.jar) Unloaded->Constructed
+	HungerOverhaul{1.6.X-2l} [Hunger Overhaul] (hungeroverhaul-1.6.X-2l-build4.zip) Unloaded->Constructed
+	inventorytweaks{1.56} [Inventory Tweaks] (InventoryTweaks-MC1.6.2-1.56-b77.jar) Unloaded->Constructed
+	IronChest{5.4.1.702} [Iron Chest] (ironchest-universal-1.6.4-5.4.1.702.zip) Unloaded->Constructed
+	launchgui{1.3} [LaunchGUI] (launchgui-1.6.4-1.3.jar) Unloaded->Constructed
+	Lockdown{1.0.0} [Lockdown] (Lockdown-universal-1.6.4-1.0.0.0.jar) Unloaded->Constructed
+	notenoughkeys{0.0.4} [Not Enough Keys] (NotEnoughKeys-1.6.4-0.0.4.jar) Unloaded->Constructed
+	OpenMods{0.5} [OpenMods] (OpenModsLib-0.5.jar) Unloaded->Constructed
+	OpenBlocks{1.2.8} [OpenBlocks] (OpenBlocks-1.2.8.jar) Unloaded->Constructed
+	PneumaticCraft{1.1.4e} [PneumaticCraft] (PneumaticCraft 1.1.4f.zip) Unloaded->Constructed
+	Redstone Arsenal{1.0.0.0} [Redstone Arsenal] (RedstoneArsenal-1.0.0.0.jar) Unloaded->Constructed
+	AS_Ruins{11.0} [Ruins Spawning System] (Ruins_1.6.4.zip) Unloaded->Constructed
+	SpecialMobs{3.0} [Special Mobs] (SpecialMobs 3.0 for MC 1.6.2.zip) Unloaded->Constructed
+	StevesDrought{4} [Steve's Drought] (Steve's Drought 4.zip) Unloaded->Constructed
+	StevesFactoryManager{A83} [Steve's Factory Manager] (StevesFactoryManagerA83.zip) Unloaded->Constructed
+	TConstruct|CompatMineFactoryReloaded{0.1} [TConstruct Compat: MFR] (TConstructMod1.6.4.jar) Unloaded->Constructed
+	AS_UpdateCheck{1.1.1} [AtomicStryker Update Check Mod] (UpdateCheckerMod_1.6.4.zip) Unloaded->Constructed
+	mod_ZanMinimap{Not available} [mod_ZanMinimap] (ZansMinimap1.6.4.zip) Unloaded
+	MineTweaker{1.6.4-2.1.2} [MineTweaker] (zMineTweaker-1.6.4-2.3.1.jar) Unloaded
+	ForgeMultipart{1.0.0.219} [Forge Multipart] (ForgeMultipart-universal-1.6.4-1.0.0.219.jar) Unloaded
+	McMultipart{1.0.0.219} [Minecraft Multipart Plugin] (ForgeMultipart-universal-1.6.4-1.0.0.219.jar) Unloaded
+	IguanaTweaksTConstruct{1.6.X-1.0.3)} [TiC Tweaks] (tictweaks-1.6.4-1.0.3.jar) Unloaded
+	ForgeMicroblock{1.0.0.219} [Forge Microblocks] (ForgeMultipart-universal-1.6.4-1.0.0.219.jar) Unloaded
+	Profiler Position: N/A (disabled)
+	Is Modded: Definitely; Server brand changed to 'fml,forge'
+	Type: Dedicated Server (map_server.txt)

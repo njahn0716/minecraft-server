@@ -1,0 +1,28 @@
+[14:46:46] [Server thread/INFO]: Starting minecraft server version 1.10.2
+[14:46:46] [Server thread/INFO]: Loading properties
+[14:46:47] [Server thread/INFO]: Default game type: SURVIVAL
+[14:46:47] [Server thread/INFO]: Generating keypair
+[14:46:47] [Server thread/INFO]: Starting Minecraft server on 192.168.1.101:25565
+[14:46:47] [Server thread/INFO]: Using default channel type
+[14:46:47] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-5e5cf84 (MC: 1.10.2) (Implementing API version 1.10.2-R0.1-SNAPSHOT)
+[14:46:47] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:46:47] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:46:47] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:46:47] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:46:47] [Server thread/INFO]: Preparing level "world"
+[14:46:48] [Server thread/INFO]: Preparing start region for level 0 (Seed: -7483109810664706926)
+[14:46:49] [Server thread/INFO]: Preparing spawn area: 0%
+[14:46:50] [Server thread/INFO]: Preparing spawn area: 40%
+[14:46:51] [Server thread/INFO]: Preparing spawn area: 87%
+[14:46:51] [Server thread/INFO]: Preparing start region for level 1 (Seed: -7479225177850631590)
+[14:46:52] [Server thread/INFO]: Preparing spawn area: 83%
+[14:46:52] [Server thread/INFO]: Preparing start region for level 2 (Seed: -7479225177850631590)
+[14:46:52] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:46:52] [Server thread/INFO]: Done (5.221s)! For help, type "help" or "?"
+[15:07:46] [Server thread/INFO]: Stopping the server
+[15:07:46] [Server thread/INFO]: Stopping server
+[15:07:46] [Server thread/INFO]: Saving players
+[15:07:46] [Server thread/INFO]: Saving worlds
+[15:07:46] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[15:07:47] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[15:07:47] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End

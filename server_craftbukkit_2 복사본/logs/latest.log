@@ -1,0 +1,10 @@
+[14:45:25] [Server thread/INFO]: Starting minecraft server version 1.10.2
+[14:45:25] [Server thread/INFO]: Loading properties
+[14:45:25] [Server thread/INFO]: Default game type: SURVIVAL
+[14:45:25] [Server thread/INFO]: Generating keypair
+[14:45:25] [Server thread/INFO]: Starting Minecraft server on 192.168.0.6:25565
+[14:45:25] [Server thread/INFO]: Using default channel type
+[14:45:25] [Server thread/WARN]: **** FAILED TO BIND TO PORT!
+[14:45:25] [Server thread/WARN]: The exception was: java.net.BindException: Can't assign requested address
+[14:45:25] [Server thread/WARN]: Perhaps a server is already running on that port?
+[14:45:25] [Server thread/INFO]: Stopping server

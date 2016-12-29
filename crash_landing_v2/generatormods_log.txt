@@ -1,0 +1,366 @@
+Getting global options for CARuins ...
+Probability of ruin generation attempt per chunk explored is 0.0, with 1 tries per chunk.
+Getting global options for GreatWallMod ...
+
+Loading building subfolder in /Users/NamjoAhn/Documents/mine_1.10/crash_landing_v2/config/generatormods/greatwall\buildings...
+
+Loading wall styles from directory /Users/NamjoAhn/Documents/mine_1.10/crash_landing_v2/config/generatormods/greatwall...
+There was a problem loading the great wall mod: Did not find any valid wall styles!
+Getting global options for WalledCityMod ...
+
+Loading building subfolder in /Users/NamjoAhn/Documents/mine_1.10/crash_landing_v2/config/generatormods/walledcity\buildings...
+
+Loading wall styles from directory /Users/NamjoAhn/Documents/mine_1.10/crash_landing_v2/config/generatormods/walledcity...
+
+Error loading wall style 10DeepCommercial.tml
+Error reading rule: BlockID 3134 not registered!
+
+Error loading wall style 10DeepIndustrial.tml
+Error reading rule: BlockID 3134 not registered!
+
+Error loading wall style 10DeepResidential.tml
+Error reading rule: BlockID 3134 not registered!
+
+Error loading wall style 4Deepcommercial .tml
+Error reading rule: BlockID 3134 not registered!
+
+Error loading wall style 4DeepIndustrial.tml
+Error reading rule: BlockID 3134 not registered!
+
+Error loading wall style 4DeepResidential.tml
+Error reading rule: BlockID 3134 not registered!
+Successfully loaded template Town.tml with weight 45.
+Warning, named checklist item not found:Ocean. Line:biomes=Desert,Ocean, Frozen Ocean, Dust Planet
+Warning, named checklist item not found: Frozen Ocean. Line:biomes=Desert,Ocean, Frozen Ocean, Dust Planet
+
+Loading streets subfolder in /Users/NamjoAhn/Documents/mine_1.10/crash_landing_v2/config/generatormods/walledcity/streets...
+
+Loading building subfolder in /Users/NamjoAhn/Documents/mine_1.10/crash_landing_v2/config/generatormods/walledcity/streets\buildings...
+
+There was a problem loading the .tml file aptI10.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file aptI4.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file aptID10.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file aptID4.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file aptR10.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file aptR4.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file aptRD10.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file aptRD4.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file diner10C.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file diner10CD.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file diner10R.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file diner10RD.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file diner4C.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file diner4CD.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file diner4R.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file diner4RD.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file gov10C.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file gov10CD.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file gov10DR.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file gov10R.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file gov4C.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file gov4CD.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file gov4DR.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file gov4R.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file hi rise 10C.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file hi rise 10CD.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file hi rise 10DR.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file hi rise 10R.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file hi rise4C.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file hi rise4CD.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file hi rise4DR.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file hi rise4R.tml
+Error reading rule: BlockID 3134 not registered!
+Successfully loaded template loot.tml with weight 1.
+
+There was a problem loading the .tml file pneumatic 10I.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file pneumatic 10ID.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file pneumatic 4I.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file pneumatic 4ID.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file power 10I.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file power 10ID.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file power 4I.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file power 4ID.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file rnd office 10C.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file rnd office 10CD.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file rnd office 10DR.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file rnd office 10R.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file rnd office4C.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file rnd office4CD.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file rnd office4DR.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file rnd office4R.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file sqr office 10C.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file sqr office 10CD.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file sqr office 10DR.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file sqr office 10R.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file sqr office4C.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file sqr office4CD.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file sqr office4DR.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file sqr office4I.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file sqr office4ID.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file sqr office4R.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file store 10C.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file store 10CD.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file store 10DR.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file store 10R.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file store4C.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file store4CD.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file store4R.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file store4RD.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file subway 10C.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file subway 10CD.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file subway 10DI.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file subway 10DR.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file subway 10I.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file subway 10R.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file subway4C.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file subway4CD.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file subway4DR.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file subway4I.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file subway4ID.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file subway4R.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file tcon 10C.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file tcon 10CD.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file tcon 10I.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file tcon 10ID.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file tcon10DR.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file tcon10R.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file tcon4C.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file tcon4CD.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file tcon4DR.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file tcon4I.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file tcon4ID.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file tcon4R.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file Town apt.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file Town gas.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file Town house.tml
+Error reading rule: BlockID 2291 not registered!
+
+There was a problem loading the .tml file Town movies.tml
+Error reading rule: BlockID 2291 not registered!
+
+There was a problem loading the .tml file Town office.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file warehouse10I.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file warehouse10ID.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file warehouse4I.tml
+Error reading rule: BlockID 3134 not registered!
+
+There was a problem loading the .tml file warehouse4ID.tml
+Error reading rule: BlockID 3134 not registered!
+
+Loading wall styles from directory /Users/NamjoAhn/Documents/mine_1.10/crash_landing_v2/config/generatormods/walledcity/streets...
+
+Error loading wall style 10DeepCommercialStreet.tml
+Error reading rule: BlockID 3134 not registered!
+
+Error loading wall style 10DeepIndustrialStreet.tml
+Error reading rule: BlockID 3134 not registered!
+
+Error loading wall style 10DeepResidentialStreet.tml
+Error reading rule: BlockID 3134 not registered!
+
+Error loading wall style 4DeepCommercialStreet.tml
+Error reading rule: BlockID 3134 not registered!
+
+Error loading wall style 4DeepIndustrialStreet.tml
+Error reading rule: BlockID 3134 not registered!
+
+Error loading wall style 4DeepResidentialStreet.tml
+Error reading rule: BlockID 3134 not registered!
+
+Error loading wall style Loot.tml
+Error reading rule: BlockID 3134 not registered!
+
+Error loading wall style TownStreet.tml
+Error reading rule: BlockID 3134 not registered!
+No street folder for streetsjava.lang.Exception: Did not find any valid wall styles!
+
+No valid street styles for Town.tml. Disabling this city style.
+There was a problem loading the walled city mod: Did not find any valid city styles that had street styles!
